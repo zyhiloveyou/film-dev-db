@@ -1,0 +1,94 @@
+film,developer,iso,temp_c,agitation,time_min
+Kodak Tri-X 400,T-MAX,400,18,inversion 30s,6.75
+Kodak Tri-X 400,T-MAX,400,20,inversion 30s,6
+Kodak Tri-X 400,T-MAX,400,21,inversion 30s,5.5
+Kodak Tri-X 400,T-MAX,400,22,inversion 30s,4.75
+Kodak Tri-X 400,T-MAX RS,400,18,inversion 30s,4.75
+Kodak Tri-X 400,T-MAX RS,400,20,inversion 30s,4.5
+Kodak Tri-X 400,T-MAX RS,400,21,inversion 30s,4.25
+Kodak Tri-X 400,T-MAX RS,400,22,inversion 30s,4
+Kodak Tri-X 400,T-MAX RS,400,24,inversion 30s,3.5
+Kodak Tri-X 400,T-MAX RS,400,18,large-tank 60s,5.5
+Kodak Tri-X 400,T-MAX RS,400,20,large-tank 60s,5
+Kodak Tri-X 400,T-MAX RS,400,21,large-tank 60s,4.75
+Kodak Tri-X 400,T-MAX RS,400,22,large-tank 60s,4.5
+Kodak Tri-X 400,T-MAX RS,400,24,large-tank 60s,4
+Kodak Tri-X 400,HC-110 (Dil B),400,18,inversion 30s,4.5
+Kodak Tri-X 400,HC-110 (Dil B),400,20,inversion 30s,3.75
+Kodak Tri-X 400,HC-110 (Dil B),400,21,inversion 30s,3.5
+Kodak Tri-X 400,HC-110 (Dil B),400,22,inversion 30s,3
+Kodak Tri-X 400,HC-110 (Dil B),400,24,inversion 30s,2.5
+Kodak Tri-X 400,HC-110 (Dil B),400,18,large-tank 60s,5
+Kodak Tri-X 400,HC-110 (Dil B),400,20,large-tank 60s,4.5
+Kodak Tri-X 400,HC-110 (Dil B),400,21,large-tank 60s,4
+Kodak Tri-X 400,HC-110 (Dil B),400,22,large-tank 60s,3.5
+Kodak Tri-X 400,HC-110 (Dil B),400,24,large-tank 60s,3
+Kodak Tri-X 400,D-76,400,18,inversion 30s,8
+Kodak Tri-X 400,D-76,400,20,inversion 30s,6.75
+Kodak Tri-X 400,D-76,400,21,inversion 30s,6.25
+Kodak Tri-X 400,D-76,400,22,inversion 30s,5.5
+Kodak Tri-X 400,D-76,400,24,inversion 30s,4.75
+Kodak Tri-X 400,D-76,400,18,large-tank 60s,9.25
+Kodak Tri-X 400,D-76,400,20,large-tank 60s,7.75
+Kodak Tri-X 400,D-76,400,21,large-tank 60s,7
+Kodak Tri-X 400,D-76,400,22,large-tank 60s,6.5
+Kodak Tri-X 400,D-76,400,24,large-tank 60s,5.5
+Kodak Tri-X 400,D-76 (1:1),400,18,inversion 30s,10.75
+Kodak Tri-X 400,D-76 (1:1),400,20,inversion 30s,9.75
+Kodak Tri-X 400,D-76 (1:1),400,21,inversion 30s,9
+Kodak Tri-X 400,D-76 (1:1),400,22,inversion 30s,8.5
+Kodak Tri-X 400,D-76 (1:1),400,24,inversion 30s,7.75
+Kodak Tri-X 400,D-76 (1:1),400,18,large-tank 60s,12.25
+Kodak Tri-X 400,D-76 (1:1),400,20,large-tank 60s,11
+Kodak Tri-X 400,D-76 (1:1),400,21,large-tank 60s,10.5
+Kodak Tri-X 400,D-76 (1:1),400,22,large-tank 60s,9.75
+Kodak Tri-X 400,D-76 (1:1),400,24,large-tank 60s,8.75
+Kodak Tri-X 400,XTOL,400,18,inversion 30s,8
+Kodak Tri-X 400,XTOL,400,20,inversion 30s,7
+Kodak Tri-X 400,XTOL,400,21,inversion 30s,6.25
+Kodak Tri-X 400,XTOL,400,22,inversion 30s,5.75
+Kodak Tri-X 400,XTOL,400,24,inversion 30s,4.75
+Kodak Tri-X 400,XTOL,400,18,large-tank 60s,9.25
+Kodak Tri-X 400,XTOL,400,20,large-tank 60s,8
+Kodak Tri-X 400,XTOL,400,21,large-tank 60s,7.25
+Kodak Tri-X 400,XTOL,400,22,large-tank 60s,6.5
+Kodak Tri-X 400,XTOL,400,24,large-tank 60s,5.5
+Kodak Tri-X 400,XTOL (1:1),400,18,inversion 30s,10
+Kodak Tri-X 400,XTOL (1:1),400,20,inversion 30s,9
+Kodak Tri-X 400,XTOL (1:1),400,21,inversion 30s,8.5
+Kodak Tri-X 400,XTOL (1:1),400,22,inversion 30s,8
+Kodak Tri-X 400,XTOL (1:1),400,24,inversion 30s,7.25
+Kodak Tri-X 400,XTOL (1:1),400,18,large-tank 60s,11.5
+Kodak Tri-X 400,XTOL (1:1),400,20,large-tank 60s,10.5
+Kodak Tri-X 400,XTOL (1:1),400,21,large-tank 60s,9.75
+Kodak Tri-X 400,XTOL (1:1),400,22,large-tank 60s,9.25
+Kodak Tri-X 400,XTOL (1:1),400,24,large-tank 60s,8.25
+Kodak Tri-X 400,MICRODOL-X,400,18,inversion 30s,10.25
+Kodak Tri-X 400,MICRODOL-X,400,20,inversion 30s,9.25
+Kodak Tri-X 400,MICRODOL-X,400,21,inversion 30s,8.75
+Kodak Tri-X 400,MICRODOL-X,400,22,inversion 30s,8.25
+Kodak Tri-X 400,MICRODOL-X,400,24,inversion 30s,7.5
+Kodak Tri-X 400,MICRODOL-X,400,18,large-tank 60s,11.75
+Kodak Tri-X 400,MICRODOL-X,400,20,large-tank 60s,10.75
+Kodak Tri-X 400,MICRODOL-X,400,21,large-tank 60s,10
+Kodak Tri-X 400,MICRODOL-X,400,22,large-tank 60s,9.5
+Kodak Tri-X 400,MICRODOL-X,400,24,large-tank 60s,8.5
+Kodak Tri-X 400,MICRODOL-X (1:3),400,18,inversion 30s,18.75
+Kodak Tri-X 400,MICRODOL-X (1:3),400,20,inversion 30s,17
+Kodak Tri-X 400,MICRODOL-X (1:3),400,21,inversion 30s,16
+Kodak Tri-X 400,MICRODOL-X (1:3),400,22,inversion 30s,15
+Kodak Tri-X 400,MICRODOL-X (1:3),400,24,inversion 30s,13.5
+Kodak Tri-X 400,MICRODOL-X (1:3),400,20,large-tank 60s,19.5
+Kodak Tri-X 400,MICRODOL-X (1:3),400,21,large-tank 60s,18.25
+Kodak Tri-X 400,MICRODOL-X (1:3),400,22,large-tank 60s,17.25
+Kodak Tri-X 400,MICRODOL-X (1:3),400,24,large-tank 60s,15.5
+Kodak Tri-X 400,DK-50 (1:1),400,18,inversion 30s,7
+Kodak Tri-X 400,DK-50 (1:1),400,20,inversion 30s,6
+Kodak Tri-X 400,DK-50 (1:1),400,21,inversion 30s,5.5
+Kodak Tri-X 400,DK-50 (1:1),400,22,inversion 30s,5
+Kodak Tri-X 400,DK-50 (1:1),400,24,inversion 30s,4.5
+Kodak Tri-X 400,DK-50 (1:1),400,18,large-tank 60s,7.5
+Kodak Tri-X 400,DK-50 (1:1),400,20,large-tank 60s,6.5
+Kodak Tri-X 400,DK-50 (1:1),400,21,large-tank 60s,6
+Kodak Tri-X 400,DK-50 (1:1),400,22,large-tank 60s,5.5
+Kodak Tri-X 400,DK-50 (1:1),400,24,large-tank 60s,5

@@ -1,0 +1,165 @@
+film,developer,iso,dilution,temp_c,time_min
+Rollei RPX 100,ILFORD ID-11,100,1+1,20,12.0
+Rollei RPX 100,ILFORD ID-11,100,1+3,20,21.0
+Rollei RPX 100,ILFORD ID-11,100,Stock,20,9.0
+Rollei RPX 100,ILFORD ID-11,200,1+1,20,15.5
+Rollei RPX 100,ILFORD ID-11,200,Stock,20,11.0
+Rollei RPX 100,ILFORD ILFOSOL 3,100,1+14,20,7.5
+Rollei RPX 100,ILFORD ILFOSOL 3,100,1+9,20,5.0
+Rollei RPX 100,ILFORD ILFOTEC DD-X,100,,20,9.0
+Rollei RPX 100,ILFORD ILFOTEC DD-X,200,,20,11.0
+Rollei RPX 100,ILFORD ILFOTEC DD-X,50,1+4,20,8.0
+Rollei RPX 100,ILFORD ILFOTEC LC29,100,1+19,20,7.0
+Rollei RPX 100,ILFORD ILFOTEC LC29,100,1+9,20,4.0
+Rollei RPX 100,ILFORD ILFOTEC LC29,200,1+19,20,8.0
+Rollei RPX 100,ILFORD ILFOTEC LC29,200,1+9,20,5.0
+Rollei RPX 100,ILFORD ILFOTEC LC29,50,1+19,20,5.5
+Rollei RPX 100,ILFORD MICROPHEN,100,1+1,20,11.0
+Rollei RPX 100,ILFORD MICROPHEN,100,1+3,20,15.0
+Rollei RPX 100,ILFORD MICROPHEN,100,Stock,20,9.0
+Rollei RPX 100,ILFORD MICROPHEN,200,1+1,20,14.0
+Rollei RPX 100,ILFORD MICROPHEN,200,Stock,20,9.0
+Rollei RPX 100,ILFORD PERCEPTOL,100,1+1,20,16.0
+Rollei RPX 100,ILFORD PERCEPTOL,100,Stock,20,13.0
+Rollei RPX 100,ILFORD PERCEPTOL,50,1+1,20,13.5
+Rollei RPX 100,ILFORD PERCEPTOL,50,Stock,20,9.5
+Rollei RPX 100,Kodak D-76,100,1+1,20,12.0
+Rollei RPX 100,Kodak D-76,100,1+3,20,21.0
+Rollei RPX 100,Kodak D-76,100,Stock,20,9.0
+Rollei RPX 100,Kodak D-76,200,1+1,20,15.5
+Rollei RPX 100,Kodak D-76,200,Stock,20,11.0
+Rollei RPX 100,Kodak D-76,50,1+1,20,8.5
+Rollei RPX 100,Kodak D-76,50,1+3,20,17.5
+Rollei RPX 100,Kodak D-76,50,Stock,20,7.0
+Rollei RPX 100,Kodak HC-110,100,B(1+31),20,8.0
+Rollei RPX 100,Kodak T-MAX,100,1+4,20,7.0
+Rollei RPX 100,Kodak T-MAX,200,1+4,20,10.0
+Rollei RPX 100,Kodak X-TOL,100,1+1,20,11.0
+Rollei RPX 100,Kodak X-TOL,100,1+3,20,21.0
+Rollei RPX 100,Kodak X-TOL,100,Stock,20,8.0
+Rollei RPX 100,Kodak X-TOL,200,1+1,20,15.5
+Rollei RPX 100,Kodak X-TOL,200,Stock,20,11.0
+Rollei RPX 100,Kodak X-TOL,50,1+1,20,8.5
+Rollei RPX 100,Kodak X-TOL,50,1+3,20,17.5
+Rollei RPX 100,Kodak X-TOL,50,Stock,20,7.0
+Rollei RPX 100,Paterson FX-39,100,1+9,20,8.0
+Rollei RPX 100,R09 Spezial/Studio,100,1+15,20,4.0
+Rollei RPX 100,R09 Spezial/Studio,100,1+31,20,4.0
+Rollei RPX 100,R09/Rodinal,100,1+25,20,9.0
+Rollei RPX 100,R09/Rodinal,100,1+50,20,16.0
+Rollei RPX 100,Rollei RLS,100,1+4,24,16.0
+Rollei RPX 100,Rollei Supergrain,100,1+12,20,6.5
+Rollei RPX 100,Rollei Supergrain,100,1+15,20,7.5
+Rollei RPX 100,Rollei Supergrain,100,1+9,20,5.5
+Rollei RPX 100,Rollei Supergrain,200,1+7,20,8.0
+Rollei RPX 100,SPUR Acurol,64,1+70,20,10.0
+Rollei RPX 100,SPUR HRX,64,1+20,20,9.5
+Rollei RPX 100,Tetenal Neofin Blau,100,1+9,20,14.5
+Rollei RPX 100,Tetenal Ultrafin Plus,100,1+4,20,8.0
+Rollei RPX 25,ILFORD ID-11,25,1+1,20,8.0
+Rollei RPX 25,ILFORD ILFOSOL,25,1+19,20,5.0
+Rollei RPX 25,ILFORD PERCEPTOL,25,1+1,20,10.0
+Rollei RPX 25,Kodak D-76,25,1+1,20,8.0
+Rollei RPX 25,Kodak HC-110,25,B(1+31),20,5.0
+Rollei RPX 25,Kodak X-TOL,25,1+1,20,8.0
+Rollei RPX 25,Paterson FX-39,25,1+9,20,8.0
+Rollei RPX 25,R09 Spezial/Studio,25,1+15,20,5.5
+Rollei RPX 25,R09 Spezial/Studio,25,1+31,20,7.0
+Rollei RPX 25,R09/Rodinal,25,1+25,20,6.0
+Rollei RPX 25,R09/Rodinal,25,1+50,20,11.0
+Rollei RPX 25,Rollei RLS,25,1+4,24,12.0
+Rollei RPX 25,Rollei Supergrain,25,1+12,20,5.5
+Rollei RPX 25,Rollei Supergrain,25,1+15,20,6.5
+Rollei RPX 25,Rollei Supergrain,25,1+9,20,4.5
+Rollei RPX 25,Tetenal Ultrafin Plus,25,1+4,20,5.0
+Rollei RPX 400,Bergger BER49,400,1+1,20,12.5
+Rollei RPX 400,Bergger P.M.K.,400,1+2+100,20,13.0
+Rollei RPX 400,ILFORD ID-11,400,1+1,20,14.0
+Rollei RPX 400,ILFORD ID-11,400,1+3,20,25.5
+Rollei RPX 400,ILFORD ID-11,400,Stock,20,8.0
+Rollei RPX 400,ILFORD ID-11,800,1+1,20,18.0
+Rollei RPX 400,ILFORD ID-11,800,Stock,20,11.0
+Rollei RPX 400,ILFORD ILFOSOL 3,400,1+14,20,11.0
+Rollei RPX 400,ILFORD ILFOSOL 3,400,1+9,20,6.5
+Rollei RPX 400,ILFORD ILFOSOL 3,800,1+14,20,25.0
+Rollei RPX 400,ILFORD ILFOSOL 3,800,1+9,20,15.0
+Rollei RPX 400,ILFORD ILFOTEC DD-X,400,1+4,20,10.0
+Rollei RPX 400,ILFORD ILFOTEC DD-X,800,1+4,20,12.0
+Rollei RPX 400,ILFORD ILFOTEC LC29,400,1+19,20,8.0
+Rollei RPX 400,ILFORD ILFOTEC LC29,400,1+9,20,4.5
+Rollei RPX 400,ILFORD ILFOTEC LC29,800,1+19,20,12.5
+Rollei RPX 400,ILFORD ILFOTEC LC29,800,1+9,20,6.5
+Rollei RPX 400,ILFORD MICROPHEN,400,1+1,20,13.0
+Rollei RPX 400,ILFORD MICROPHEN,400,Stock,20,7.0
+Rollei RPX 400,ILFORD MICROPHEN,800,1+1,20,16.0
+Rollei RPX 400,ILFORD MICROPHEN,800,Stock,20,10.0
+Rollei RPX 400,ILFORD PERCEPTOL,320,1+1,20,20.0
+Rollei RPX 400,Kodak D-76,400,1+1,20,14.0
+Rollei RPX 400,Kodak D-76,400,1+3,20,23.0
+Rollei RPX 400,Kodak D-76,400,Stock,20,8.0
+Rollei RPX 400,Kodak D-76,800,1+1,20,18.0
+Rollei RPX 400,Kodak D-76,800,Stock,20,12.0
+Rollei RPX 400,Kodak HC-110,400,B(1+31),20,6.0
+Rollei RPX 400,Kodak T-MAX,1600,1+9,20,18.0
+Rollei RPX 400,Kodak T-MAX,400,1+4,20,7.0
+Rollei RPX 400,Kodak T-MAX,400,1+9,20,10.0
+Rollei RPX 400,Kodak X-TOL,400,1+1,20,12.0
+Rollei RPX 400,Kodak X-TOL,400,Stock,20,9.0
+Rollei RPX 400,Paterson FX-39,400,1+9,20,11.0
+Rollei RPX 400,R09 Spezial/Studio,400,1+15,20,5.0
+Rollei RPX 400,R09/Rodinal,400,1+25,20,12.0
+Rollei RPX 400,R09/Rodinal,400,1+50,20,21.0
+Rollei RPX 400,Rollei RLS,400,1+4,24,18.0
+Rollei RPX 400,Rollei RPX-D,1600,1+5,24,14.0
+Rollei RPX 400,Rollei RPX-D,3200,1+4,25,15.0
+Rollei RPX 400,Rollei RPX-D,400,1+11,20,11.0
+Rollei RPX 400,Rollei RPX-D,800,1+7,22,13.0
+Rollei RPX 400,Rollei Supergrain,400,1+12,20,7.0
+Rollei RPX 400,Rollei Supergrain,400,1+15,20,8.5
+Rollei RPX 400,Rollei Supergrain,400,1+9,20,6.0
+Rollei RPX 400,SPUR Acurol-N,200,1+50,20,10.0
+Rollei RPX 400,SPUR HRX,250,1+13,20,9.5
+Rollei RPX 400,Tetenal Ultrafin Plus,400,1+4,20,8.0
+Rollei Retro 80S,ILFORD ID-11,80,Stock,20,9.0
+Rollei Retro 80S,ILFORD ILFOSOL 3,80,1+9,20,7.0
+Rollei Retro 80S,ILFORD MICROPHEN,80,1+1,20,14.0
+Rollei Retro 80S,ILFORD MICROPHEN,80,Stock,20,10.0
+Rollei Retro 80S,ILFORD PERCEPTOL,25,1+3,20,12.5
+Rollei Retro 80S,ILFORD PERCEPTOL,80,1+1,20,12.0
+Rollei Retro 80S,Kodak HC-110,80,B(1+31),20,8.0
+Rollei Retro 80S,Kodak T-Max,80,1+4,20,9.0
+Rollei Retro 80S,Kodak X-Tol,200,1+1,21,15.0
+Rollei Retro 80S,Kodak X-Tol,64,1+1,23,9.0
+Rollei Retro 80S,Kodak X-Tol,64,1+2,20,11.0
+Rollei Retro 80S,Kodak X-Tol,80,Stock,20,9.0
+Rollei Retro 80S,R09 Spezial/Studio,80,1+31,20,9.0
+Rollei Retro 80S,R09/Rodinal,80,1+25,20,8.0
+Rollei Retro 80S,R09/Rodinal,80,1+50,20,14.0
+Rollei Retro 80S,Rollei RLS,100,1+4,24,15.0
+Rollei Retro 80S,Rollei Supergrain,80,1+12,20,8.0
+Rollei Retro 80S,Rollei Supergrain,80,1+15,20,11.0
+Rollei Retro 80S,Rollei Supergrain,80,1+9,20,6.0
+Rollei Retro 80S,Tetenal Neofin Blau,50,1+16,20,5.0
+Rollei Retro 80S,Tetenal Neofin Blau,80,1+16,20,6.0
+Rollei Retro 80S,Tetenal Ultrafin Plus,80,1+4,20,8.0
+Rollei Superpan 200,Bergger P.M.K.,12,1+2+100,20,17.0
+Rollei Superpan 200,ILFORD DD-X,200,1+4,20,8.75
+Rollei Superpan 200,ILFORD ID-11,200,1+1,20,14.0
+Rollei Superpan 200,ILFORD ID-11,200,Stock,20,10.0
+Rollei Superpan 200,ILFORD ILFOSOL 3,200,1+9,20,7.5
+Rollei Superpan 200,Kodak D-76,200,1+1,20,14.0
+Rollei Superpan 200,Kodak D-76,200,Stock,20,10.0
+Rollei Superpan 200,Kodak HC-110,200,B(1+31),20,8.0
+Rollei Superpan 200,Kodak T-Max,200,1+4,20,8.0
+Rollei Superpan 200,Kodak X-TOL,200,1+1,20,14.0
+Rollei Superpan 200,Moersch Finol,160,1+1+100,20,11.83
+Rollei Superpan 200,Moersch Finol,250,1+1+250,20,12.5
+Rollei Superpan 200,R09 Spezial/Studio,200,1+15,20,6.5
+Rollei Superpan 200,R09 Spezial/Studio,200,1+31,20,13.0
+Rollei Superpan 200,R09/Rodinal,200,1+25,20,8.0
+Rollei Superpan 200,R09/Rodinal,200,1+50,20,17.0
+Rollei Superpan 200,Rollei RLS,200,,24,12.0
+Rollei Superpan 200,Rollei Supergrain,200,1+12,20,8.0
+Rollei Superpan 200,Rollei Supergrain,200,1+15,20,11.0
+Rollei Superpan 200,Rollei Supergrain,200,1+9,20,6.0
+Rollei Superpan 200,Tetenal Ultrafin T-Plus,200,1+4,20,5.5
