@@ -40,11 +40,11 @@ section.page{display:none}
 section.page.on{display:block}
 
 /* ---------- search ---------- */
-.searchbar{position:relative; margin:6px 0 10px}
+.searchbar{position:sticky; top:103px; z-index:48; background:var(--bg); padding:4px 0 10px; margin:0 0 8px}
 .searchbar input{width:100%; padding:12px 38px 12px 14px; border:1px solid var(--line); border-radius:var(--radius); background:var(--card); outline:none; font-size:15px}
 .searchbar input:focus{border-color:var(--acc)}
 .searchbar .mag{position:absolute; right:12px; top:50%; transform:translateY(-50%); color:var(--sub)}
-.film-list{display:flex; flex-direction:column; gap:2px; max-height:62vh; overflow-y:auto; padding-bottom:6px}
+.film-list{display:flex; flex-direction:column; gap:2px; padding-bottom:6px}
 .film-letter{font-size:12px; color:var(--sub); padding:10px 6px 4px; font-weight:700}
 .film-item{display:flex; align-items:center; gap:10px; padding:11px 12px; background:var(--card); border-radius:10px; box-shadow:var(--shadow); margin-bottom:6px}
 .film-item .nm{flex:1; font-weight:600; font-size:15px}
