@@ -40,11 +40,11 @@ section.page{display:none}
 section.page.on{display:block}
 
 /* ---------- search ---------- */
-.searchbar{position:relative; margin:6px 0 10px}
+.searchbar{position:sticky; top:103px; z-index:48; background:var(--bg); padding:4px 0 10px; margin:0 0 8px}
 .searchbar input{width:100%; padding:12px 38px 12px 14px; border:1px solid var(--line); border-radius:var(--radius); background:var(--card); outline:none; font-size:15px}
 .searchbar input:focus{border-color:var(--acc)}
 .searchbar .mag{position:absolute; right:12px; top:50%; transform:translateY(-50%); color:var(--sub)}
-.film-list{display:flex; flex-direction:column; gap:2px; max-height:62vh; overflow-y:auto; padding-bottom:6px}
+.film-list{display:flex; flex-direction:column; gap:2px; padding-bottom:6px}
 .film-letter{font-size:12px; color:var(--sub); padding:10px 6px 4px; font-weight:700}
 .film-item{display:flex; align-items:center; gap:10px; padding:11px 12px; background:var(--card); border-radius:10px; box-shadow:var(--shadow); margin-bottom:6px}
 .film-item .nm{flex:1; font-weight:600; font-size:15px}
@@ -96,8 +96,8 @@ section.page.on{display:block}
 .of-head::-webkit-scrollbar{display:none}
 .of-head button{flex:none; background:var(--chip); color:var(--chip-ink); padding:8px 13px; border-radius:99px; font-size:13px; font-weight:600}
 .of-head button.on{background:var(--acc); color:#fff}
-.otable{width:100%; border-collapse:collapse; font-size:13px; background:var(--card); border-radius:var(--radius); overflow:hidden; box-shadow:var(--shadow)}
-.otable th{background:var(--chip); text-align:left; padding:9px 10px; font-size:12px; position:sticky; top:112px}
+.otable{width:100%; border-collapse:collapse; font-size:13px; background:var(--card); border-radius:var(--radius); box-shadow:var(--shadow)}
+.otable th{background:var(--chip); text-align:left; padding:9px 10px; font-size:12px}
 .otable td{padding:8px 10px; border-top:1px solid var(--line)}
 .otable .r{text-align:right}
 .otable tr:nth-child(even) td{background:rgba(128,128,128,.05)}
@@ -130,6 +130,21 @@ footer{text-align:center; color:var(--sub); font-size:12px; padding:20px 10px 40
 <main>
   <!-- ============ 查配方 ============ -->
   <section class="page on" id="tab-search">
+    <div class="ctl-row" style="margin:4px 0 10px">
+      <div class="seg" id="seg-kind">
+        <button data-k="neg" class="on">🎞️ 黑白负片</button>
+        <button data-k="rev">🔄 黑白正冲</button>
+      </div>
+    </div>
+    <div id="mode-bar" style="display:none">
+      <div class="ctl-row" style="margin-bottom:8px">
+        <div class="seg" id="seg-mode">
+          <button data-m="inv" class="on">手冲</button>
+          <button data-m="rot85">滚冲 ×0.85</button>
+          <button data-m="rot90">滚冲 ×0.90</button>
+        </div>
+      </div>
+    </div>
     <div id="view-filmlist">
       <div class="searchbar">
         <input id="film-q" type="search" placeholder="搜索胶片名，如 HP5 / Tri-X / Fomapan…" autocomplete="off">
@@ -139,14 +154,20 @@ footer{text-align:center; color:var(--sub); font-size:12px; padding:20px 10px 40
       <div class="film-list" id="film-list"></div>
     </div>
     <div id="view-recipe" style="display:none"></div>
+    <div id="view-reversal" style="display:none">
+      <div class="searchbar">
+        <input id="rev-q" type="search" placeholder="搜索胶片或反转套药，如 Tri-X / Retro 80S / Scala…" autocomplete="off">
+        <span class="mag">🔍</span>
+      </div>
+      <div id="rev-cards"></div>
+    </div>
   </section>
 
   <!-- ============ 官方数据 ============ -->
   <section class="page" id="tab-official">
     <div class="of-head" id="of-tabs"></div>
     <div class="searchbar"><input id="of-q" type="search" placeholder="搜索胶片或显影液…" autocomplete="off"><span class="mag">🔍</span></div>
-    <div style="overflow:auto"><table class="otable" id="of-table"></table></div>
-    <p class="note-line" id="of-note"></p>
+    <div style="overflow:auto"><table class="otable" id="of-table"></table></div>    <p class="note-line" id="of-note"></p>
   </section>
 
   <!-- ============ 收藏 ============ -->
@@ -172,7 +193,7 @@ const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt
 const fmt = t => t == null ? '' : (Number.isInteger(t) ? String(t) : String(Math.round(t * 10) / 10));
 
 /* ---------- state ---------- */
-const state = { tab:'search', film:null, mode:'inv', temp:20, dev:null, of:Object.keys(DB.official)[0], ofQ:'' };
+const state = { tab:'search', kind:'neg', film:null, mode:'inv', temp:20, dev:null, of:Object.keys(DB.official)[0], ofQ:'' };
 const favs = new Set(JSON.parse(localStorage.getItem('devdb_favs') || '[]'));
 const HOT = ['Ilford HP5+','Kodak Tri-X 400','Ilford FP4+','Fomapan 400','Kodak T-MAX 400','Ilford Delta 100 Pro','Fomapan 100','Rollei RPX 100','Kodak TMax 100','Ilford Pan F Plus'];
 
@@ -253,8 +274,12 @@ $('#film-q').addEventListener('input', renderFilmList);
 /* ---------- recipe view ---------- */
 function selectFilm(fi){
   state.film = fi; state.dev = null;
+  state.kind = 'neg';
+  $('#seg-kind').querySelectorAll('button').forEach(x => x.classList.toggle('on', x.dataset.k === 'neg'));
   $('#view-filmlist').style.display = 'none';
+  $('#view-reversal').style.display = 'none';
   $('#view-recipe').style.display = 'block';
+  $('#mode-bar').style.display = '';
   window.scrollTo({top:0});
   renderRecipe();
 }
@@ -262,6 +287,7 @@ function backToList(){
   state.film = null;
   $('#view-recipe').style.display = 'none';
   $('#view-filmlist').style.display = '';
+  $('#mode-bar').style.display = 'none';
   window.scrollTo({top:0});
 }
 function renderRecipe(){
@@ -275,13 +301,6 @@ function renderRecipe(){
     <button class="icon-btn" id="btn-fav" title="收藏">${isFav ? '★' : '☆'}</button>
   </div>
   <div class="ctl">
-    <div class="ctl-row">
-      <div class="seg" id="seg-mode">
-        <button data-m="inv" class="on">手冲</button>
-        <button data-m="rot85">滚冲 ×0.85</button>
-        <button data-m="rot90">滚冲 ×0.90</button>
-      </div>
-    </div>
     <div class="ctl-row">
       <div class="chips" id="chips-dev"></div>
     </div>
@@ -298,11 +317,7 @@ function renderRecipe(){
   $('#btn-back').addEventListener('click', backToList);
   $('#btn-fav').addEventListener('click', () => { toggleFav(film, $('#btn-fav')); });
 
-  $('#seg-mode').querySelectorAll('button').forEach(b => b.addEventListener('click', () => {
-    state.mode = b.dataset.m;
-    $('#seg-mode').querySelectorAll('button').forEach(x => x.classList.toggle('on', x === b));
-    renderCards();
-  }));
+  syncModeBar();
   const tr = $('#temp-range'), tv = $('#temp-val');
   tr.addEventListener('input', () => { state.temp = +tr.value; tv.textContent = state.temp + '°C'; renderCards(); });
 
@@ -346,11 +361,12 @@ function renderCards(){
       // pick best record for current temp: exact match else 20C else nearest
       let rec = recs.find(r => r[7] === state.temp) || recs.find(r => r[7] === 20) || recs.reduce((a, b) => Math.abs(a[7] - state.temp) <= Math.abs(b[7] - state.temp) ? a : b);
       const exact = rec[7] === state.temp;
-      const t35 = exact ? rec[4] : convert(rec[4], rec[7]);
-      const t120 = exact ? rec[5] : convert(rec[5], rec[7]);
-      const tsh = exact ? rec[6] : convert(rec[6], rec[7]);
+      // 滚冲倍数始终应用；温度仅在与官方记录温度不同时才换算（convert 内部处理）
+      const t35 = convert(rec[4], rec[7]);
+      const t120 = convert(rec[5], rec[7]);
+      const tsh = convert(rec[6], rec[7]);
       const isoLabel = isoI >= 0 ? DB.isos[isoI] : '—';
-      const convMark = !exact;
+      const convMark = state.mode !== 'inv' || !exact;
       html += `<tr>
         <td class="iso">${esc(isoLabel)}</td>
         <td class="t35 ${convMark ? 'conv' : ''}">${t35 != null ? fmt(t35) + '′' : '<span class="na">—</span>'}</td>
@@ -448,23 +464,93 @@ $('#btn-dark').addEventListener('click', () => {
 });
 if (localStorage.getItem('devdb_dark') === '1') document.body.classList.add('dark');
 
+/* ---------- 负片 / 正冲 切换 ---------- */
+function syncModeBar(){
+  $('#seg-mode').querySelectorAll('button').forEach(x => x.classList.toggle('on', x.dataset.m === state.mode));
+}
+function switchKind(kind){
+  state.kind = kind;
+  $('#seg-kind').querySelectorAll('button').forEach(x => x.classList.toggle('on', x.dataset.k === kind));
+  const neg = kind === 'neg';
+  $('#view-filmlist').style.display = neg ? '' : 'none';
+  $('#view-recipe').style.display = 'none';
+  $('#view-reversal').style.display = neg ? 'none' : '';
+  $('#mode-bar').style.display = neg ? 'none' : '';
+  if (!neg) { state.film = null; renderReversal(); }
+  window.scrollTo({top: 0});
+}
+$('#seg-kind').querySelectorAll('button').forEach(b => b.addEventListener('click', () => switchKind(b.dataset.k)));
+$('#seg-mode').querySelectorAll('button').forEach(b => b.addEventListener('click', () => {
+  state.mode = b.dataset.m;
+  syncModeBar();
+  if (state.kind === 'rev') renderReversal();
+  else if (state.film != null) renderCards();
+}));
+$('#rev-q').addEventListener('input', renderReversal);
+
+/* ---------- 黑白正冲（反转冲洗） ---------- */
+// 正冲流程温度固定为套药官方温度，只应用滚冲倍数（不随温度滑杆换算）
+function revConvert(t){
+  if (t == null) return null;
+  let v = t;
+  if (state.mode === 'rot85') v = t * 0.85;
+  if (state.mode === 'rot90') v = t * 0.90;
+  return Math.round(v * 100) / 100;
+}
+function renderReversal(){
+  const q = ($('#rev-q').value || '').trim().toLowerCase();
+  const box = $('#rev-cards');
+  const kits = DB.reversal || [];
+  let html = '';
+  kits.forEach(k => {
+    const films = k.films || [];
+    const filmHits = q ? films.filter(f => f[0].toLowerCase().includes(q)) : null;
+    if (q && (!filmHits.length && !k.kit.toLowerCase().includes(q) && !k.note.toLowerCase().includes(q))) return;
+    const showFilms = filmHits || films;
+    const conv = state.mode !== 'inv';
+    html += `<div class="rcard">
+      <div class="rhead"><span class="dn">${esc(k.kit)}</span><span class="dil">${k.temp}°C 加工</span></div>
+      <div class="tnote">${esc(k.note)}</div>
+      <table class="rtable"><thead><tr><th>步骤</th><th>时间</th><th>说明</th></tr></thead><tbody>`;
+    k.steps.forEach(s => {
+      html += `<tr><td class="iso">${esc(s[0])}</td><td class="t35">${esc(s[1])}</td><td class="sub">${esc(s[2] || '')}</td></tr>`;
+    });
+    html += `</tbody></table>`;
+    if (films.length) {
+      html += `<div class="tnote">胶片首显 / 二显（${MODE_TXT[state.mode]}${conv ? '，已按倍数换算' : ''}）：</div>
+        <table class="rtable"><thead><tr><th>胶片</th><th>ISO</th><th>首显</th><th>二显</th></tr></thead><tbody>`;
+      showFilms.forEach(f => {
+        const t1 = revConvert(f[2]), t2 = revConvert(f[3]);
+        html += `<tr><td class="iso">${esc(f[0])}</td><td>${esc(f[1])}</td>
+          <td class="t35 ${conv ? 'conv' : ''}">${fmt(t1)}′</td>
+          <td class="t35 ${conv ? 'conv' : ''}">${fmt(t2)}′</td></tr>`;
+      });
+      html += `</tbody></table>`;
+    }
+    html += `</div>`;
+  });
+  box.innerHTML = html || '<div class="empty">没有匹配的胶片或套药</div>';
+}
+
 /* ---------- init ---------- */
 $('#hdr-meta').textContent = `${DB.meta.films} 胶片 · ${DB.meta.devs} 显影液`;
 renderFilmList();
-// deep link: #film=Name or #film=123 (index)
+// deep link: #film=Name|123[&mode=inv|rot85|rot90]  /  #of=key  /  #kind=neg|rev
 (function(){
-  const m = location.hash.match(/^#film=(\d+)$/);
-  if (m) { selectFilm(+m[1]); return; }
-  const n = location.hash.match(/^#film=(.+)$/);
-  if (n) {
-    const name = decodeURIComponent(n[1]);
-    const i = DB.films.indexOf(name);
-    if (i >= 0) selectFilm(i);
+  const params = new URLSearchParams(location.hash.slice(1));
+  const modeP = params.get('mode');
+  if (modeP && ['inv', 'rot85', 'rot90'].includes(modeP)) state.mode = modeP;
+  const kindP = params.get('kind');
+  if (kindP === 'rev') switchKind('rev');
+  const filmP = params.get('film');
+  if (filmP) {
+    const fi = /^\d+$/.test(filmP) ? +filmP : DB.films.indexOf(filmP);
+    if (fi >= 0) selectFilm(fi);
   }
-  const ofm = location.hash.match(/^#of=(\w+)$/);
-  if (ofm && DB.official[ofm[1]]) {
+  const ofP = params.get('of');
+  if (ofP && DB.official[ofP]) {
     document.querySelector('#tabs button[data-tab="official"]').click();
-    state.of = ofm[1];
+    state.of = ofP;
     renderOfficial();
   }
 })();

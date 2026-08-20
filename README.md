@@ -144,13 +144,15 @@ for r in hits: print(r['dilution'], r['iso'], r['t35mm_min'], r['temp_c'])
 | 公网部署 | 把两个文件传到 GitHub Pages / Vercel / Netlify 任意静态托管即可 |
 
 **功能：**
-- 🔍 **查配方**：搜索/字母浏览 352 款胶片 → 点开显示全部配方卡（显影液 × 稀释 × ISO 档位），每行给出 35mm / 120 / 页片时间
-- 🔄 **手冲 / 滚冲切换**：一键切换 手冲（官方原值）→ 滚冲 ×0.85（Ilford 规则）→ 滚冲 ×0.90（Rollei 规则）
+- 🔍 **查配方（负片 / 正冲双入口）**：顶部切换「黑白负片」/「黑白正冲」
+  - **负片**：搜索/字母浏览 352 款胶片 → 点开显示全部配方卡（显影液 × 稀释 × ISO 档位），每行给出 35mm / 120 / 页片时间
+  - **正冲**（反转冲洗）：3 套官方黑白反转流程 —— [Rollei B&W Reversal Kit](https://www.rolleianalog.com/wp-content/uploads/2020/09/BW_Reversal-Kit_Instruction_DE_EN.pdf)（24°C，10 款胶片首显/二显表，含 Kodak TX 400 / Ilford Delta / Agfa Copex Rapid）、[Adox Scala Kit](https://www.fotoimpex.com/shop/images/products/media/59440_5_PDF-Datasheet.pdf)（Scala 50@20°C / Scala 160@24°C，Jobo 滚冲 -15%）、[Ilford PQ Universal 反转流程](https://www.ilfordphoto.com/wp/wp-content/uploads/2019/06/REVERSAL-180619.pdf)（Pan F+ / FP4+ / Delta 100，20°C）
+- 🔄 **手冲 / 滚冲切换**：一键切换 手冲（官方原值）→ 滚冲 ×0.85（Ilford 规则）→ 滚冲 ×0.90（Rollei 规则）；正冲页的首显/二显时间同样联动
 - 🌡️ **温度换算**：滑杆 15–30°C 实时换算（±10%/°C 规则）；有官方多温度记录的条目优先显示官方实测值（标蓝 = 换算值）
 - 📋 **官方数据**：Ilfotec HC / Foma / Kodak Tri-X / Rollei 四张官方表，可搜索
 - ❤️ **收藏**：常用胶片收藏（保存在浏览器本地）
 - 🌙 **暗房模式**：右上角月亮按钮切换深色主题（暗房友好），记忆偏好
-- 🔗 **深链接**：`index.html#film=Kodak%20Tri-X%20400` 直达配方；`#of=foma` 直达官方表
+- 🔗 **深链接**：`index.html#film=Kodak%20Tri-X%20400` 直达配方；`#of=foma` 直达官方表；`#kind=rev` 直达正冲页
 
 > 数据更新：重跑 `python3 build_web_data.py` 即可把 `data/` 下的最新 CSV 重新打包进 `web/data_web.js`。
 

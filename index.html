@@ -130,6 +130,21 @@ footer{text-align:center; color:var(--sub); font-size:12px; padding:20px 10px 40
 <main>
   <!-- ============ 查配方 ============ -->
   <section class="page on" id="tab-search">
+    <div class="ctl-row" style="margin:4px 0 10px">
+      <div class="seg" id="seg-kind">
+        <button data-k="neg" class="on">🎞️ 黑白负片</button>
+        <button data-k="rev">🔄 黑白正冲</button>
+      </div>
+    </div>
+    <div id="mode-bar" style="display:none">
+      <div class="ctl-row" style="margin-bottom:8px">
+        <div class="seg" id="seg-mode">
+          <button data-m="inv" class="on">手冲</button>
+          <button data-m="rot85">滚冲 ×0.85</button>
+          <button data-m="rot90">滚冲 ×0.90</button>
+        </div>
+      </div>
+    </div>
     <div id="view-filmlist">
       <div class="searchbar">
         <input id="film-q" type="search" placeholder="搜索胶片名，如 HP5 / Tri-X / Fomapan…" autocomplete="off">
@@ -139,6 +154,13 @@ footer{text-align:center; color:var(--sub); font-size:12px; padding:20px 10px 40
       <div class="film-list" id="film-list"></div>
     </div>
     <div id="view-recipe" style="display:none"></div>
+    <div id="view-reversal" style="display:none">
+      <div class="searchbar">
+        <input id="rev-q" type="search" placeholder="搜索胶片或反转套药，如 Tri-X / Retro 80S / Scala…" autocomplete="off">
+        <span class="mag">🔍</span>
+      </div>
+      <div id="rev-cards"></div>
+    </div>
   </section>
 
   <!-- ============ 官方数据 ============ -->
@@ -171,7 +193,7 @@ const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt
 const fmt = t => t == null ? '' : (Number.isInteger(t) ? String(t) : String(Math.round(t * 10) / 10));
 
 /* ---------- state ---------- */
-const state = { tab:'search', film:null, mode:'inv', temp:20, dev:null, of:Object.keys(DB.official)[0], ofQ:'' };
+const state = { tab:'search', kind:'neg', film:null, mode:'inv', temp:20, dev:null, of:Object.keys(DB.official)[0], ofQ:'' };
 const favs = new Set(JSON.parse(localStorage.getItem('devdb_favs') || '[]'));
 const HOT = ['Ilford HP5+','Kodak Tri-X 400','Ilford FP4+','Fomapan 400','Kodak T-MAX 400','Ilford Delta 100 Pro','Fomapan 100','Rollei RPX 100','Kodak TMax 100','Ilford Pan F Plus'];
 
@@ -252,8 +274,12 @@ $('#film-q').addEventListener('input', renderFilmList);
 /* ---------- recipe view ---------- */
 function selectFilm(fi){
   state.film = fi; state.dev = null;
+  state.kind = 'neg';
+  $('#seg-kind').querySelectorAll('button').forEach(x => x.classList.toggle('on', x.dataset.k === 'neg'));
   $('#view-filmlist').style.display = 'none';
+  $('#view-reversal').style.display = 'none';
   $('#view-recipe').style.display = 'block';
+  $('#mode-bar').style.display = '';
   window.scrollTo({top:0});
   renderRecipe();
 }
@@ -261,6 +287,7 @@ function backToList(){
   state.film = null;
   $('#view-recipe').style.display = 'none';
   $('#view-filmlist').style.display = '';
+  $('#mode-bar').style.display = 'none';
   window.scrollTo({top:0});
 }
 function renderRecipe(){
@@ -274,13 +301,6 @@ function renderRecipe(){
     <button class="icon-btn" id="btn-fav" title="收藏">${isFav ? '★' : '☆'}</button>
   </div>
   <div class="ctl">
-    <div class="ctl-row">
-      <div class="seg" id="seg-mode">
-        <button data-m="inv" class="${state.mode === 'inv' ? 'on' : ''}">手冲</button>
-        <button data-m="rot85" class="${state.mode === 'rot85' ? 'on' : ''}">滚冲 ×0.85</button>
-        <button data-m="rot90" class="${state.mode === 'rot90' ? 'on' : ''}">滚冲 ×0.90</button>
-      </div>
-    </div>
     <div class="ctl-row">
       <div class="chips" id="chips-dev"></div>
     </div>
@@ -297,11 +317,7 @@ function renderRecipe(){
   $('#btn-back').addEventListener('click', backToList);
   $('#btn-fav').addEventListener('click', () => { toggleFav(film, $('#btn-fav')); });
 
-  $('#seg-mode').querySelectorAll('button').forEach(b => b.addEventListener('click', () => {
-    state.mode = b.dataset.m;
-    $('#seg-mode').querySelectorAll('button').forEach(x => x.classList.toggle('on', x === b));
-    renderCards();
-  }));
+  syncModeBar();
   const tr = $('#temp-range'), tv = $('#temp-val');
   tr.addEventListener('input', () => { state.temp = +tr.value; tv.textContent = state.temp + '°C'; renderCards(); });
 
@@ -448,14 +464,84 @@ $('#btn-dark').addEventListener('click', () => {
 });
 if (localStorage.getItem('devdb_dark') === '1') document.body.classList.add('dark');
 
+/* ---------- 负片 / 正冲 切换 ---------- */
+function syncModeBar(){
+  $('#seg-mode').querySelectorAll('button').forEach(x => x.classList.toggle('on', x.dataset.m === state.mode));
+}
+function switchKind(kind){
+  state.kind = kind;
+  $('#seg-kind').querySelectorAll('button').forEach(x => x.classList.toggle('on', x.dataset.k === kind));
+  const neg = kind === 'neg';
+  $('#view-filmlist').style.display = neg ? '' : 'none';
+  $('#view-recipe').style.display = 'none';
+  $('#view-reversal').style.display = neg ? 'none' : '';
+  $('#mode-bar').style.display = neg ? 'none' : '';
+  if (!neg) { state.film = null; renderReversal(); }
+  window.scrollTo({top: 0});
+}
+$('#seg-kind').querySelectorAll('button').forEach(b => b.addEventListener('click', () => switchKind(b.dataset.k)));
+$('#seg-mode').querySelectorAll('button').forEach(b => b.addEventListener('click', () => {
+  state.mode = b.dataset.m;
+  syncModeBar();
+  if (state.kind === 'rev') renderReversal();
+  else if (state.film != null) renderCards();
+}));
+$('#rev-q').addEventListener('input', renderReversal);
+
+/* ---------- 黑白正冲（反转冲洗） ---------- */
+// 正冲流程温度固定为套药官方温度，只应用滚冲倍数（不随温度滑杆换算）
+function revConvert(t){
+  if (t == null) return null;
+  let v = t;
+  if (state.mode === 'rot85') v = t * 0.85;
+  if (state.mode === 'rot90') v = t * 0.90;
+  return Math.round(v * 100) / 100;
+}
+function renderReversal(){
+  const q = ($('#rev-q').value || '').trim().toLowerCase();
+  const box = $('#rev-cards');
+  const kits = DB.reversal || [];
+  let html = '';
+  kits.forEach(k => {
+    const films = k.films || [];
+    const filmHits = q ? films.filter(f => f[0].toLowerCase().includes(q)) : null;
+    if (q && (!filmHits.length && !k.kit.toLowerCase().includes(q) && !k.note.toLowerCase().includes(q))) return;
+    const showFilms = filmHits || films;
+    const conv = state.mode !== 'inv';
+    html += `<div class="rcard">
+      <div class="rhead"><span class="dn">${esc(k.kit)}</span><span class="dil">${k.temp}°C 加工</span></div>
+      <div class="tnote">${esc(k.note)}</div>
+      <table class="rtable"><thead><tr><th>步骤</th><th>时间</th><th>说明</th></tr></thead><tbody>`;
+    k.steps.forEach(s => {
+      html += `<tr><td class="iso">${esc(s[0])}</td><td class="t35">${esc(s[1])}</td><td class="sub">${esc(s[2] || '')}</td></tr>`;
+    });
+    html += `</tbody></table>`;
+    if (films.length) {
+      html += `<div class="tnote">胶片首显 / 二显（${MODE_TXT[state.mode]}${conv ? '，已按倍数换算' : ''}）：</div>
+        <table class="rtable"><thead><tr><th>胶片</th><th>ISO</th><th>首显</th><th>二显</th></tr></thead><tbody>`;
+      showFilms.forEach(f => {
+        const t1 = revConvert(f[2]), t2 = revConvert(f[3]);
+        html += `<tr><td class="iso">${esc(f[0])}</td><td>${esc(f[1])}</td>
+          <td class="t35 ${conv ? 'conv' : ''}">${fmt(t1)}′</td>
+          <td class="t35 ${conv ? 'conv' : ''}">${fmt(t2)}′</td></tr>`;
+      });
+      html += `</tbody></table>`;
+    }
+    html += `</div>`;
+  });
+  box.innerHTML = html || '<div class="empty">没有匹配的胶片或套药</div>';
+}
+
 /* ---------- init ---------- */
 $('#hdr-meta').textContent = `${DB.meta.films} 胶片 · ${DB.meta.devs} 显影液`;
 renderFilmList();
-// deep link: #film=Name|123[&mode=inv|rot85|rot90]  /  #of=key
+// deep link: #film=Name|123[&mode=inv|rot85|rot90]  /  #of=key  /  #kind=neg|rev
 (function(){
   const params = new URLSearchParams(location.hash.slice(1));
   const modeP = params.get('mode');
   if (modeP && ['inv', 'rot85', 'rot90'].includes(modeP)) state.mode = modeP;
+  const kindP = params.get('kind');
+  if (kindP === 'rev') switchKind('rev');
   const filmP = params.get('film');
   if (filmP) {
     const fi = /^\d+$/.test(filmP) ? +filmP : DB.films.indexOf(filmP);
