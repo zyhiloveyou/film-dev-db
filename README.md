@@ -2,7 +2,9 @@
 
 全网搜集的黑白胶片 × 显影液冲洗时间数据库，覆盖 **手冲（倒置搅拌）与滚冲（连续搅拌/rotary）**、多种温度、多种稀释、增感（push）场景。
 
-> 🌐 **配套查询网站**：`web/index.html` —— 手机/电脑通用，无需安装，双击即用（见[第八节](#八网站使用说明)）。
+> 🌐 **在线访问**：**https://zyhiloveyou.github.io/film-dev-db/** （GitHub Pages，手机/电脑通用）
+>
+> 💻 **本地版**：`web/index.html` + `web/data_web.js` 两个文件，双击即用、离线可用。
 
 ---
 
