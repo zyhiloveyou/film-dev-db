@@ -96,8 +96,8 @@ section.page.on{display:block}
 .of-head::-webkit-scrollbar{display:none}
 .of-head button{flex:none; background:var(--chip); color:var(--chip-ink); padding:8px 13px; border-radius:99px; font-size:13px; font-weight:600}
 .of-head button.on{background:var(--acc); color:#fff}
-.otable{width:100%; border-collapse:collapse; font-size:13px; background:var(--card); border-radius:var(--radius); overflow:hidden; box-shadow:var(--shadow)}
-.otable th{background:var(--chip); text-align:left; padding:9px 10px; font-size:12px; position:sticky; top:112px}
+.otable{width:100%; border-collapse:collapse; font-size:13px; background:var(--card); border-radius:var(--radius); box-shadow:var(--shadow)}
+.otable th{background:var(--chip); text-align:left; padding:9px 10px; font-size:12px}
 .otable td{padding:8px 10px; border-top:1px solid var(--line)}
 .otable .r{text-align:right}
 .otable tr:nth-child(even) td{background:rgba(128,128,128,.05)}
@@ -145,8 +145,7 @@ footer{text-align:center; color:var(--sub); font-size:12px; padding:20px 10px 40
   <section class="page" id="tab-official">
     <div class="of-head" id="of-tabs"></div>
     <div class="searchbar"><input id="of-q" type="search" placeholder="搜索胶片或显影液…" autocomplete="off"><span class="mag">🔍</span></div>
-    <div style="overflow:auto"><table class="otable" id="of-table"></table></div>
-    <p class="note-line" id="of-note"></p>
+    <div style="overflow:auto"><table class="otable" id="of-table"></table></div>    <p class="note-line" id="of-note"></p>
   </section>
 
   <!-- ============ 收藏 ============ -->
