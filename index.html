@@ -276,9 +276,9 @@ function renderRecipe(){
   <div class="ctl">
     <div class="ctl-row">
       <div class="seg" id="seg-mode">
-        <button data-m="inv" class="on">手冲</button>
-        <button data-m="rot85">滚冲 ×0.85</button>
-        <button data-m="rot90">滚冲 ×0.90</button>
+        <button data-m="inv" class="${state.mode === 'inv' ? 'on' : ''}">手冲</button>
+        <button data-m="rot85" class="${state.mode === 'rot85' ? 'on' : ''}">滚冲 ×0.85</button>
+        <button data-m="rot90" class="${state.mode === 'rot90' ? 'on' : ''}">滚冲 ×0.90</button>
       </div>
     </div>
     <div class="ctl-row">
@@ -345,11 +345,12 @@ function renderCards(){
       // pick best record for current temp: exact match else 20C else nearest
       let rec = recs.find(r => r[7] === state.temp) || recs.find(r => r[7] === 20) || recs.reduce((a, b) => Math.abs(a[7] - state.temp) <= Math.abs(b[7] - state.temp) ? a : b);
       const exact = rec[7] === state.temp;
-      const t35 = exact ? rec[4] : convert(rec[4], rec[7]);
-      const t120 = exact ? rec[5] : convert(rec[5], rec[7]);
-      const tsh = exact ? rec[6] : convert(rec[6], rec[7]);
+      // 滚冲倍数始终应用；温度仅在与官方记录温度不同时才换算（convert 内部处理）
+      const t35 = convert(rec[4], rec[7]);
+      const t120 = convert(rec[5], rec[7]);
+      const tsh = convert(rec[6], rec[7]);
       const isoLabel = isoI >= 0 ? DB.isos[isoI] : '—';
-      const convMark = !exact;
+      const convMark = state.mode !== 'inv' || !exact;
       html += `<tr>
         <td class="iso">${esc(isoLabel)}</td>
         <td class="t35 ${convMark ? 'conv' : ''}">${t35 != null ? fmt(t35) + '′' : '<span class="na">—</span>'}</td>
@@ -450,20 +451,20 @@ if (localStorage.getItem('devdb_dark') === '1') document.body.classList.add('dar
 /* ---------- init ---------- */
 $('#hdr-meta').textContent = `${DB.meta.films} 胶片 · ${DB.meta.devs} 显影液`;
 renderFilmList();
-// deep link: #film=Name or #film=123 (index)
+// deep link: #film=Name|123[&mode=inv|rot85|rot90]  /  #of=key
 (function(){
-  const m = location.hash.match(/^#film=(\d+)$/);
-  if (m) { selectFilm(+m[1]); return; }
-  const n = location.hash.match(/^#film=(.+)$/);
-  if (n) {
-    const name = decodeURIComponent(n[1]);
-    const i = DB.films.indexOf(name);
-    if (i >= 0) selectFilm(i);
+  const params = new URLSearchParams(location.hash.slice(1));
+  const modeP = params.get('mode');
+  if (modeP && ['inv', 'rot85', 'rot90'].includes(modeP)) state.mode = modeP;
+  const filmP = params.get('film');
+  if (filmP) {
+    const fi = /^\d+$/.test(filmP) ? +filmP : DB.films.indexOf(filmP);
+    if (fi >= 0) selectFilm(fi);
   }
-  const ofm = location.hash.match(/^#of=(\w+)$/);
-  if (ofm && DB.official[ofm[1]]) {
+  const ofP = params.get('of');
+  if (ofP && DB.official[ofP]) {
     document.querySelector('#tabs button[data-tab="official"]').click();
-    state.of = ofm[1];
+    state.of = ofP;
     renderOfficial();
   }
 })();
