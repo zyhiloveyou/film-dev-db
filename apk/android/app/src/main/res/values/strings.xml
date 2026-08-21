@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">黑白胶片显影时间库</string>
+    <string name="title_activity_main">黑白胶片显影时间库</string>
+    <string name="package_name">com.zyh.filmdevdb</string>
+    <string name="custom_url_scheme">com.zyh.filmdevdb</string>
+</resources>

@@ -1,0 +1,7 @@
+node_modules/
+oh_modules/
+**/build/
+.idea/
+.hvigor/
+.hvigor_output/
+local.properties

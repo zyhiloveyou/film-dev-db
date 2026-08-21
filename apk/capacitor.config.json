@@ -1,0 +1,8 @@
+{
+  "appId": "com.zyh.filmdevdb",
+  "appName": "黑白胶片显影时间库",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#121418"
+  }
+}

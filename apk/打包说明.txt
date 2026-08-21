@@ -1,0 +1,24 @@
+═══════════════════════════════════════════════════
+ 黑白胶片显影时间库 · Android APK 打包说明（BETA）
+═══════════════════════════════════════════════════
+
+【安装】
+把「黑白胶片显影时间库-beta.apk」传到安卓手机（微信/网盘/数据线均可），
+点击安装。若提示"未知来源"，在系统设置中允许安装即可。
+（v2 签名，Android 7.0+ 均可安装；应用完全离线，无需联网）
+
+【更新网站后重新打包】
+1. 修改 web/ 下的 index.html / 重新生成 data_web.js（build_web_data.py）
+2. 运行： ./build_apk.sh
+3. 产物：黑白胶片显影时间库-beta.apk
+
+【签名信息（重要，更新包必须用同一签名才能覆盖安装）】
+  keystore: apk/filmdev.keystore
+  别名: filmdev   密码: filmdev2026
+  签名指纹 SHA-256: 3235ebbe92d3e04bceb50672ba8b00f4652b4befc0e3ada59a8c2869fc5d66b6
+  请妥善保管 keystore，丢失后无法覆盖升级（只能卸载重装）。
+
+【构建环境（本机已配好）】
+  JDK 21:    ~/devtools/jdk21
+  Android SDK: ~/devtools/android-sdk (platform 35/36, build-tools 35)
+  项目:      apk/ (Capacitor 8, appId com.zyh.filmdevdb, 版本 1.0)
