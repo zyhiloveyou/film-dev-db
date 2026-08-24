@@ -68,6 +68,7 @@ section.page.on{display:block}
 .chips::-webkit-scrollbar{display:none}
 .chips button{flex:none; background:var(--chip); color:var(--chip-ink); padding:7px 12px; border-radius:99px; font-size:13px}
 .chips button.on{background:var(--acc); color:#fff}
+.chips .dev-select{width:100%; padding:11px 12px; border:1px solid var(--line); border-radius:10px; background:var(--card); color:var(--ink); font-size:14px; outline:none; flex:none}
 .tempwrap{display:flex; align-items:center; gap:10px; flex:1; min-width:200px}
 .tempwrap input[type=range]{flex:1; accent-color:var(--acc)}
 .tempwrap .tv{font-weight:700; min-width:52px; text-align:center; font-size:14px}
@@ -323,16 +324,27 @@ function renderRecipe(){
   const tr = $('#temp-range'), tv = $('#temp-val');
   tr.addEventListener('input', () => { state.temp = +tr.value; tv.textContent = state.temp + '°C'; renderCards(); });
 
-  // dev chips: distinct devs for this film
+  // dev selector: ≤8 种用横向 chips，>8 种改用下拉菜单（手机端更好操作）
   const devs = [...new Set((entriesByFilm.get(state.film) || []).map(e => e[1]))].sort((a, b) => DB.devs[a].localeCompare(DB.devs[b]));
   const cd = $('#chips-dev');
-  cd.innerHTML = `<button class="${state.dev == null ? 'on' : ''}" data-d="-1">全部 ${devs.length}</button>` +
-    devs.map(d => `<button class="${state.dev === d ? 'on' : ''}" data-d="${d}">${esc(DB.devs[d])}</button>`).join('');
-  cd.querySelectorAll('button').forEach(b => b.addEventListener('click', () => {
-    state.dev = +b.dataset.d === -1 ? null : +b.dataset.d;
-    cd.querySelectorAll('button').forEach(x => x.classList.toggle('on', x === b));
-    renderCards();
-  }));
+  if (devs.length > 8) {
+    cd.innerHTML = `<select class="dev-select" id="dev-sel" aria-label="选择显影液">
+      <option value="-1" ${state.dev == null ? 'selected' : ''}>全部显影液（${devs.length}）</option>
+      ${devs.map(d => `<option value="${d}" ${state.dev === d ? 'selected' : ''}>${esc(DB.devs[d])}</option>`).join('')}
+    </select>`;
+    $('#dev-sel').addEventListener('change', e => {
+      state.dev = +e.target.value === -1 ? null : +e.target.value;
+      renderCards();
+    });
+  } else {
+    cd.innerHTML = `<button class="${state.dev == null ? 'on' : ''}" data-d="-1">全部 ${devs.length}</button>` +
+      devs.map(d => `<button class="${state.dev === d ? 'on' : ''}" data-d="${d}">${esc(DB.devs[d])}</button>`).join('');
+    cd.querySelectorAll('button').forEach(b => b.addEventListener('click', () => {
+      state.dev = +b.dataset.d === -1 ? null : +b.dataset.d;
+      cd.querySelectorAll('button').forEach(x => x.classList.toggle('on', x === b));
+      renderCards();
+    }));
+  }
   renderCards();
 }
 function renderCards(){
