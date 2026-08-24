@@ -1,16 +1,16 @@
-# 黑白胶片显影时间数据库（Film Dev Times DB）
+# 🧪 黑白胶片显影时间数据库（Film Dev Times DB）— BETA 测试版
 
-> ✅ **本目录为正式版**：与 BETA 测试版同步（以 beta 为基准），内容一致。
+> ⚠️ **本目录为 BETA 测试版**：以后的新改动都在这里进行，测试通过后再同步回正式版。
 >
-> 🌐 **在线访问**：**https://zyhiloveyou.github.io/film-dev-db/** （GitHub Pages，手机/电脑通用）
+> ✅ **正式版（最终版，冻结）**：`/Users/zyh/Documents/harness/film-dev-db/` → 在线 **https://zyhiloveyou.github.io/film-dev-db/**
 >
-> 🧪 **BETA 测试版**：`/Users/zyh/Documents/harness/film-dev-db-beta/` → 在线 **https://zyhiloveyou.github.io/film-dev-db-beta/**（以后新改动先在 beta 进行，测试通过后同步回本正式版）
+> 🧪 **测试版**：本目录 → 在线 **https://zyhiloveyou.github.io/film-dev-db-beta/**
 
 全网搜集的黑白胶片 × 显影液冲洗时间数据库，覆盖 **手冲（倒置搅拌）与滚冲（连续搅拌/rotary）**、多种温度、多种稀释、增感（push）场景。
 
+> 🌐 **在线访问（BETA）**：**https://zyhiloveyou.github.io/film-dev-db-beta/** （GitHub Pages，手机/电脑通用）
+>
 > 💻 **本地版**：`web/index.html` + `web/data_web.js` 两个文件，双击即用、离线可用。
-> 📦 **Android APK**：`apk/` 目录有打包项目与构建脚本（`apk/build_apk.sh`），安装包分发见 `apk/打包说明.txt`。
-> 📱 **鸿蒙（HarmonyOS NEXT）**：`harmony/` 目录为原生工程，上架华为应用市场流程见 `harmony/上架指南.md`。
 
 ---
 
