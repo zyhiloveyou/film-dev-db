@@ -1,5 +1,5 @@
 #!/bin/bash
-# 一键打包 APK（在 film-dev-db-beta/apk/ 目录运行）
+# 一键打包 APK（在 film-dev-db/apk/ 目录运行）
 # 前置：web/ 目录的 index.html + data_web.js 已是最新（改数据后先跑 python3 build_web_data.py）
 set -e
 cd "$(dirname "$0")"
@@ -18,7 +18,7 @@ echo "== Gradle 构建（签名 release）=="
 cd android && ./gradlew assembleRelease --no-daemon
 
 cd ..
-cp android/app/build/outputs/apk/release/app-release.apk "黑白胶片显影时间库-beta.apk"
+cp android/app/build/outputs/apk/release/app-release.apk "黑白胶片显影时间库.apk"
 echo ""
-echo "✅ APK 生成：$(pwd)/黑白胶片显影时间库-beta.apk"
-ls -la "黑白胶片显影时间库-beta.apk"
+echo "✅ APK 生成：$(pwd)/黑白胶片显影时间库.apk"
+ls -la "黑白胶片显影时间库.apk"
