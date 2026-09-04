@@ -241,13 +241,16 @@ function renderFilmList(){
     if (!groups.has(key)) groups.set(key, []);
     groups.get(key).push([f, i]);
   });
+  const h = $('#hot');
   if (!q) {
-    const h = $('#hot'); h.innerHTML = '';
+    h.innerHTML = '';
     HOT.forEach(f => {
       const i = DB.films.indexOf(f);
       if (i >= 0) h.insertAdjacentHTML('beforeend', `<button data-fi="${i}">${esc(f)}</button>`);
     });
     h.querySelectorAll('button').forEach(b => b.addEventListener('click', () => selectFilm(+b.dataset.fi)));
+  } else {
+    h.innerHTML = ''; // 搜索时清空热门，避免残留
   }
   if (groups.size === 0) { box.innerHTML = '<div class="hint">没有找到匹配的胶片</div>'; return; }
   let html = '';
@@ -283,6 +286,7 @@ function selectFilm(fi){
   $('#view-reversal').style.display = 'none';
   $('#view-recipe').style.display = 'block';
   $('#mode-bar').style.display = '';
+  try { history.pushState({v: 'recipe'}, ''); } catch (e) {} // 支持系统返回键回到列表
   window.scrollTo({top:0});
   renderRecipe();
 }
@@ -293,6 +297,15 @@ function backToList(){
   $('#mode-bar').style.display = 'none';
   window.scrollTo({top:0});
 }
+function goBackFromRecipe(){
+  // 页内 ← 按钮：优先回退历史（安全，只回退本站内 push 的 state），否则直接回列表
+  try { if (history.state && history.state.v === 'recipe') { history.back(); return; } } catch (e) {}
+  backToList();
+}
+// 系统返回键 / 浏览器返回：从配方视图回到胶片列表
+window.addEventListener('popstate', () => {
+  if (state.film != null) backToList();
+});
 function renderRecipe(){
   if (state.film == null) return;
   const film = DB.films[state.film];
@@ -317,7 +330,7 @@ function renderRecipe(){
   </div>
   <div id="rcards"></div>`;
   v.innerHTML = html;
-  $('#btn-back').addEventListener('click', backToList);
+  $('#btn-back').addEventListener('click', goBackFromRecipe);
   $('#btn-fav').addEventListener('click', () => { toggleFav(film, $('#btn-fav')); });
 
   syncModeBar();
