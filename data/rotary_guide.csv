@@ -12,6 +12,9 @@ Adox CHS 100,D-76,1+1,100,10.0,8.5,9.0
 Adox CHS 100,D-76,stock,100,7.0,5.95,6.3
 Adox CHS 100,Eco Pro,1+2,64,8.5,7.22,7.65
 Adox CHS 100,Eco Pro,1+2,80,11.75,9.99,10.58
+Adox CHS 100,Eco Pro,stock,100,8.5,7.22,7.65
+Adox CHS 100,Emofin,stock,100,8.0,6.8,7.2
+Adox CHS 100,Emofin,stock,400,8.0,6.8,7.2
 Adox CHS 100,F76+,1+19,100,22.5,19.12,20.25
 Adox CHS 100,F76+,1+4,64,12.0,10.2,10.8
 Adox CHS 100,F76+,1+9,100,13.5,11.47,12.15
@@ -54,8 +57,10 @@ Adox CHS 100,Ultrafin,1+30,100,7.0,5.95,6.3
 Adox CHS 100,WD2D+,stock,100,9.5,8.07,8.55
 Adox CHS 100,XT-3,1+2,64,8.5,7.22,7.65
 Adox CHS 100,XT-3,1+2,80,11.75,9.99,10.58
+Adox CHS 100,XT-3,stock,100,8.5,7.22,7.65
 Adox CHS 100,Xtol,1+2,64,8.5,7.22,7.65
 Adox CHS 100,Xtol,1+2,80,11.75,9.99,10.58
+Adox CHS 100,Xtol,stock,100,8.5,7.22,7.65
 Adox CHS 100 II,510-Pyro,1+100,100,8.0,6.8,7.2
 Adox CHS 100 II,510-Pyro,1+100,200,13.0,11.05,11.7
 Adox CHS 100 II,ADX II,1+24,100,10.0,8.5,9.0
@@ -114,13 +119,19 @@ Adox CHS 25,Amaloco AM74,1+15,20,3.0,2.55,2.7
 Adox CHS 25,Atomal 49,1+1,25,5.0,4.25,4.5
 Adox CHS 25,Atomal 49,1+2,25,7.0,5.95,6.3
 Adox CHS 25,Atomal 49,stock,25,4.0,3.4,3.6
+Adox CHS 25,Bellini DF2 Duo Step,stock,25,6.0,5.1,5.4
 Adox CHS 25,Beutler,1+1+10,25,7.5,6.38,6.75
 Adox CHS 25,D-76,1+1,20,5.0,4.25,4.5
+Adox CHS 25,D-76,1+1,50(25),8.5,7.22,7.65
+Adox CHS 25,D-76,1+3,25,9.5,8.07,8.55
 Adox CHS 25,D-76,stock,50(25),6.0,5.1,5.4
+Adox CHS 25,Diafine,stock,25,6.0,5.1,5.4
 Adox CHS 25,DK-50,stock,25,5.0,4.25,4.5
 Adox CHS 25,Eco Pro,1+1,50,8.0,6.8,7.2
 Adox CHS 25,Eco Pro,1+3,20,11.0,9.35,9.9
 Adox CHS 25,Eco Pro,stock,20,6.0,5.1,5.4
+Adox CHS 25,Emofin,stock,25,6.0,5.1,5.4
+Adox CHS 25,Emofin,stock,32,8.0,6.8,7.2
 Adox CHS 25,F76+,1+19,25,12.5,10.62,11.25
 Adox CHS 25,F76+,1+9,25,5.5,4.67,4.95
 Adox CHS 25,F76+,1+9,50,8.5,7.22,7.65
@@ -132,11 +143,14 @@ Adox CHS 25,FX-39,1+9,25,4.0,3.4,3.6
 Adox CHS 25,HC-110,B,25,7.0,5.95,6.3
 Adox CHS 25,HC-110,H,50,7.0,5.95,6.3
 Adox CHS 25,ID-11,1+1,20,5.0,4.25,4.5
+Adox CHS 25,ID-11,1+1,50(25),8.5,7.22,7.65
+Adox CHS 25,ID-11,1+3,25,9.5,8.07,8.55
 Adox CHS 25,ID-11,stock,50(25),6.0,5.1,5.4
 Adox CHS 25,Ilfotec LC29,1+19,50,4.5,3.82,4.05
 Adox CHS 25,Microdol-X,1+3,25,14.5,12.32,13.05
 Adox CHS 25,Microphen,stock,25,5.0,4.25,4.5
 Adox CHS 25,Moersch eco,2+1+70,25,10.5,8.92,9.45
+Adox CHS 25,Neofin Blue,stock,25,7.5,6.38,6.75
 Adox CHS 25,Neofin Blue,stock,25,3.75,3.19,3.38
 Adox CHS 25,Pyrocat-HD,1+1+100,12,10.0,8.5,9.0
 Adox CHS 25,Pyrocat-HD,2+2+100,25,10.0,8.5,9.0
@@ -150,6 +164,7 @@ Adox CHS 25,Rodinal,1+50,25,8.0,6.8,7.2
 Adox CHS 25,Rodinal,1+99,20,6.5,5.52,5.85
 Adox CHS 25,Sprint Standard,1+9,25,5.0,4.25,4.5
 Adox CHS 25,Tanol,1+1+100,16,12.5,10.62,11.25
+Adox CHS 25,TMax Dev,1+4,25,4.5,3.82,4.05
 Adox CHS 25,TMax RS,stock,25,5.0,4.25,4.5
 Adox CHS 25,Ultrafin,1+10,20,3.0,2.55,2.7
 Adox CHS 25,Ultrafin,1+10,20,2.0,1.7,1.8
@@ -165,17 +180,23 @@ Adox CHS 25,Xtol,1+1,50,8.0,6.8,7.2
 Adox CHS 25,Xtol,1+3,20,11.0,9.35,9.9
 Adox CHS 25,Xtol,stock,20,6.0,5.1,5.4
 Adox CHS 50,Acufine,stock,160,2.75,2.34,2.48
+Adox CHS 50,Acurol-N,1+50,40,8.25,7.01,7.42
 Adox CHS 50,Amaloco AM74,1+15,40,3.5,2.98,3.15
 Adox CHS 50,Atomal 49,1+1,50,8.0,6.8,7.2
 Adox CHS 50,Atomal 49,1+2,50,11.0,9.35,9.9
 Adox CHS 50,Atomal 49,stock,50,6.0,5.1,5.4
+Adox CHS 50,Bellini DF2 Duo Step,stock,50,8.0,6.8,7.2
 Adox CHS 50,Beutler,1+1+10,50,8.5,7.22,7.65
 Adox CHS 50,D-76,1+1,100(50),12.0,10.2,10.8
 Adox CHS 50,D-76,1+1,40,5.25,4.46,4.73
+Adox CHS 50,D-76,1+1,50,8.5,7.22,7.65
 Adox CHS 50,D-76,stock,100(50),7.0,5.95,6.3
 Adox CHS 50,D-76,stock,50,6.5,5.52,5.85
+Adox CHS 50,Diafine,stock,50,8.0,6.8,7.2
 Adox CHS 50,Eco Pro,1+1,50,10.0,8.5,9.0
 Adox CHS 50,Eco Pro,stock,50,8.0,6.8,7.2
+Adox CHS 50,Emofin,stock,50,5.0,4.25,4.5
+Adox CHS 50,Emofin,stock,64,10.0,8.5,9.0
 Adox CHS 50,Fomadon LQN,1+10,50,7.0,5.95,6.3
 Adox CHS 50,Fomadon R09,1+100,50,19.0,16.15,17.1
 Adox CHS 50,FX-39,1+9,50,5.5,4.67,4.95
@@ -209,9 +230,11 @@ Adox CHS 50,XT-3,1+1,50,10.0,8.5,9.0
 Adox CHS 50,XT-3,stock,50,8.0,6.8,7.2
 Adox CHS 50,Xtol,1+1,50,10.0,8.5,9.0
 Adox CHS 50,Xtol,stock,50,8.0,6.8,7.2
+Adox CMS 20 II,Adotech III,1+11,20,10.25,8.71,9.22
 Adox CMS 20 II,Adotech III,1+9,20,8.0,6.8,7.2
 Adox CMS 20 II,Adotech IV,1+14,20,11.0,9.35,9.9
 Adox CMS 20 II,Adotech IV,1+14,3,7.5,6.38,6.75
+Adox CMS 20 II,Adotech IV,1+14,6,10.75,9.14,9.68
 Adox CMS 20 II,Atomal 49,1+2,20,6.0,5.1,5.4
 Adox CMS 20 II,Caffenol C-L,1+1,12,15.0,12.75,13.5
 Adox CMS 20 II,Caffenol C-L,stock,20,15.0,12.75,13.5
@@ -225,6 +248,7 @@ Adox CMS 20 II,Ilfosol 3,1+14,20,6.0,5.1,5.4
 Adox CMS 20 II,PMK,1+2+100,12,10.0,8.5,9.0
 Adox CMS 20 II,POTA,stock,12,12.5,10.62,11.25
 Adox CMS 20 II,Rodinal,1+100,20,18.0,15.3,16.2
+Adox CMS 20 II,Rodinal,1+200,10,14.5,12.32,13.05
 Adox CMS 20 II,Rollei Supergrain,1+14,12,10.0,8.5,9.0
 Adox CMS 20 II,Romek PQ9,1+53,25,33.0,28.05,29.7
 Adox CMS 20 II,Sprint Standard,1+9,12,8.5,7.22,7.65
@@ -255,6 +279,7 @@ Adox ORT 25,D-76,stock,25,6.0,5.1,5.4
 Adox ORT 25,Eco Pro,stock,25,6.0,5.1,5.4
 Adox ORT 25,ID-11,stock,25,6.0,5.1,5.4
 Adox ORT 25,Rodinal,1+25,25,4.0,3.4,3.6
+Adox ORT 25,Rodinal,1+50,25,5.5,4.67,4.95
 Adox ORT 25,Silberra Ascorol,1+29,25,6.0,5.1,5.4
 Adox ORT 25,TMax Dev,1+4,25,9.0,7.65,8.1
 Adox ORT 25,XT-3,stock,25,6.0,5.1,5.4
@@ -284,9 +309,12 @@ Adox Silvermax,510-Pyro,1+100,50,15.25,12.96,13.72
 Adox Silvermax,Acurol-N,1+50,50,10.0,8.5,9.0
 Adox Silvermax,Adox HR-DEV,1+30,200,15.0,12.75,13.5
 Adox Silvermax,ADX II,1+24,100,10.0,8.5,9.0
+Adox Silvermax,Atomal 49,stock,100,9.0,7.65,8.1
+Adox Silvermax,Bellini DF2 Duo Step,stock,100,8.0,6.8,7.2
 Adox Silvermax,Caffenol Concoction,stock,100,15.0,12.75,13.5
 Adox Silvermax,D-76,1+1,100,11.0,9.35,9.9
 Adox Silvermax,D-76,stock,100,9.0,7.65,8.1
+Adox Silvermax,Diafine,stock,100,8.0,6.8,7.2
 Adox Silvermax,Eco Pro,stock,100,7.0,5.95,6.3
 Adox Silvermax,FX-39,1+9,100,8.0,6.8,7.2
 Adox Silvermax,HC-110,B,100,7.0,5.95,6.3
@@ -490,6 +518,7 @@ AgfaPhoto APX 100,Spur Speed-Major,1+9,1000,13.0,11.05,11.7
 AgfaPhoto APX 100,Spur TRX 2000,1+35,160,10.0,8.5,9.0
 AgfaPhoto APX 100,Spur UFP,1+30,80,8.0,6.8,7.2
 AgfaPhoto APX 100,Studional,1+30,100,9.0,7.65,8.1
+AgfaPhoto APX 100,TMax Dev,1+4,100,7.25,6.16,6.53
 AgfaPhoto APX 100,TMax Dev,1+4,200,8.5,7.22,7.65
 AgfaPhoto APX 100,Ultrafin T-Plus,1+4,100,9.0,7.65,8.1
 AgfaPhoto APX 100,Uncle Mort's,1+9,100,6.0,5.1,5.4
@@ -626,6 +655,9 @@ Argenti ARF+ 400,HC-110,1+31,400,6.0,5.1,5.4
 Argenti ARF+ 400,HC-110,H,400,12.0,10.2,10.8
 Argenti ARF+ 400,Rodinal,1+50,1600,28.0,23.8,25.2
 Argenti ARF+ 400,Rodinal,1+50,400,12.5,10.62,11.25
+Argenti LSRF,Bellini DF2 Duo Step,stock,50,6.0,5.1,5.4
+Argenti LSRF,D-76,1+1,50,10.5,8.92,9.45
+Argenti LSRF,Diafine,stock,50,6.0,5.1,5.4
 Argenti LSRF,Eco Pro,stock,50,8.0,6.8,7.2
 Argenti LSRF,Fomadon LQN,1+10,50,7.0,5.95,6.3
 Argenti LSRF,HC-110,H,25,12.5,10.62,11.25
@@ -636,6 +668,8 @@ Argenti LSRF,Uncle Mort's,1+9,50,8.0,6.8,7.2
 Argenti LSRF,XT-3,stock,50,8.0,6.8,7.2
 Argenti LSRF,Xtol,stock,50,8.0,6.8,7.2
 Argenti Nanotomic-X,Eco Pro,stock,100,12.0,10.2,10.8
+Argenti Nanotomic-X,Nanodol,1+19,100,11.0,9.35,9.9
+Argenti Nanotomic-X,Nanodol,1+19,50,9.0,7.65,8.1
 Argenti Nanotomic-X,Rodinal,1+200,25,60.0,51.0,54.0
 Argenti Nanotomic-X,Studional,1+45,12,7.0,5.95,6.3
 Argenti Nanotomic-X,XT-3,stock,100,12.0,10.2,10.8
@@ -646,7 +680,9 @@ Argenti Pan-X,Rodinal,1+24,200,10.0,8.5,9.0
 Argenti Pan-X,Rodinal,1+24,400,22.0,18.7,19.8
 Argenti Panchromatic (Contrasto),Rodinal,1+25,200,8.0,6.8,7.2
 Argenti Protopan 400,Acufine,stock,400,17.0,14.45,15.3
+Argenti Protopan 400,Bellini DF2 Duo Step,stock,800,8.0,6.8,7.2
 Argenti Protopan 400,D-76,stock,400,10.0,8.5,9.0
+Argenti Protopan 400,Diafine,stock,800,8.0,6.8,7.2
 Argenti Protopan 400,Eco Pro,1+2,400,17.0,14.45,15.3
 Argenti Protopan 400,HC-110,B,400,7.0,5.95,6.3
 Argenti Protopan 400,ID-11,1+1,400,11.0,9.35,9.9
@@ -702,6 +738,8 @@ Arista EDU Ultra 100,Acufine,stock,100,3.5,2.98,3.15
 Arista EDU Ultra 100,Arista® Premium,1+9,100,7.0,5.95,6.3
 Arista EDU Ultra 100,Atomal 49,1+1,100,13.0,11.05,11.7
 Arista EDU Ultra 100,Atomal 49,1+2,100,17.0,14.45,15.3
+Arista EDU Ultra 100,Atomal 49,stock,100,7.0,5.95,6.3
+Arista EDU Ultra 100,Bellini DF2 Duo Step,stock,100,8.0,6.8,7.2
 Arista EDU Ultra 100,Black/White & Green,1+49,100,11.75,9.99,10.58
 Arista EDU Ultra 100,Cawanol,stock,100,17.0,14.45,15.3
 Arista EDU Ultra 100,D-23,1+1,100,18.5,15.72,16.65
@@ -709,22 +747,38 @@ Arista EDU Ultra 100,D-23,stock,100,11.0,9.35,9.9
 Arista EDU Ultra 100,D-23,stock,200,15.0,12.75,13.5
 Arista EDU Ultra 100,D-76,1+1,100,10.0,8.5,9.0
 Arista EDU Ultra 100,D-76,1+3,100,17.0,14.45,15.3
+Arista EDU Ultra 100,D-76,stock,100,6.5,5.52,5.85
 Arista EDU Ultra 100,D-96,stock,100,8.0,6.8,7.2
+Arista EDU Ultra 100,Diafine,stock,100,8.0,6.8,7.2
 Arista EDU Ultra 100,DK-50,1+1,50,2.0,1.7,1.8
 Arista EDU Ultra 100,Eco Pro,1+2,125,9.0,7.65,8.1
+Arista EDU Ultra 100,Eco Pro,stock,100,5.5,4.67,4.95
 Arista EDU Ultra 100,F76+,1+9,100,7.0,5.95,6.3
+Arista EDU Ultra 100,Fomadon LQN,1+10,100,7.5,6.38,6.75
 Arista EDU Ultra 100,Fomadon LQN,1+10,100,18.0,15.3,16.2
+Arista EDU Ultra 100,Fomadon LQN,1+14,100,9.5,8.07,8.55
+Arista EDU Ultra 100,Fomadon LQR,1+10,100,5.5,4.67,4.95
+Arista EDU Ultra 100,Fomadon P,stock,100,7.5,6.38,6.75
 Arista EDU Ultra 100,HC-110,B,100,6.0,5.1,5.4
 Arista EDU Ultra 100,HC-110,B,50,4.5,3.82,4.05
 Arista EDU Ultra 100,HC-110,H,100,11.5,9.78,10.35
+Arista EDU Ultra 100,ID-11,1+1,100,9.0,7.65,8.1
+Arista EDU Ultra 100,ID-11,1+3,100,16.0,13.6,14.4
+Arista EDU Ultra 100,ID-11,stock,100,6.5,5.52,5.85
 Arista EDU Ultra 100,Ilfosol 3,1+14,100,6.0,5.1,5.4
 Arista EDU Ultra 100,Ilfosol 3,1+9,100,5.0,4.25,4.5
 Arista EDU Ultra 100,Ilfotec HC,1+79,100,13.0,11.05,11.7
 Arista EDU Ultra 100,Ilfotec LC29,1+19,100,7.0,5.95,6.3
 Arista EDU Ultra 100,Liquidol,1+19,100,1.0,0.85,0.9
 Arista EDU Ultra 100,Marathon,1+9,100,6.0,5.1,5.4
+Arista EDU Ultra 100,Microdol-X,1+1,100,9.5,8.07,8.55
 Arista EDU Ultra 100,Microdol-X,stock,100,8.0,6.8,7.2
+Arista EDU Ultra 100,Microphen,1+1,100,8.5,7.22,7.65
+Arista EDU Ultra 100,Microphen,1+3,100,13.5,11.47,12.15
+Arista EDU Ultra 100,Microphen,stock,100,6.0,5.1,5.4
 Arista EDU Ultra 100,PC-TEA,1+50,100,10.0,8.5,9.0
+Arista EDU Ultra 100,Perceptol,1+1,100,10.5,8.92,9.45
+Arista EDU Ultra 100,Perceptol,1+3,100,14.5,12.32,13.05
 Arista EDU Ultra 100,Perceptol,stock,100,8.0,6.8,7.2
 Arista EDU Ultra 100,Perceptol,stock,50,7.5,6.38,6.75
 Arista EDU Ultra 100,Promicrol,1+14,200,13.0,11.05,11.7
@@ -732,13 +786,16 @@ Arista EDU Ultra 100,Rodinal,1+100,50,7.0,5.95,6.3
 Arista EDU Ultra 100,Rodinal,1+25,100,3.5,2.98,3.15
 Arista EDU Ultra 100,Rodinal,1+50,100,7.0,5.95,6.3
 Arista EDU Ultra 100,Sprint Standard,1+9,100,8.5,7.22,7.65
+Arista EDU Ultra 100,TMax Dev,1+4,100,5.5,4.67,4.95
 Arista EDU Ultra 100,TMax RS,stock,100,5.5,4.67,4.95
 Arista EDU Ultra 100,Ultrafin,1+20,100,7.5,6.38,6.75
 Arista EDU Ultra 100,Ultrafin,1+20,100,4.5,3.82,4.05
 Arista EDU Ultra 100,Ultrafin T-Plus,1+8,100,9.0,7.65,8.1
 Arista EDU Ultra 100,WD2D+,1+1+50,50,7.0,5.95,6.3
 Arista EDU Ultra 100,XT-3,1+2,125,9.0,7.65,8.1
+Arista EDU Ultra 100,XT-3,stock,100,5.5,4.67,4.95
 Arista EDU Ultra 100,Xtol,1+2,125,9.0,7.65,8.1
+Arista EDU Ultra 100,Xtol,stock,100,5.5,4.67,4.95
 Arista EDU Ultra 200,510-Pyro,1+100,100,11.25,9.56,10.12
 Arista EDU Ultra 200,510-Pyro,1+100,800,13.5,11.47,12.15
 Arista EDU Ultra 200,Acufine,stock,200,3.0,2.55,2.7
@@ -746,30 +803,45 @@ Arista EDU Ultra 200,Arista® Premium,1+9,200,7.5,6.38,6.75
 Arista EDU Ultra 200,Atomal 49,1+1,200,13.0,11.05,11.7
 Arista EDU Ultra 200,Atomal 49,1+2,200,17.0,14.45,15.3
 Arista EDU Ultra 200,Atomal 49,3+2,200,8.0,6.8,7.2
+Arista EDU Ultra 200,Atomal 49,stock,200,9.0,7.65,8.1
+Arista EDU Ultra 200,Bellini DF2 Duo Step,stock,200,8.0,6.8,7.2
 Arista EDU Ultra 200,Black/White & Green,1+49,200,10.0,8.5,9.0
 Arista EDU Ultra 200,Caffenol C-L,stock,200,70.0,59.5,63.0
 Arista EDU Ultra 200,Cawanol,stock,200,15.0,12.75,13.5
+Arista EDU Ultra 200,D-76,1+1,200,8.5,7.22,7.65
+Arista EDU Ultra 200,D-76,1+3,200,12.5,10.62,11.25
 Arista EDU Ultra 200,D-76,1+3,400,18.0,15.3,16.2
+Arista EDU Ultra 200,D-76,stock,200,5.5,4.67,4.95
+Arista EDU Ultra 200,Diafine,stock,200,8.0,6.8,7.2
 Arista EDU Ultra 200,Eco Pro,1+1,200,9.0,7.65,8.1
 Arista EDU Ultra 200,Eco Pro,stock,200,6.0,5.1,5.4
 Arista EDU Ultra 200,F76+,1+9,200,7.5,6.38,6.75
+Arista EDU Ultra 200,Fomadon LQN,1+10,200,6.0,5.1,5.4
 Arista EDU Ultra 200,HC-110,B,200,3.5,2.98,3.15
 Arista EDU Ultra 200,HC-110,B,400,7.0,5.95,6.3
 Arista EDU Ultra 200,HC-110,E,800,12.5,10.62,11.25
+Arista EDU Ultra 200,ID-11,1+1,200,8.5,7.22,7.65
+Arista EDU Ultra 200,ID-11,1+3,200,12.5,10.62,11.25
 Arista EDU Ultra 200,ID-11,1+3,400,18.0,15.3,16.2
+Arista EDU Ultra 200,ID-11,stock,200,5.5,4.67,4.95
 Arista EDU Ultra 200,Ilfosol 3,1+9,200,6.0,5.1,5.4
 Arista EDU Ultra 200,Ilfotec DD-X,1+4,200,6.0,5.1,5.4
 Arista EDU Ultra 200,Ilfotec HC,1+31,800,12.0,10.2,10.8
 Arista EDU Ultra 200,Marathon,1+9,100,5.0,4.25,4.5
 Arista EDU Ultra 200,Microdol-X,1+1,200,8.5,7.22,7.65
 Arista EDU Ultra 200,Microdol-X,stock,200,9.0,7.65,8.1
+Arista EDU Ultra 200,Microphen,1+3,200,12.5,10.62,11.25
+Arista EDU Ultra 200,Microphen,stock,200,5.5,4.67,4.95
 Arista EDU Ultra 200,Perceptol,1+1,200,7.5,6.38,6.75
+Arista EDU Ultra 200,Perceptol,1+3,200,12.5,10.62,11.25
 Arista EDU Ultra 200,Perceptol,stock,200,6.0,5.1,5.4
 Arista EDU Ultra 200,PMK,1+2+50,250,12.0,10.2,10.8
 Arista EDU Ultra 200,Rodinal,1+25,200,5.0,4.25,4.5
+Arista EDU Ultra 200,Rodinal,1+50,200,9.0,7.65,8.1
 Arista EDU Ultra 200,Rodinal,1+50,400,14.0,11.9,12.6
 Arista EDU Ultra 200,Silberra Ascorol,1+29,200,7.0,5.95,6.3
 Arista EDU Ultra 200,Sprint Standard,1+9,200,6.5,5.52,5.85
+Arista EDU Ultra 200,TMax Dev,1+4,200,5.5,4.67,4.95
 Arista EDU Ultra 200,TMax RS,stock,200,4.5,3.82,4.05
 Arista EDU Ultra 200,Ultrafin,1+20,200,7.5,6.38,6.75
 Arista EDU Ultra 200,XT-3,1+1,200,9.0,7.65,8.1
@@ -781,12 +853,17 @@ Arista EDU Ultra 400,Arista® 76 Powder,1+1,400,13.0,11.05,11.7
 Arista EDU Ultra 400,Arista® Premium,1+9,400,8.0,6.8,7.2
 Arista EDU Ultra 400,Atomal 49,1+1,400,13.0,11.05,11.7
 Arista EDU Ultra 400,Atomal 49,1+2,400,17.0,14.45,15.3
+Arista EDU Ultra 400,Atomal 49,stock,400,9.0,7.65,8.1
 Arista EDU Ultra 400,Black/White & Green,1+49,400,13.5,11.47,12.15
 Arista EDU Ultra 400,Caffenol C-L,stock,1600,64.0,54.4,57.6
 Arista EDU Ultra 400,Caffenol Delta STD,stock,400,16.0,13.6,14.4
 Arista EDU Ultra 400,Cawanol,stock,400,17.0,14.45,15.3
+Arista EDU Ultra 400,D-76,1+1,200,8.5,7.22,7.65
+Arista EDU Ultra 400,D-76,1+1,400,11.5,9.78,10.35
 Arista EDU Ultra 400,D-76,1+1,800,17.0,14.45,15.3
+Arista EDU Ultra 400,D-76,1+3,400,22.5,19.12,20.25
 Arista EDU Ultra 400,D-76,stock,1600,20.0,17.0,18.0
+Arista EDU Ultra 400,D-76,stock,400,7.5,6.38,6.75
 Arista EDU Ultra 400,DS-10,1+1,400,13.0,11.05,11.7
 Arista EDU Ultra 400,Eco Pro,1+1,400,9.5,8.07,8.55
 Arista EDU Ultra 400,Eco Pro,1+1,400,12.0,10.2,10.8
@@ -795,23 +872,35 @@ Arista EDU Ultra 400,F76+,1+9,400,8.0,6.8,7.2
 Arista EDU Ultra 400,Fomadon Excel,1+1,400,9.5,8.07,8.55
 Arista EDU Ultra 400,Fomadon Excel,1+3,400,12.5,10.62,11.25
 Arista EDU Ultra 400,Fomadon Excel,stock,400,7.0,5.95,6.3
+Arista EDU Ultra 400,Fomadon LQN,1+10,400,9.0,7.65,8.1
+Arista EDU Ultra 400,Fomadon LQR,1+10,400,7.5,6.38,6.75
+Arista EDU Ultra 400,Fomadon P,stock,400,10.5,8.92,9.45
+Arista EDU Ultra 400,Fomadon R09,1+200,400,61.0,51.85,54.9
 Arista EDU Ultra 400,HC-110,B,1600,12.5,10.62,11.25
 Arista EDU Ultra 400,HC-110,B,320,6.0,5.1,5.4
 Arista EDU Ultra 400,HC-110,B,400,7.0,5.95,6.3
 Arista EDU Ultra 400,HC-110,E,200,7.5,6.38,6.75
 Arista EDU Ultra 400,HC-110,H,100,11.0,9.35,9.9
 Arista EDU Ultra 400,HC-110,H,400,13.0,11.05,11.7
+Arista EDU Ultra 400,ID-11,1+1,400,12.5,10.62,11.25
+Arista EDU Ultra 400,ID-11,1+3,400,22.5,19.12,20.25
+Arista EDU Ultra 400,ID-11,stock,400,7.5,6.38,6.75
 Arista EDU Ultra 400,Ilfosol 3,1+9,400,8.5,7.22,7.65
 Arista EDU Ultra 400,Ilfotec DD-X,1+9,400,12.0,10.2,10.8
 Arista EDU Ultra 400,Marathon,1+9,100,6.5,5.52,5.85
 Arista EDU Ultra 400,Microdol-X,1+3,400,32.0,27.2,28.8
 Arista EDU Ultra 400,Microdol-X,stock,400,15.0,12.75,13.5
+Arista EDU Ultra 400,Microphen,1+1,400,12.5,10.62,11.25
+Arista EDU Ultra 400,Microphen,1+3,400,24.5,20.82,22.05
+Arista EDU Ultra 400,Microphen,stock,400,8.5,7.22,7.65
+Arista EDU Ultra 400,Perceptol,stock,400,9.5,8.07,8.55
 Arista EDU Ultra 400,Promicrol,1+14,800,15.0,12.75,13.5
 Arista EDU Ultra 400,Rodinal,1+100,400,120.0,102.0,108.0
 Arista EDU Ultra 400,Rodinal,1+25,400,5.5,4.67,4.95
 Arista EDU Ultra 400,Rodinal,1+50,400,11.0,9.35,9.9
 Arista EDU Ultra 400,Silberra Ascorol,1+29,400,9.0,7.65,8.1
 Arista EDU Ultra 400,Sprint Standard,1+9,400,13.0,11.05,11.7
+Arista EDU Ultra 400,TMax Dev,1+4,400,7.5,6.38,6.75
 Arista EDU Ultra 400,TMax RS,stock,400,8.0,6.8,7.2
 Arista EDU Ultra 400,Ultrafin,1+20,400,15.0,12.75,13.5
 Arista EDU Ultra 400,WD2D+,stock,320,13.5,11.47,12.15
@@ -831,6 +920,7 @@ Arista Ortho Litho,Rodinal,1+100,6,3.0,2.55,2.7
 Arista Premium 100,Arista® Liquid,1+9,125,5.75,4.89,5.17
 Arista Premium 100,Arista® Liquid,1+9,125,5.5,4.67,4.95
 Arista Premium 100,Arista® Premium,1+9,125,5.5,4.67,4.95
+Arista Premium 100,Bellini DF2 Duo Step,stock,400,6.0,5.1,5.4
 Arista Premium 100,D-23,1+1,125,13.0,11.05,11.7
 Arista Premium 100,D-23,1+3,125,16.0,13.6,14.4
 Arista Premium 100,D-23,stock,125,7.0,5.95,6.3
@@ -841,6 +931,7 @@ Arista Premium 100,D-76,1+3,125,13.0,11.05,11.7
 Arista Premium 100,D-76,stock,125,5.5,4.67,4.95
 Arista Premium 100,D-76,stock,250,5.5,4.67,4.95
 Arista Premium 100,D-76,stock,500,7.75,6.59,6.98
+Arista Premium 100,Diafine,stock,400,6.0,5.1,5.4
 Arista Premium 100,Eco Pro,1+1,1000,14.75,12.54,13.28
 Arista Premium 100,Eco Pro,1+1,1000,15.5,13.17,13.95
 Arista Premium 100,Eco Pro,1+1,125,8.25,7.01,7.42
@@ -873,6 +964,7 @@ Arista Premium 100,Eco Pro,stock,32,4.5,3.82,4.05
 Arista Premium 100,Eco Pro,stock,500,8.25,7.01,7.42
 Arista Premium 100,Eco Pro,stock,500,8.0,6.8,7.2
 Arista Premium 100,Eco Pro,stock,64,4.5,3.82,4.05
+Arista Premium 100,Emofin,stock,125,8.0,6.8,7.2
 Arista Premium 100,Extend Plus,1+15,125,8.0,6.8,7.2
 Arista Premium 100,F76+,1+9,125,5.5,4.67,4.95
 Arista Premium 100,FD10,1+14,125,10.0,8.5,9.0
@@ -1011,6 +1103,7 @@ Arista Premium 400,Amaloco AM74,1+7,400,5.0,4.25,4.5
 Arista Premium 400,Arista® Liquid,1+9,400,6.25,5.31,5.62
 Arista Premium 400,Arista® Liquid,1+9,400,6.0,5.1,5.4
 Arista Premium 400,Arista® Premium,1+9,400,6.0,5.1,5.4
+Arista Premium 400,Bellini DF2 Duo Step,stock,1600,6.0,5.1,5.4
 Arista Premium 400,Beutler,1+1+10,200,10.0,8.5,9.0
 Arista Premium 400,D-23,1+1,400,13.0,11.05,11.7
 Arista Premium 400,D-23,1+3,400,20.0,17.0,18.0
@@ -1019,12 +1112,14 @@ Arista Premium 400,D-76,1+1,1600,13.25,11.26,11.93
 Arista Premium 400,D-76,1+1,200,9.5,8.07,8.55
 Arista Premium 400,D-76,1+1,3200,16.0,13.6,14.4
 Arista Premium 400,D-76,1+1,400,9.75,8.29,8.78
+Arista Premium 400,D-76,1+1,400,10.5,8.92,9.45
 Arista Premium 400,D-76,1+1,50,7.0,5.95,6.3
 Arista Premium 400,D-76,stock,1600,9.5,8.07,8.55
 Arista Premium 400,D-76,stock,1600,13.0,11.05,11.7
 Arista Premium 400,D-76,stock,3200,11.0,9.35,9.9
 Arista Premium 400,D-76,stock,400,6.75,5.74,6.08
 Arista Premium 400,D-76,stock,400,8.0,6.8,7.2
+Arista Premium 400,Diafine,stock,1600,6.0,5.1,5.4
 Arista Premium 400,DK-50,1+1,400,6.0,5.1,5.4
 Arista Premium 400,Eco Pro,1+1,100,8.0,6.8,7.2
 Arista Premium 400,Eco Pro,1+1,1600,13.25,11.26,11.93
@@ -1056,6 +1151,8 @@ Arista Premium 400,Eco Pro,stock,3200,10.5,8.92,9.45
 Arista Premium 400,Eco Pro,stock,400,7.0,5.95,6.3
 Arista Premium 400,Eco Pro,stock,400,6.75,5.74,6.08
 Arista Premium 400,Eco Pro,stock,800,7.75,6.59,6.98
+Arista Premium 400,Emofin,stock,400,13.0,11.05,11.7
+Arista Premium 400,Emofin,stock,800,7.0,5.95,6.3
 Arista Premium 400,Extend Plus,1+15,400,11.0,9.35,9.9
 Arista Premium 400,Extend Plus,1+15,400,9.0,7.65,8.1
 Arista Premium 400,F76+,1+9,400,6.25,5.31,5.62
@@ -1068,16 +1165,19 @@ Arista Premium 400,Foma Universal,1+3,400,7.5,6.38,6.75
 Arista Premium 400,FX-19,stock,100,9.0,7.65,8.1
 Arista Premium 400,FX-39,1+9,400,8.0,6.8,7.2
 Arista Premium 400,HC-110,1+100,1600,50.0,42.5,45.0
+Arista Premium 400,HC-110,1+100,400,28.5,24.22,25.65
 Arista Premium 400,HC-110,A,400,3.75,3.19,3.38
 Arista Premium 400,HC-110,A,800,5.25,4.46,4.73
 Arista Premium 400,HC-110,B,1600,16.0,13.6,14.4
 Arista Premium 400,HC-110,B,200,6.75,5.74,6.08
+Arista Premium 400,HC-110,B,400,5.25,4.46,4.73
 Arista Premium 400,HC-110,B,400,7.5,6.38,6.75
 Arista Premium 400,HC-110,E,200,4.5,3.82,4.05
 Arista Premium 400,ID-11,1+1,1600,13.25,11.26,11.93
 Arista Premium 400,ID-11,1+1,200,9.5,8.07,8.55
 Arista Premium 400,ID-11,1+1,3200,16.0,13.6,14.4
 Arista Premium 400,ID-11,1+1,400,9.75,8.29,8.78
+Arista Premium 400,ID-11,1+1,400,10.5,8.92,9.45
 Arista Premium 400,ID-11,1+1,50,7.0,5.95,6.3
 Arista Premium 400,ID-11,stock,1600,9.5,8.07,8.55
 Arista Premium 400,ID-11,stock,1600,13.0,11.05,11.7
@@ -1150,6 +1250,7 @@ Arista Premium 400,Sprint Standard,1+4,1600,13.0,11.05,11.7
 Arista Premium 400,Sprint Standard,1+9,400,10.0,8.5,9.0
 Arista Premium 400,Spur SLD,1+9,400,5.0,4.25,4.5
 Arista Premium 400,Studional,1+15,250,5.5,4.67,4.95
+Arista Premium 400,Studional,1+15,400,4.25,3.61,3.83
 Arista Premium 400,Suprol,1+19,400,4.0,3.4,3.6
 Arista Premium 400,TMax Dev,1+4,1600,8.75,7.44,7.88
 Arista Premium 400,TMax Dev,1+4,1600,10.0,8.5,9.0
@@ -1220,7 +1321,19 @@ Arista Premium 400,Xtol,stock,3200,10.5,8.92,9.45
 Arista Premium 400,Xtol,stock,400,7.0,5.95,6.3
 Arista Premium 400,Xtol,stock,400,6.75,5.74,6.08
 Arista Premium 400,Xtol,stock,800,7.75,6.59,6.98
+Arista Premium DT,D-76,stock,100,9.0,7.65,8.1
+Aristapan 100,Arista Liquid,1+9,100,6.75,5.74,6.08
+Aristapan 100,Arista Premium,1+9,100,6.75,5.74,6.08
+Aristapan 100,D-76,1+1,100,8.75,7.44,7.88
+Aristapan 100,D-76,stock,100,6.75,5.74,6.08
+Aristapan 100,Eco Pro,stock,100,6.75,5.74,6.08
+Aristapan 100,HC-110,1+31,100,5.75,4.89,5.17
+Aristapan 100,LegacyPro® L-110,1+31,100,5.75,4.89,5.17
+Aristapan 100,Rodinal,1+25,100,6.75,5.74,6.08
+Aristapan 100,Xtol,1+1,100,8.25,7.01,7.42
+Astrum A2-SH,Bellini DF2 Duo Step,stock,640,6.0,5.1,5.4
 Astrum A2-SH,D-76,stock,400,13.0,11.05,11.7
+Astrum A2-SH,Diafine,stock,640,6.0,5.1,5.4
 Astrum A2-SH,ID-11,stock,400,13.0,11.05,11.7
 Astrum A2-SH,Microphen,stock,3200,32.0,27.2,28.8
 Astrum A2-SH,Mikratol-2,1+50,200,12.0,10.2,10.8
@@ -1287,8 +1400,10 @@ Astrum Micrat-Orto,Xtol,stock,0.75,8.0,6.8,7.2
 Astrum MZ-3,Caffenol,stock,3,30.0,25.5,27.0
 Astrum MZ-3,HC-110,H,3,9.25,7.86,8.33
 Astrum MZ-3,Ilfotec HC,1+17,3,6.0,5.1,5.4
+Astrum NK-2,Bellini DF2 Duo Step,stock,100,8.0,6.8,7.2
 Astrum NK-2,D-76,stock,100,10.0,8.5,9.0
 Astrum NK-2,D-76,stock,320,11.0,9.35,9.9
+Astrum NK-2,Diafine,stock,100,8.0,6.8,7.2
 Astrum NK-2,Eco Pro,stock,100,7.25,6.16,6.53
 Astrum NK-2,HC-110,B,100,10.0,8.5,9.0
 Astrum NK-2,ID-11,stock,100,10.0,8.5,9.0
@@ -1297,8 +1412,10 @@ Astrum NK-2,Ilfosol 3,1+14,100,12.0,10.2,10.8
 Astrum NK-2,Rollei D74,1+15,100,5.0,4.25,4.5
 Astrum NK-2,XT-3,stock,100,7.25,6.16,6.53
 Astrum NK-2,Xtol,stock,100,7.25,6.16,6.53
+Astrum NK-2SH,Bellini DF2 Duo Step,stock,100,8.0,6.8,7.2
 Astrum NK-2SH,D-76,stock,100,10.0,8.5,9.0
 Astrum NK-2SH,D-76,stock,320,11.0,9.35,9.9
+Astrum NK-2SH,Diafine,stock,100,8.0,6.8,7.2
 Astrum NK-2SH,Eco Pro,stock,100,7.25,6.16,6.53
 Astrum NK-2SH,HC-110,B,100,10.0,8.5,9.0
 Astrum NK-2SH,ID-11,stock,100,10.0,8.5,9.0
@@ -1421,12 +1538,14 @@ CatLABS X Film 320,Xtol,stock,320,11.0,9.35,9.9
 CatLABS X Film 80,510-Pyro,1+100,32,13.0,11.05,11.7
 CatLABS X Film 80,510-Pyro,1+100,32,11.0,9.35,9.9
 CatLABS X Film 80,Acurol-N,1+100,64,24.5,20.82,22.05
+CatLABS X Film 80,Bellini DF2 Duo Step,stock,100,8.0,6.8,7.2
 CatLABS X Film 80,Bellini FX6a Monobath,stock,80,8.5,7.22,7.65
 CatLABS X Film 80,D-76,1+1,80,15.0,12.75,13.5
 CatLABS X Film 80,D-76,1+1,800,21.0,17.85,18.9
 CatLABS X Film 80,D-76,stock,320,15.0,12.75,13.5
 CatLABS X Film 80,D-76,stock,50,8.0,6.8,7.2
 CatLABS X Film 80,D-76,stock,80,9.5,8.07,8.55
+CatLABS X Film 80,Diafine,stock,100,8.0,6.8,7.2
 CatLABS X Film 80,FX-55,1+50,64,9.5,8.07,8.55
 CatLABS X Film 80,HC-110,B,80,8.75,7.44,7.88
 CatLABS X Film 80,ID-11,1+1,80,14.0,11.9,12.6
@@ -1511,11 +1630,14 @@ CineStill BwXX,Acufine,stock,800,7.0,5.95,6.3
 CineStill BwXX,Adox HR-DEV,1+24,800,15.0,12.75,13.5
 CineStill BwXX,Adox HR-DEV,1+30,400,14.0,11.9,12.6
 CineStill BwXX,Agfa Ansco 47,stock,250,5.0,4.25,4.5
+CineStill BwXX,Bellini DF2 Duo Step,stock,1600,8.0,6.8,7.2
+CineStill BwXX,Bellini DF2 Duo Step,stock,640,6.0,5.1,5.4
 CineStill BwXX,Bellini FX6a Monobath,stock,250,9.0,7.65,8.1
 CineStill BwXX,Bellini Hydrofen,1+39,250,5.25,4.46,4.73
 CineStill BwXX,Bellini Hydrofen,1+39,400,6.5,5.52,5.85
 CineStill BwXX,Black/White & Green,1+49,100,11.75,9.99,10.58
 CineStill BwXX,Caffenol Delta STD,stock,250,10.0,8.5,9.0
+CineStill BwXX,Cinestill Df96 Monobath,stock,n/a,4.5,3.82,4.05
 CineStill BwXX,D-23,1+3,250,20.0,17.0,18.0
 CineStill BwXX,D-76,1+1,250,10.0,8.5,9.0
 CineStill BwXX,D-76,1+1,400,13.5,11.47,12.15
@@ -1529,6 +1651,8 @@ CineStill BwXX,D-96,stock,1600,25.0,21.25,22.5
 CineStill BwXX,D-96,stock,200,6.0,5.1,5.4
 CineStill BwXX,D-96,stock,400,8.0,6.8,7.2
 CineStill BwXX,D-96,stock,800,10.5,8.92,9.45
+CineStill BwXX,Diafine,stock,1600,8.0,6.8,7.2
+CineStill BwXX,Diafine,stock,640,6.0,5.1,5.4
 CineStill BwXX,DK-50,1+1,200,6.0,5.1,5.4
 CineStill BwXX,Eco Pro,1+1,100,7.0,5.95,6.3
 CineStill BwXX,Eco Pro,1+1,250,10.0,8.5,9.0
@@ -1620,6 +1744,9 @@ Contrasto 200,Acurol-N,1+50,40,13.5,11.47,12.15
 Contrasto 200,Adox HR-DEV,1+30,80,12.5,10.62,11.25
 Contrasto 200,ADX II,1+24,160,11.0,9.35,9.9
 Contrasto 200,Atomal 49,stock,800,13.0,11.05,11.7
+Contrasto 200,Bellini DF2 Duo Step,stock,200,10.0,8.5,9.0
+Contrasto 200,Bellini DF2 Duo Step,stock,640,6.0,5.1,5.4
+Contrasto 200,Bellini DF2 Duo Step,stock,800,6.0,5.1,5.4
 Contrasto 200,Bellini Hydrofen,1+15,200,4.0,3.4,3.6
 Contrasto 200,Bellini Hydrofen,1+31,160,13.0,11.05,11.7
 Contrasto 200,Beutler,1+1+10,160,9.5,8.07,8.55
@@ -1632,6 +1759,9 @@ Contrasto 200,D-76,2+15,1600,42.0,35.7,37.8
 Contrasto 200,D-76,stock,200,14.0,11.9,12.6
 Contrasto 200,D-76,stock,320,11.0,9.35,9.9
 Contrasto 200,D-76,stock,800,18.5,15.72,16.65
+Contrasto 200,Diafine,stock,200,10.0,8.5,9.0
+Contrasto 200,Diafine,stock,640,6.0,5.1,5.4
+Contrasto 200,Diafine,stock,800,6.0,5.1,5.4
 Contrasto 200,Eco Pro,1+1,200,14.0,11.9,12.6
 Contrasto 200,Eco Pro,1+1,400,17.0,14.45,15.3
 Contrasto 200,Eco Pro,1+2,400,21.0,17.85,18.9
@@ -1739,6 +1869,8 @@ Eastman Double-X (5222),Adox HR-DEV,1+30,400,14.0,11.9,12.6
 Eastman Double-X (5222),Agfa Ansco 47,stock,250,5.0,4.25,4.5
 Eastman Double-X (5222),Ars-Imago FD,1+39,320,9.5,8.07,8.55
 Eastman Double-X (5222),Ars-Imago FD,1+39,400,10.0,8.5,9.0
+Eastman Double-X (5222),Bellini DF2 Duo Step,stock,1600,8.0,6.8,7.2
+Eastman Double-X (5222),Bellini DF2 Duo Step,stock,640,6.0,5.1,5.4
 Eastman Double-X (5222),Bellini FX6a Monobath,stock,250,9.0,7.65,8.1
 Eastman Double-X (5222),Bellini Hydrofen,1+39,250,5.25,4.46,4.73
 Eastman Double-X (5222),Bellini Hydrofen,1+39,400,6.5,5.52,5.85
@@ -1758,6 +1890,8 @@ Eastman Double-X (5222),D-76,stock,800,13.5,11.47,12.15
 Eastman Double-X (5222),D-96,stock,1600,25.0,21.25,22.5
 Eastman Double-X (5222),D-96,stock,200,6.5,5.52,5.85
 Eastman Double-X (5222),D-96,stock,400,8.0,6.8,7.2
+Eastman Double-X (5222),Diafine,stock,1600,8.0,6.8,7.2
+Eastman Double-X (5222),Diafine,stock,640,6.0,5.1,5.4
 Eastman Double-X (5222),DK-50,1+1,200,6.0,5.1,5.4
 Eastman Double-X (5222),Eco Pro,1+1,100,7.0,5.95,6.3
 Eastman Double-X (5222),Eco Pro,1+1,250,10.0,8.5,9.0
@@ -1859,7 +1993,10 @@ Efke 100,D-76,1+3,100,13.0,11.05,11.7
 Efke 100,D-76,stock,100,7.0,5.95,6.3
 Efke 100,Eco Pro,1+2,64,8.5,7.22,7.65
 Efke 100,Eco Pro,1+2,80,11.75,9.99,10.58
+Efke 100,Eco Pro,stock,100,8.5,7.22,7.65
 Efke 100,Eco Pro,stock,100,6.0,5.1,5.4
+Efke 100,Emofin,stock,100,8.0,6.8,7.2
+Efke 100,Emofin,stock,400,8.0,6.8,7.2
 Efke 100,F76+,1+19,100,22.5,19.12,20.25
 Efke 100,F76+,1+4,64,12.0,10.2,10.8
 Efke 100,F76+,1+9,100,13.5,11.47,12.15
@@ -1908,9 +2045,11 @@ Efke 100,Ultrafin,1+30,100,7.0,5.95,6.3
 Efke 100,WD2D+,stock,100,9.5,8.07,8.55
 Efke 100,XT-3,1+2,64,8.5,7.22,7.65
 Efke 100,XT-3,1+2,80,11.75,9.99,10.58
+Efke 100,XT-3,stock,100,8.5,7.22,7.65
 Efke 100,XT-3,stock,100,6.0,5.1,5.4
 Efke 100,Xtol,1+2,64,8.5,7.22,7.65
 Efke 100,Xtol,1+2,80,11.75,9.99,10.58
+Efke 100,Xtol,stock,100,8.5,7.22,7.65
 Efke 100,Xtol,stock,100,6.0,5.1,5.4
 Efke 25,510-Pyro,1+100,16,6.5,5.52,5.85
 Efke 25,Acurol-N,1+70,10,8.5,7.22,7.65
@@ -1919,15 +2058,21 @@ Efke 25,Amaloco AM74,1+15,20,3.0,2.55,2.7
 Efke 25,Atomal 49,1+1,25,5.0,4.25,4.5
 Efke 25,Atomal 49,1+2,25,7.0,5.95,6.3
 Efke 25,Atomal 49,stock,25,4.0,3.4,3.6
+Efke 25,Bellini DF2 Duo Step,stock,25,6.0,5.1,5.4
 Efke 25,Beutler,1+1+10,25,7.5,6.38,6.75
 Efke 25,Caffenol,stock,25,11.0,9.35,9.9
 Efke 25,D-76,1+1,20,5.0,4.25,4.5
 Efke 25,D-76,1+1,25,7.0,5.95,6.3
+Efke 25,D-76,1+1,50(25),8.5,7.22,7.65
+Efke 25,D-76,1+3,25,9.5,8.07,8.55
 Efke 25,D-76,stock,50(25),6.0,5.1,5.4
+Efke 25,Diafine,stock,25,6.0,5.1,5.4
 Efke 25,DK-50,stock,25,5.0,4.25,4.5
 Efke 25,Eco Pro,1+1,50,8.0,6.8,7.2
 Efke 25,Eco Pro,1+3,20,11.0,9.35,9.9
 Efke 25,Eco Pro,stock,20,6.0,5.1,5.4
+Efke 25,Emofin,stock,25,6.0,5.1,5.4
+Efke 25,Emofin,stock,32,8.0,6.8,7.2
 Efke 25,F76+,1+19,25,12.5,10.62,11.25
 Efke 25,F76+,1+9,25,5.5,4.67,4.95
 Efke 25,F76+,1+9,50,8.5,7.22,7.65
@@ -1938,11 +2083,14 @@ Efke 25,FX-39,1+9,25,4.0,3.4,3.6
 Efke 25,HC-110,B,25,7.0,5.95,6.3
 Efke 25,HC-110,H,50,7.0,5.95,6.3
 Efke 25,ID-11,1+1,20,5.0,4.25,4.5
+Efke 25,ID-11,1+1,50(25),8.5,7.22,7.65
+Efke 25,ID-11,1+3,25,9.5,8.07,8.55
 Efke 25,ID-11,stock,50(25),6.0,5.1,5.4
 Efke 25,Ilfosol 3,1+14,25,6.0,5.1,5.4
 Efke 25,Ilfotec DD-X,1+7,25,13.0,11.05,11.7
 Efke 25,Microdol-X,1+3,25,14.5,12.32,13.05
 Efke 25,Microphen,stock,25,5.0,4.25,4.5
+Efke 25,Neofin Blue,stock,25,7.5,6.38,6.75
 Efke 25,Neofin Blue,stock,25,3.75,3.19,3.38
 Efke 25,Pyrocat-HD,1+1+100,12,10.0,8.5,9.0
 Efke 25,Pyrocat-HD,2+2+100,25,10.0,8.5,9.0
@@ -1955,7 +2103,9 @@ Efke 25,Rodinal,1+50,20,4.0,3.4,3.6
 Efke 25,Rodinal,1+50,25,8.0,6.8,7.2
 Efke 25,Rodinal,1+99,20,6.5,5.52,5.85
 Efke 25,Sprint Standard,1+9,25,5.0,4.25,4.5
+Efke 25,Spur SD 2525,1+15,20,3.25,2.76,2.93
 Efke 25,Tanol,1+1+100,16,12.5,10.62,11.25
+Efke 25,TMax Dev,1+4,25,4.5,3.82,4.05
 Efke 25,TMax RS,stock,25,5.0,4.25,4.5
 Efke 25,Ultrafin,1+10,20,3.0,2.55,2.7
 Efke 25,Ultrafin,1+10,20,2.0,1.7,1.8
@@ -1971,19 +2121,25 @@ Efke 25,Xtol,1+1,50,8.0,6.8,7.2
 Efke 25,Xtol,1+3,20,11.0,9.35,9.9
 Efke 25,Xtol,stock,20,6.0,5.1,5.4
 Efke 50,Acufine,stock,160,2.75,2.34,2.48
+Efke 50,Acurol-N,1+50,40,8.25,7.01,7.42
 Efke 50,Amaloco AM74,1+15,40,3.5,2.98,3.15
 Efke 50,Atomal 49,1+1,50,8.0,6.8,7.2
 Efke 50,Atomal 49,1+2,50,11.0,9.35,9.9
 Efke 50,Atomal 49,stock,50,6.0,5.1,5.4
+Efke 50,Bellini DF2 Duo Step,stock,50,8.0,6.8,7.2
 Efke 50,Beutler,1+1+10,50,8.5,7.22,7.65
 Efke 50,Caffenol C,stock,100,10.0,8.5,9.0
 Efke 50,D-76,1+1,100(50),12.0,10.2,10.8
 Efke 50,D-76,1+1,40,5.25,4.46,4.73
+Efke 50,D-76,1+1,50,8.5,7.22,7.65
 Efke 50,D-76,stock,100(50),7.0,5.95,6.3
 Efke 50,D-76,stock,50,6.5,5.52,5.85
+Efke 50,Diafine,stock,50,8.0,6.8,7.2
 Efke 50,DK-50,1+1,50,5.5,4.67,4.95
 Efke 50,Eco Pro,1+1,50,10.0,8.5,9.0
 Efke 50,Eco Pro,stock,50,8.0,6.8,7.2
+Efke 50,Emofin,stock,50,5.0,4.25,4.5
+Efke 50,Emofin,stock,64,10.0,8.5,9.0
 Efke 50,Fomadon LQN,1+10,50,7.0,5.95,6.3
 Efke 50,Fomadon R09,1+100,50,19.0,16.15,17.1
 Efke 50,FX-39,1+9,50,5.5,4.67,4.95
@@ -1995,6 +2151,7 @@ Efke 50,ID-11,stock,100(50),7.0,5.95,6.3
 Efke 50,ID-11,stock,50,6.5,5.52,5.85
 Efke 50,ID-68,stock,50,6.0,5.1,5.4
 Efke 50,Marathon,1+9,100,6.5,5.52,5.85
+Efke 50,Neofin Blue,stock,50,8.5,7.22,7.65
 Efke 50,Neofin Blue,stock,50,4.0,3.4,3.6
 Efke 50,PMK,1+2+100,50,8.0,6.8,7.2
 Efke 50,Pyrocat-HD,1+1+100,50,14.0,11.9,12.6
@@ -2002,6 +2159,7 @@ Efke 50,Rodinal,1+100,50,18.0,15.3,16.2
 Efke 50,Rodinal,1+25,50,6.0,5.1,5.4
 Efke 50,Rodinal,1+50,50,9.0,7.65,8.1
 Efke 50,Sprint Standard,1+9,50,8.5,7.22,7.65
+Efke 50,Spur SD 2525,1+12,25,3.25,2.76,2.93
 Efke 50,TMax Dev,1+4,50,6.0,5.1,5.4
 Efke 50,TMax RS,stock,50,5.0,4.25,4.5
 Efke 50,Ultrafin,1+10,40,3.5,2.98,3.15
@@ -2015,8 +2173,10 @@ Efke 50,XT-3,1+1,50,10.0,8.5,9.0
 Efke 50,XT-3,stock,50,8.0,6.8,7.2
 Efke 50,Xtol,1+1,50,10.0,8.5,9.0
 Efke 50,Xtol,stock,50,8.0,6.8,7.2
+Efke IR820,Bellini DF2 Duo Step,stock,100,7.0,5.95,6.3
 Efke IR820,D-76,stock,3,8.75,7.44,7.88
 Efke IR820,D-76,stock,n/a,8.0,6.8,7.2
+Efke IR820,Diafine,stock,100,7.0,5.95,6.3
 Efke IR820,Eco Pro,1+1,4,14.0,11.9,12.6
 Efke IR820,Eco Pro,1+2,200,20.0,17.0,18.0
 Efke IR820,Eco Pro,1+2,n/a,16.0,13.6,14.4
@@ -2062,12 +2222,16 @@ Efke IR820,Xtol,1+2,200,20.0,17.0,18.0
 Efke IR820,Xtol,1+2,n/a,16.0,13.6,14.4
 Efke IR820,Xtol,1+3,12,14.0,11.9,12.6
 Efke IR820,Xtol,1+3,15,14.0,11.9,12.6
+ERA 100,Bellini DF2 Duo Step,stock,200,6.0,5.1,5.4
 ERA 100,Caffenol C,stock,100,13.0,11.05,11.7
 ERA 100,D-23,1+2,100,21.0,17.85,18.9
+ERA 100,D-23,stock,100,8.0,6.8,7.2
 ERA 100,D-76,stock,100,8.0,6.8,7.2
 ERA 100,D-76,stock,200,12.0,10.2,10.8
 ERA 100,D-76,stock,400,18.0,15.3,16.2
+ERA 100,Diafine,stock,200,6.0,5.1,5.4
 ERA 100,Eco Pro,1+1,100,9.0,7.65,8.1
+ERA 100,HC-110,B,100,6.75,5.74,6.08
 ERA 100,HC-110,B,80,5.0,4.25,4.5
 ERA 100,ID-11,stock,100,8.0,6.8,7.2
 ERA 100,ID-11,stock,200,12.0,10.2,10.8
@@ -2172,46 +2336,69 @@ Ferrania P33,XT-3,1+1,160,10.0,8.5,9.0
 FilmNeverDie KURO 100,Ilfotec DD-X,1+4,100,8.0,6.8,7.2
 FilmNeverDie KURO 100,Rodinal,1+50,100,8.5,7.22,7.65
 Filmotec DP-3,D-76,stock,6,8.0,6.8,7.2
+Filmotec DP-3,Eco Pro,1+1,12,12.5,10.62,11.25
 Filmotec DP-3,Eco Pro,1+1,25,22.0,18.7,19.8
 Filmotec DP-3,Eco Pro,1+1,6,8.5,7.22,7.65
 Filmotec DP-3,Eco Pro,stock,25,12.0,10.2,10.8
 Filmotec DP-3,ID-11,stock,6,8.0,6.8,7.2
 Filmotec DP-3,Ornano Gradual ST20,stock,10,5.5,4.67,4.95
+Filmotec DP-3,Xtol,1+1,12,12.5,10.62,11.25
 Filmotec DP-3,Xtol,1+1,25,22.0,18.7,19.8
 Filmotec DP-3,Xtol,1+1,6,8.5,7.22,7.65
 Filmotec DP-3,Xtol,stock,25,12.0,10.2,10.8
 Flic Film UltraPan 100,Black/White & Green,1+49,100,13.5,11.47,12.15
 Flic Film UltraPan 100,D-76,1+1,100,10.0,8.5,9.0
+Flic Film UltraPan 100,D-76,stock,100,6.5,5.52,5.85
 Flic Film UltraPan 100,HC-110,B,100,6.0,5.1,5.4
 Flic Film UltraPan 100,HC-110,F,100,12.0,10.2,10.8
 Flic Film UltraPan 100,HC-110,H,100,9.0,7.65,8.1
+Flic Film UltraPan 100,ID-11,stock,100,6.5,5.52,5.85
 Flic Film UltraPan 100,Ilfosol 3,1+14,100,7.5,6.38,6.75
 Flic Film UltraPan 100,Ilfosol 3,1+9,100,5.0,4.25,4.5
 Flic Film UltraPan 100,Rodinal,1+100,100,18.0,15.3,16.2
+Flic Film UltraPan 100,Rodinal,1+50,100,8.5,7.22,7.65
 Flic Film UltraPan 100,Xtol,1+1,100,8.0,6.8,7.2
+Flic Film UltraPan 100,Xtol,stock,100,5.5,4.67,4.95
+Flic Film UltraPan 200,D-76,1+1,200,8.5,7.22,7.65
+Flic Film UltraPan 200,D-76,1+3,200,12.5,10.62,11.25
+Flic Film UltraPan 200,D-76,stock,200,5.5,4.67,4.95
 Flic Film UltraPan 200,HC-110,B,200,3.5,2.98,3.15
 Flic Film UltraPan 200,HC-110,E,200,5.5,4.67,4.95
 Flic Film UltraPan 200,HC-110,H,200,9.0,7.65,8.1
+Flic Film UltraPan 200,ID-11,1+1,200,8.5,7.22,7.65
+Flic Film UltraPan 200,ID-11,1+3,200,12.5,10.62,11.25
+Flic Film UltraPan 200,ID-11,stock,200,5.5,4.67,4.95
 Flic Film UltraPan 200,Ilfosol 3,1+14,200,6.0,5.1,5.4
 Flic Film UltraPan 200,Rodinal,1+100,200,18.0,15.3,16.2
 Flic Film UltraPan 200,Rodinal,1+25,200,3.5,2.98,3.15
+Flic Film UltraPan 200,Rodinal,1+50,200,9.0,7.65,8.1
 Flic Film UltraPan 200,Xtol,1+1,200,8.5,7.22,7.65
 Flic Film UltraPan 200,Xtol,stock,200,6.0,5.1,5.4
 Flic Film UltraPan 400,Black/White & Green,1+49,200,8.0,6.8,7.2
 Flic Film UltraPan 400,Black/White & Green,1+49,400,16.0,13.6,14.4
+Flic Film UltraPan 400,D-76,stock,400,6.5,5.52,5.85
 Flic Film UltraPan 400,Rodinal,1+25,400,7.5,6.38,6.75
 Flic Film UltraPan 400,Xtol,1+1,400,9.5,8.07,8.55
 Foma Ortho 400,510-Pyro,1+100,400,8.5,7.22,7.65
 Foma Ortho 400,Bellini Euro HC,1+31,400,7.0,5.95,6.3
+Foma Ortho 400,D-76,stock,400,7.5,6.38,6.75
 Foma Ortho 400,F76+,1+9,400,9.0,7.65,8.1
 Foma Ortho 400,Fomadon Excel,stock,400,7.0,5.95,6.3
+Foma Ortho 400,Fomadon LQN,1+10,400,9.25,7.86,8.33
+Foma Ortho 400,Fomadon P,stock,400,10.0,8.5,9.0
+Foma Ortho 400,Fomadon R09,1+50,400,11.0,9.35,9.9
 Foma Ortho 400,FX-39,1+9,400,10.5,8.92,9.45
 Foma Ortho 400,HC-110,1+31,400,7.0,5.95,6.3
 Foma Ortho 400,ID-11,stock,320,7.5,6.38,6.75
+Foma Ortho 400,ID-11,stock,400,7.5,6.38,6.75
+Foma Ortho 400,Microphen,stock,400,8.5,7.22,7.65
+Foma Ortho 400,Perceptol,stock,400,9.75,8.29,8.78
 Foma Ortho 400,Rodinal,1+25,1600,24.0,20.4,21.6
 Foma Ortho 400,Rodinal,1+25,400,5.5,4.67,4.95
+Foma Ortho 400,Rodinal,1+50,400,11.0,9.35,9.9
 Foma Ortho 400,Rodinal,1+50,800,16.5,14.03,14.85
 Foma Ortho 400,Rollei Supergrain,1+15,400,8.5,7.22,7.65
+Foma Ortho 400,Ultrafine Liquid,stock,400,7.5,6.38,6.75
 Foma Ortho 400,Xtol,1+1,400,9.5,8.07,8.55
 Foma Ortho 400,Xtol,stock,400,7.0,5.95,6.3
 Foma Retropan 320,Acurol-N,1+50,250,29.0,24.65,26.1
@@ -2225,22 +2412,32 @@ Foma Retropan 320,D-76,1+3,800,25.5,21.68,22.95
 Foma Retropan 320,D-76,stock,320,9.5,8.07,8.55
 Foma Retropan 320,Eco Pro,1+3,320,15.0,12.75,13.5
 Foma Retropan 320,Foma Retro Special,stock,320,4.5,3.82,4.05
+Foma Retropan 320,Foma Retro Special,stock,640,7.5,6.38,6.75
 Foma Retropan 320,Fomadon LQN,1+10,320,9.5,8.07,8.55
+Foma Retropan 320,Fomadon R09,1+25,320,7.5,6.38,6.75
+Foma Retropan 320,Fomadon R09,1+50,320,15.0,12.75,13.5
 Foma Retropan 320,HC-110,1+100,320,15.0,12.75,13.5
 Foma Retropan 320,HC-110,1+31,320,7.5,6.38,6.75
+Foma Retropan 320,HC-110,B,320,7.5,6.38,6.75
 Foma Retropan 320,HC-110,B,3200,20.0,17.0,18.0
+Foma Retropan 320,HC-110,B,640,12.0,10.2,10.8
 Foma Retropan 320,ID-11,1+3,800,25.5,21.68,22.95
 Foma Retropan 320,ID-11,stock,320,9.5,8.07,8.55
 Foma Retropan 320,Ilfotec DD-X,1+4,320,10.0,8.5,9.0
 Foma Retropan 320,Ilfotec LC29,1+34,320,20.0,17.0,18.0
 Foma Retropan 320,Microphen,stock,320,10.5,8.92,9.45
+Foma Retropan 320,Microphen,stock,640,16.0,13.6,14.4
 Foma Retropan 320,Neofin Blue,1+10,320,15.0,12.75,13.5
 Foma Retropan 320,Perceptol,1+3,320,28.0,23.8,25.2
 Foma Retropan 320,Perceptol,stock,200,11.0,9.35,9.9
 Foma Retropan 320,Rodinal,1+25,160,16.5,14.03,14.85
+Foma Retropan 320,Rodinal,1+25,320,7.5,6.38,6.75
+Foma Retropan 320,Rodinal,1+50,320,15.0,12.75,13.5
 Foma Retropan 320,Rollei Supergrain,1+9,320,7.0,5.95,6.3
+Foma Retropan 320,Rollei Supergrain,1+9,640,10.5,8.92,9.45
 Foma Retropan 320,Silberra Ascorol,1+29,320,10.0,8.5,9.0
 Foma Retropan 320,Spur NHC,1+15,320,16.5,14.03,14.85
+Foma Retropan 320,Spur NHC,1+15,640,26.0,22.1,23.4
 Foma Retropan 320,Spur TRX 2000,1+20,125,13.0,11.05,11.7
 Foma Retropan 320,Ultrafine Liquid,1+20,320,13.0,11.05,11.7
 Foma Retropan 320,XT-3,1+3,320,15.0,12.75,13.5
@@ -2255,6 +2452,7 @@ Fomapan 100,Acurol-N,1+50,100,10.0,8.5,9.0
 Fomapan 100,Acurol-N,1+50,125,11.0,9.35,9.9
 Fomapan 100,Acurol-N,1+50,80,9.0,7.65,8.1
 Fomapan 100,Adox HR-DEV,1+40,100,12.0,10.2,10.8
+Fomapan 100,ADX II,1+24,100,7.25,6.16,6.53
 Fomapan 100,Agfa 14,1+1,50,14.0,11.9,12.6
 Fomapan 100,Amaloco AM74,1+15,100,6.5,5.52,5.85
 Fomapan 100,Arista® Premium,1+9,100,7.0,5.95,6.3
@@ -2262,8 +2460,11 @@ Fomapan 100,Ars-Imago FD,1+39,100,6.5,5.52,5.85
 Fomapan 100,Ars-Imago FE,1+1,100,6.0,5.1,5.4
 Fomapan 100,Atomal 49,1+1,100,13.0,11.05,11.7
 Fomapan 100,Atomal 49,1+2,100,17.0,14.45,15.3
+Fomapan 100,Atomal 49,stock,100,7.0,5.95,6.3
 Fomapan 100,AVR-3,1+50,100,9.0,7.65,8.1
 Fomapan 100,AVR-3,1+50,400,20.0,17.0,18.0
+Fomapan 100,Bellini DF2 Duo Step,stock,100,8.0,6.8,7.2
+Fomapan 100,Bellini DF2 Duo Step,stock,200,6.0,5.1,5.4
 Fomapan 100,Bellini FX6a Monobath,stock,100,9.5,8.07,8.55
 Fomapan 100,Bellini Hydrofen,1+31,100,10.0,8.5,9.0
 Fomapan 100,Bellini Hydrofen,1+39,100,6.5,5.52,5.85
@@ -2285,12 +2486,16 @@ Fomapan 100,D-76,1+1,400,18.0,15.3,16.2
 Fomapan 100,D-76,1+1,80,8.75,7.44,7.88
 Fomapan 100,D-76,1+3,100,17.0,14.45,15.3
 Fomapan 100,D-76,stock,100,4.5,3.82,4.05
+Fomapan 100,D-76,stock,100,6.5,5.52,5.85
 Fomapan 100,D-96,stock,100,8.0,6.8,7.2
+Fomapan 100,Diafine,stock,100,8.0,6.8,7.2
+Fomapan 100,Diafine,stock,200,6.0,5.1,5.4
 Fomapan 100,DK-76b,1+1,100,5.5,4.67,4.95
 Fomapan 100,Eco Pro,1+1,100,8.0,6.8,7.2
 Fomapan 100,Eco Pro,1+1,100,6.5,5.52,5.85
 Fomapan 100,Eco Pro,1+1,400,11.5,9.78,10.35
 Fomapan 100,Eco Pro,1+2,125,9.0,7.65,8.1
+Fomapan 100,Eco Pro,stock,100,5.5,4.67,4.95
 Fomapan 100,F76+,1+9,100,7.0,5.95,6.3
 Fomapan 100,FA-1027,1+14,100,9.0,7.65,8.1
 Fomapan 100,FD10,1+14,100,9.0,7.65,8.1
@@ -2298,9 +2503,16 @@ Fomapan 100,FD10,1+9,100,8.0,6.8,7.2
 Fomapan 100,Foma Retro Special,stock,100,4.0,3.4,3.6
 Fomapan 100,Foma Universal,1+3,100,5.0,4.25,4.5
 Fomapan 100,Foma W-17 Hydrofen,1+1,100,5.5,4.67,4.95
+Fomapan 100,Fomadon Excel,1+1,100,8.5,7.22,7.65
+Fomapan 100,Fomadon Excel,stock,100,5.5,4.67,4.95
+Fomapan 100,Fomadon LQN,1+10,100,7.5,6.38,6.75
 Fomapan 100,Fomadon LQN,1+10,100,18.0,15.3,16.2
+Fomapan 100,Fomadon LQN,1+10,200,7.5,6.38,6.75
+Fomapan 100,Fomadon LQN,1+14,100,9.5,8.07,8.55
 Fomapan 100,Fomadon LQN,1+14,3200,42.0,35.7,37.8
+Fomapan 100,Fomadon LQR,1+10,100,5.5,4.67,4.95
 Fomapan 100,Fomadon LQR,1+10,400,12.0,10.2,10.8
+Fomapan 100,Fomadon P,stock,100,7.5,6.38,6.75
 Fomapan 100,Fomadon R09,1+25,100,4.0,3.4,3.6
 Fomapan 100,Fomadon R09,1+50,100,9.0,7.65,8.1
 Fomapan 100,Fomadon R09,1+50,64,9.0,7.65,8.1
@@ -2330,11 +2542,13 @@ Fomapan 100,HC-110,F,64,7.75,6.59,6.98
 Fomapan 100,HC-110,G,50,13.0,11.05,11.7
 Fomapan 100,HC-110,H,100,10.0,8.5,9.0
 Fomapan 100,HC-110,H,100,9.0,7.65,8.1
-Fomapan 100,ID-11,1+1,100,10.0,8.5,9.0
+Fomapan 100,ID-11,1+1,100,9.0,7.65,8.1
 Fomapan 100,ID-11,1+1,200,14.0,11.9,12.6
 Fomapan 100,ID-11,1+1,400,18.0,15.3,16.2
+Fomapan 100,ID-11,1+3,100,16.0,13.6,14.4
 Fomapan 100,ID-11,1+3,100,13.0,11.05,11.7
 Fomapan 100,ID-11,1+3,200,22.5,19.12,20.25
+Fomapan 100,ID-11,stock,100,6.5,5.52,5.85
 Fomapan 100,ID-11,stock,200,10.0,8.5,9.0
 Fomapan 100,ID-68,stock,100,6.0,5.1,5.4
 Fomapan 100,ID-68,stock,200,8.5,7.22,7.65
@@ -2359,8 +2573,12 @@ Fomapan 100,Lucky HB-17,1+15,100,10.25,8.71,9.22
 Fomapan 100,Lucky HB-17,1+19,100,12.25,10.41,11.03
 Fomapan 100,Marathon,1+9,100,6.0,5.1,5.4
 Fomapan 100,Metolal,1+50,100,14.0,11.9,12.6
+Fomapan 100,Microdol-X,1+1,100,9.5,8.07,8.55
 Fomapan 100,Microdol-X,stock,100,8.0,6.8,7.2
+Fomapan 100,Microphen,1+1,100,8.5,7.22,7.65
+Fomapan 100,Microphen,1+3,100,13.5,11.47,12.15
 Fomapan 100,Microphen,1+3,50,11.5,9.78,10.35
+Fomapan 100,Microphen,stock,100,6.0,5.1,5.4
 Fomapan 100,Microphen,stock,200,8.5,7.22,7.65
 Fomapan 100,Microphen,stock,800,16.0,13.6,14.4
 Fomapan 100,Mikratol-2,1+100,100,32.0,27.2,28.8
@@ -2373,7 +2591,9 @@ Fomapan 100,Parvofin,stock,100,5.5,4.67,4.95
 Fomapan 100,PC-TEA,1+50,100,10.0,8.5,9.0
 Fomapan 100,PC-TEA,1+50,100,5.75,4.89,5.17
 Fomapan 100,PC-TEA,1+50,50,8.5,7.22,7.65
+Fomapan 100,Perceptol,1+1,100,10.5,8.92,9.45
 Fomapan 100,Perceptol,1+1,50,7.0,5.95,6.3
+Fomapan 100,Perceptol,1+3,100,14.5,12.32,13.05
 Fomapan 100,Perceptol,stock,100,8.0,6.8,7.2
 Fomapan 100,Perceptol,stock,50,7.5,6.38,6.75
 Fomapan 100,PMK,1+2+100,40,11.0,9.35,9.9
@@ -2413,11 +2633,13 @@ Fomapan 100,Spur HRX,1+20,100,11.5,9.78,10.35
 Fomapan 100,Spur NHC,1+15,125,12.0,10.2,10.8
 Fomapan 100,Spur NHC,1+20,125,8.0,6.8,7.2
 Fomapan 100,Spur NHC,1+29,100,8.0,6.8,7.2
+Fomapan 100,Spur SD 2525,1+15,40,5.75,4.89,5.17
 Fomapan 100,Spur SLD,1+19,64,6.0,5.1,5.4
 Fomapan 100,Spur SLD,1+24,125,10.0,8.5,9.0
 Fomapan 100,Spur TRX 2000,1+40,100,12.0,10.2,10.8
 Fomapan 100,Spur UFP,1+30,80,9.0,7.65,8.1
 Fomapan 100,Studional,1+31,100,10.0,8.5,9.0
+Fomapan 100,TMax Dev,1+4,100,5.5,4.67,4.95
 Fomapan 100,TMax Dev,1+4,400,11.0,9.35,9.9
 Fomapan 100,TMax Dev,1+9,100,8.0,6.8,7.2
 Fomapan 100,TMax Dev,1+9,400,15.25,12.96,13.72
@@ -2429,10 +2651,12 @@ Fomapan 100,XT-3,1+1,100,8.0,6.8,7.2
 Fomapan 100,XT-3,1+1,100,6.5,5.52,5.85
 Fomapan 100,XT-3,1+1,400,11.5,9.78,10.35
 Fomapan 100,XT-3,1+2,125,9.0,7.65,8.1
+Fomapan 100,XT-3,stock,100,5.5,4.67,4.95
 Fomapan 100,Xtol,1+1,100,8.0,6.8,7.2
 Fomapan 100,Xtol,1+1,100,6.5,5.52,5.85
 Fomapan 100,Xtol,1+1,400,11.5,9.78,10.35
 Fomapan 100,Xtol,1+2,125,9.0,7.65,8.1
+Fomapan 100,Xtol,stock,100,5.5,4.67,4.95
 Fomapan 200,510-Pyro,1+100,100,11.25,9.56,10.12
 Fomapan 200,510-Pyro,1+100,160,6.5,5.52,5.85
 Fomapan 200,510-Pyro,1+100,200,7.5,6.38,6.75
@@ -2447,7 +2671,9 @@ Fomapan 200,Ars-Imago FD,1+39,200,6.0,5.1,5.4
 Fomapan 200,Atomal 49,1+1,200,13.0,11.05,11.7
 Fomapan 200,Atomal 49,1+2,200,17.0,14.45,15.3
 Fomapan 200,Atomal 49,3+2,200,8.0,6.8,7.2
+Fomapan 200,Atomal 49,stock,200,9.0,7.65,8.1
 Fomapan 200,AVR-3,1+50,200,11.5,9.78,10.35
+Fomapan 200,Bellini DF2 Duo Step,stock,200,8.0,6.8,7.2
 Fomapan 200,Bellini Hydrofen,1+31,200,12.0,10.2,10.8
 Fomapan 200,Berspeed,1+1,200,10.0,8.5,9.0
 Fomapan 200,Beutler,1+1+8,200,8.0,6.8,7.2
@@ -2459,15 +2685,22 @@ Fomapan 200,Cawanol,stock,200,15.0,12.75,13.5
 Fomapan 200,D-23,1+3,100,19.0,16.15,17.1
 Fomapan 200,D-23,stock,200,7.0,5.95,6.3
 Fomapan 200,D-76,1+1,100,7.75,6.59,6.98
+Fomapan 200,D-76,1+1,200,8.5,7.22,7.65
 Fomapan 200,D-76,1+3,100,8.0,6.8,7.2
+Fomapan 200,D-76,1+3,200,12.5,10.62,11.25
 Fomapan 200,D-76,1+3,400,18.0,15.3,16.2
+Fomapan 200,D-76,stock,200,5.5,4.67,4.95
+Fomapan 200,Diafine,stock,200,8.0,6.8,7.2
 Fomapan 200,Eco Pro,1+1,200,8.5,7.22,7.65
 Fomapan 200,Eco Pro,stock,200,6.0,5.1,5.4
 Fomapan 200,F76+,1+19,200,10.5,8.92,9.45
 Fomapan 200,F76+,1+9,200,7.5,6.38,6.75
 Fomapan 200,FA-1027,1+19,200,10.5,8.92,9.45
 Fomapan 200,Foma Retro Special,stock,200,5.0,4.25,4.5
+Fomapan 200,Foma Universal,1+3,200,5.75,4.89,5.17
 Fomapan 200,Fomadon Excel,stock,100,6.0,5.1,5.4
+Fomapan 200,Fomadon LQN,1+10,200,6.0,5.1,5.4
+Fomapan 200,Fomadon LQR,1+10,200,5.5,4.67,4.95
 Fomapan 200,Fomadon P,1+1,200,8.5,7.22,7.65
 Fomapan 200,Fomadon R09,1+25,200,5.0,4.25,4.5
 Fomapan 200,Fomadon R09,1+50,200,10.0,8.5,9.0
@@ -2483,7 +2716,10 @@ Fomapan 200,HC-110,E,800,11.0,9.35,9.9
 Fomapan 200,HC-110,H,200,9.0,7.65,8.1
 Fomapan 200,HC-110,H,400,18.0,15.3,16.2
 Fomapan 200,HC-110,H,640,26.0,22.1,23.4
+Fomapan 200,ID-11,1+1,200,8.5,7.22,7.65
+Fomapan 200,ID-11,1+3,200,12.5,10.62,11.25
 Fomapan 200,ID-11,1+3,400,18.0,15.3,16.2
+Fomapan 200,ID-11,stock,200,5.5,4.67,4.95
 Fomapan 200,ID-11,stock,400,8.0,6.8,7.2
 Fomapan 200,Ilfosol 3,1+14,200,6.0,5.1,5.4
 Fomapan 200,Ilfotec DD-X,1+4,1600,18.5,15.72,16.65
@@ -2502,6 +2738,8 @@ Fomapan 200,Ilfotec LC29,1+29,400,15.0,12.75,13.5
 Fomapan 200,Marathon,1+9,100,5.0,4.25,4.5
 Fomapan 200,Microdol-X,1+1,200,8.5,7.22,7.65
 Fomapan 200,Microdol-X,stock,200,9.0,7.65,8.1
+Fomapan 200,Microphen,1+3,200,12.5,10.62,11.25
+Fomapan 200,Microphen,stock,200,5.5,4.67,4.95
 Fomapan 200,Microphen,stock,400,7.25,6.16,6.53
 Fomapan 200,Neofin Blue,1+5,200,8.0,6.8,7.2
 Fomapan 200,Neofin Blue,1+9,200,12.0,10.2,10.8
@@ -2509,6 +2747,7 @@ Fomapan 200,Paranol S,1+25,200,5.0,4.25,4.5
 Fomapan 200,Paranol S,1+50,200,11.0,9.35,9.9
 Fomapan 200,PC-TEA,1+50,200,9.0,7.65,8.1
 Fomapan 200,Perceptol,1+1,200,7.5,6.38,6.75
+Fomapan 200,Perceptol,1+3,200,12.5,10.62,11.25
 Fomapan 200,Perceptol,stock,200,6.0,5.1,5.4
 Fomapan 200,PMK,1+2+100,64,11.0,9.35,9.9
 Fomapan 200,PMK,1+2+50,250,12.0,10.2,10.8
@@ -2518,6 +2757,7 @@ Fomapan 200,Rodinal,1+25,200,5.0,4.25,4.5
 Fomapan 200,Rodinal,1+25,25,3.5,2.98,3.15
 Fomapan 200,Rodinal,1+25,800,9.5,8.07,8.55
 Fomapan 200,Rodinal,1+50,160,8.0,6.8,7.2
+Fomapan 200,Rodinal,1+50,200,9.0,7.65,8.1
 Fomapan 200,Rodinal,1+50,400,14.0,11.9,12.6
 Fomapan 200,Rodinal,1+50,50,5.75,4.89,5.17
 Fomapan 200,Rodinal,1+50,800,23.0,19.55,20.7
@@ -2538,6 +2778,7 @@ Fomapan 200,Spur UFP,1+20,125,8.0,6.8,7.2
 Fomapan 200,Studional,1+15,200,6.0,5.1,5.4
 Fomapan 200,Studional,1+31,200,12.0,10.2,10.8
 Fomapan 200,TFX-2,stock,400,18.0,15.3,16.2
+Fomapan 200,TMax Dev,1+4,200,5.5,4.67,4.95
 Fomapan 200,TMax Dev,1+4,400,7.5,6.38,6.75
 Fomapan 200,TMax RS,stock,200,4.5,3.82,4.05
 Fomapan 200,Ultrafin,1+20,200,7.5,6.38,6.75
@@ -2563,6 +2804,7 @@ Fomapan 400,Ars-Imago FD,1+39,400,9.0,7.65,8.1
 Fomapan 400,Ars-Imago FE,1+1,400,7.0,5.95,6.3
 Fomapan 400,Atomal 49,1+1,400,13.0,11.05,11.7
 Fomapan 400,Atomal 49,1+2,400,17.0,14.45,15.3
+Fomapan 400,Atomal 49,stock,400,9.0,7.65,8.1
 Fomapan 400,AVR-3,1+50,400,12.0,10.2,10.8
 Fomapan 400,Bellini B&W Ecofilm,1+50,400,15.5,13.17,13.95
 Fomapan 400,Bellini Hydrofen,1+30,800,18.0,15.3,16.2
@@ -2581,9 +2823,13 @@ Fomapan 400,D-19,stock,400,8.0,6.8,7.2
 Fomapan 400,D-23,1+2,400,20.0,17.0,18.0
 Fomapan 400,D-23,stock,250,7.5,6.38,6.75
 Fomapan 400,D-76,1+1,1600,25.0,21.25,22.5
+Fomapan 400,D-76,1+1,200,8.5,7.22,7.65
+Fomapan 400,D-76,1+1,400,11.5,9.78,10.35
 Fomapan 400,D-76,1+1,800,17.0,14.45,15.3
 Fomapan 400,D-76,1+2,400,15.25,12.96,13.72
+Fomapan 400,D-76,1+3,400,22.5,19.12,20.25
 Fomapan 400,D-76,stock,1600,20.0,17.0,18.0
+Fomapan 400,D-76,stock,400,7.5,6.38,6.75
 Fomapan 400,D-76,stock,400,7.0,5.95,6.3
 Fomapan 400,D-76,stock,800,11.0,9.35,9.9
 Fomapan 400,Diafine,1+1,400,8.0,6.8,7.2
@@ -2608,8 +2854,12 @@ Fomapan 400,Fomadon Excel,1+1,400,12.0,10.2,10.8
 Fomapan 400,Fomadon Excel,stock,400,7.0,5.95,6.3
 Fomapan 400,Fomadon Excel,stock,800,13.25,11.26,11.93
 Fomapan 400,Fomadon Excel,stock,800,11.0,9.35,9.9
+Fomapan 400,Fomadon LQN,1+10,400,9.5,8.07,8.55
+Fomapan 400,Fomadon LQR,1+10,400,7.5,6.38,6.75
 Fomapan 400,Fomadon P,1+3,400,22.0,18.7,19.8
+Fomapan 400,Fomadon P,stock,400,10.5,8.92,9.45
 Fomapan 400,Fomadon R09,1+100,3200,70.0,59.5,63.0
+Fomapan 400,Fomadon R09,1+200,400,61.0,51.85,54.9
 Fomapan 400,Fomadon R09,1+25,400,6.0,5.1,5.4
 Fomapan 400,Fomadon R09,1+50,400,12.0,10.2,10.8
 Fomapan 400,FotoApteka A-RSC,1+34,400,8.0,6.8,7.2
@@ -2629,8 +2879,11 @@ Fomapan 400,HC-110,G,200,18.0,15.3,16.2
 Fomapan 400,HC-110,H,400,13.0,11.05,11.7
 Fomapan 400,HC-110,H,800,18.5,15.72,16.65
 Fomapan 400,Hubl Glycin Paste,1+50,400,90.0,76.5,81.0
+Fomapan 400,ID-11,1+1,400,12.5,10.62,11.25
 Fomapan 400,ID-11,1+1,800,17.0,14.45,15.3
 Fomapan 400,ID-11,1+1,800,15.0,12.75,13.5
+Fomapan 400,ID-11,1+3,400,22.5,19.12,20.25
+Fomapan 400,ID-11,stock,400,7.5,6.38,6.75
 Fomapan 400,ID-11,stock,800,11.0,9.35,9.9
 Fomapan 400,Ilford Multigrade,1+9,125,9.0,7.65,8.1
 Fomapan 400,Ilfosol 3,1+10,800,12.5,10.62,11.25
@@ -2652,7 +2905,10 @@ Fomapan 400,Ilfotec LC29,1+29,400,9.0,7.65,8.1
 Fomapan 400,Marathon,1+9,100,6.5,5.52,5.85
 Fomapan 400,Microdol-X,1+3,400,32.0,27.2,28.8
 Fomapan 400,Microdol-X,stock,400,15.0,12.75,13.5
+Fomapan 400,Microphen,1+1,400,12.5,10.62,11.25
+Fomapan 400,Microphen,1+3,400,24.5,20.82,22.05
 Fomapan 400,Microphen,stock,1600,17.0,14.45,15.3
+Fomapan 400,Microphen,stock,400,8.5,7.22,7.65
 Fomapan 400,Microphen,stock,800,15.0,12.75,13.5
 Fomapan 400,Ornano Gradual ST20,1+9,400,12.0,10.2,10.8
 Fomapan 400,Paranol S,1+25,400,7.0,5.95,6.3
@@ -2661,6 +2917,7 @@ Fomapan 400,PC-TEA,1+25,400,7.5,6.38,6.75
 Fomapan 400,PC-TEA,1+50,400,12.0,10.2,10.8
 Fomapan 400,Perceptol,1+2,800,27.0,22.95,24.3
 Fomapan 400,Perceptol,1+3,320,21.0,17.85,18.9
+Fomapan 400,Perceptol,stock,400,9.5,8.07,8.55
 Fomapan 400,PMK,1+2+100,400,13.0,11.05,11.7
 Fomapan 400,PQ Universal,1+29,400,5.5,4.67,4.95
 Fomapan 400,Promicrol,1+14,400,12.0,10.2,10.8
@@ -2704,6 +2961,7 @@ Fomapan 400,Spur UFP,1+20,200,9.5,8.07,8.55
 Fomapan 400,Studional,1+30,400,12.0,10.2,10.8
 Fomapan 400,Studional,1+30,800,18.0,15.3,16.2
 Fomapan 400,TMax Dev,1+4,1600,18.5,15.72,16.65
+Fomapan 400,TMax Dev,1+4,400,7.5,6.38,6.75
 Fomapan 400,TMax Dev,1+4,400,10.0,8.5,9.0
 Fomapan 400,TMax Dev,1+9,1600,16.5,14.03,14.85
 Fomapan 400,TMax Dev,1+9,400,15.0,12.75,13.5
@@ -2733,6 +2991,7 @@ Fomapan 400,Xtol,stock,200,5.0,4.25,4.5
 Fomapan 400,Xtol,stock,400,7.0,5.95,6.3
 Fomapan 400,Xtol,stock,640,10.5,8.92,9.45
 Fotopan FL,D-76,1+1,400,15.5,13.17,13.95
+FPP 620 Basic Film,D-76,stock,100,6.5,5.52,5.85
 FPP Blue Sensitive,D-96,stock,6,7.5,6.38,6.75
 FPP BW Infrared,HC-110,1+31,200,7.0,5.95,6.3
 FPP Derev Pan 100,D-76,1+1,100,14.0,11.9,12.6
@@ -2784,9 +3043,13 @@ FPP Fine Grain Six,D-76,stock,6,6.0,5.1,5.4
 FPP Fine Grain Six,D-96,stock,6,6.5,5.52,5.85
 FPP Fine Grain Six,HC-110,B,6,7.0,5.95,6.3
 FPP Fine Grain Six,ID-11,stock,6,6.0,5.1,5.4
+FPP Frankenstein,D-76,1+1,200,8.5,7.22,7.65
+FPP Frankenstein,D-76,stock,200,5.5,4.67,4.95
 FPP Frankenstein,D-96,1+1,200,7.0,5.95,6.3
 FPP Frankenstein,HC-110,B,200,4.0,3.4,3.6
 FPP Frankenstein,HC-110,H,200,9.0,7.65,8.1
+FPP Frankenstein,ID-11,1+1,200,8.5,7.22,7.65
+FPP Frankenstein,ID-11,stock,200,5.5,4.67,4.95
 FPP Frankenstein,Ilfosol 3,1+9,200,6.25,5.31,5.62
 FPP Frankenstein,Ilfotec HC,1+31,200,4.0,3.4,3.6
 FPP Frankenstein,Rodinal,1+25,200,8.5,7.22,7.65
@@ -2820,11 +3083,15 @@ FPP The Mummy,TMax Dev,stock,400,7.5,6.38,6.75
 FPP The Mummy,Xtol,1+1,400,9.5,8.07,8.55
 FPP The Mummy,Xtol,stock,400,7.0,5.95,6.3
 FPP Wolfman,D-76,1+1,100,10.0,8.5,9.0
+FPP Wolfman,D-76,stock,100,6.5,5.52,5.85
 FPP Wolfman,D-96,stock,100,7.0,5.95,6.3
+FPP Wolfman,Eco Pro,stock,100,5.5,4.67,4.95
 FPP Wolfman,HC-110,B,100,6.0,5.1,5.4
 FPP Wolfman,HC-110,H,100,12.0,10.2,10.8
 FPP Wolfman,ID-11,1+1,100,10.0,8.5,9.0
+FPP Wolfman,ID-11,stock,100,6.5,5.52,5.85
 FPP Wolfman,Rodinal,1+25,100,7.0,5.95,6.3
+FPP Wolfman,Xtol,stock,100,5.5,4.67,4.95
 FPP X-Ray,510-Pyro,1+100,100,17.0,14.45,15.3
 FPP X-Ray,D-96,1+1,10,5.0,4.25,4.5
 FPP X-Ray,D-96,stock,10,3.5,2.98,3.15
@@ -2837,7 +3104,9 @@ FPP Yeti,D-96,stock,6,7.5,6.38,6.75
 FPP Yeti,ID-11,1+1,6,11.0,9.35,9.9
 FPP Yeti,Rodinal,1+50,6,10.0,8.5,9.0
 FT-12,Rodinal,1+100,50,45.0,38.25,40.5
+Fuji Eterna-RDS 4791,Bellini DF2 Duo Step,stock,20,8.0,6.8,7.2
 Fuji Eterna-RDS 4791,D-76,1+1,6,11.0,9.35,9.9
+Fuji Eterna-RDS 4791,Diafine,stock,20,8.0,6.8,7.2
 Fuji Eterna-RDS 4791,HC-110,B,6,12.0,10.2,10.8
 Fuji Eterna-RDS 4791,ID-11,1+1,6,11.0,9.35,9.9
 Fuji Eterna-RDS 4791,Nucleol BF200,20+15+965,25,9.0,7.65,8.1
@@ -2858,6 +3127,7 @@ Fuji Neopan 100 Acros II,Ars-Imago FE,1+1,100,8.0,6.8,7.2
 Fuji Neopan 100 Acros II,Ars-Imago FE,1+1,200,10.0,8.5,9.0
 Fuji Neopan 100 Acros II,Ars-Imago FE,1+1,50,6.5,5.52,5.85
 Fuji Neopan 100 Acros II,Atomal 49,stock,100,7.25,6.16,6.53
+Fuji Neopan 100 Acros II,Bellini DF2 Duo Step,stock,100,9.0,7.65,8.1
 Fuji Neopan 100 Acros II,Bellini Hydrofen,1+39,100,6.0,5.1,5.4
 Fuji Neopan 100 Acros II,Bellini Hydrofen,1+39,200,7.5,6.38,6.75
 Fuji Neopan 100 Acros II,Berspeed,1+1,100,11.0,9.35,9.9
@@ -2879,6 +3149,7 @@ Fuji Neopan 100 Acros II,D-76,1+3,100,17.0,14.45,15.3
 Fuji Neopan 100 Acros II,D-76,stock,100,7.25,6.16,6.53
 Fuji Neopan 100 Acros II,D-76,stock,200,10.0,8.5,9.0
 Fuji Neopan 100 Acros II,D-76,stock,64,6.25,5.31,5.62
+Fuji Neopan 100 Acros II,Diafine,stock,100,9.0,7.65,8.1
 Fuji Neopan 100 Acros II,DK-50,1+1,100,6.0,5.1,5.4
 Fuji Neopan 100 Acros II,Eco Pro,1+1,100,9.5,8.07,8.55
 Fuji Neopan 100 Acros II,Eco Pro,1+1,200,13.0,11.05,11.7
@@ -2887,6 +3158,8 @@ Fuji Neopan 100 Acros II,Eco Pro,1+2,100,13.0,11.05,11.7
 Fuji Neopan 100 Acros II,Eco Pro,1+3,100,14.0,11.9,12.6
 Fuji Neopan 100 Acros II,Eco Pro,1+4,100,16.0,13.6,14.4
 Fuji Neopan 100 Acros II,Eco Pro,stock,100,8.0,6.8,7.2
+Fuji Neopan 100 Acros II,Emofin,stock,100,9.0,7.65,8.1
+Fuji Neopan 100 Acros II,Emofin,stock,200,10.0,8.5,9.0
 Fuji Neopan 100 Acros II,F76+,1+19,100,7.5,6.38,6.75
 Fuji Neopan 100 Acros II,F76+,1+9,100,5.5,4.67,4.95
 Fuji Neopan 100 Acros II,FA-1027,1+14,100,10.5,8.92,9.45
@@ -2898,6 +3171,7 @@ Fuji Neopan 100 Acros II,FD10,1+9,100,9.0,7.65,8.1
 Fuji Neopan 100 Acros II,Fomadon Excel,1+2,100,8.5,7.22,7.65
 Fuji Neopan 100 Acros II,Fomadon Excel,1+3,100,9.5,8.07,8.55
 Fuji Neopan 100 Acros II,Fomadon LQN,1+10,100,8.0,6.8,7.2
+Fuji Neopan 100 Acros II,Fuji Microfine,1+1,100,14.0,11.9,12.6
 Fuji Neopan 100 Acros II,Fuji Microfine,stock,100,10.0,8.5,9.0
 Fuji Neopan 100 Acros II,Fuji Microfine,stock,100,13.0,11.05,11.7
 Fuji Neopan 100 Acros II,FX-19,stock,100,8.0,6.8,7.2
@@ -2962,6 +3236,7 @@ Fuji Neopan 100 Acros II,Perceptol,1+1,100,14.5,12.32,13.05
 Fuji Neopan 100 Acros II,Perceptol,1+3,100,22.0,18.7,19.8
 Fuji Neopan 100 Acros II,Perceptol,stock,100,12.5,10.62,11.25
 Fuji Neopan 100 Acros II,Perceptol,stock,50,12.5,10.62,11.25
+Fuji Neopan 100 Acros II,PMK,1+2+100,50,16.0,13.6,14.4
 Fuji Neopan 100 Acros II,Pyrocat-HD,1+1+100,100,18.0,15.3,16.2
 Fuji Neopan 100 Acros II,Pyrocat-HD,1+1+100,100,19.0,16.15,17.1
 Fuji Neopan 100 Acros II,Pyrocat-HD,1+1+250,50,40.0,34.0,36.0
@@ -2997,6 +3272,7 @@ Fuji Neopan 100 Acros II,Spur NHC,1+15,100,10.0,8.5,9.0
 Fuji Neopan 100 Acros II,Spur NHC,1+15,125,14.0,11.9,12.6
 Fuji Neopan 100 Acros II,Spur PXD,1+19,80,7.5,6.38,6.75
 Fuji Neopan 100 Acros II,Spur SD 2525,1+15,80,7.0,5.95,6.3
+Fuji Neopan 100 Acros II,Spur SLD,1+19,100,5.75,4.89,5.17
 Fuji Neopan 100 Acros II,Spur SLD,1+24,100,9.5,8.07,8.55
 Fuji Neopan 100 Acros II,Spur Speed-Major,1+14,800,13.0,11.05,11.7
 Fuji Neopan 100 Acros II,Spur Speed-Major,1+20,340,12.0,10.2,10.8
@@ -3045,6 +3321,7 @@ Fuji Neopan 100ss,D-76,stock,200,7.25,6.16,6.53
 Fuji Neopan 100ss,Eco Pro,1+1,100,9.5,8.07,8.55
 Fuji Neopan 100ss,Eco Pro,stock,100,6.0,5.1,5.4
 Fuji Neopan 100ss,Eco Pro,stock,200,6.5,5.52,5.85
+Fuji Neopan 100ss,Emofin,stock,100,10.0,8.5,9.0
 Fuji Neopan 100ss,Fomadon LQN,1+10,100,8.0,6.8,7.2
 Fuji Neopan 100ss,Fuji Microfine,1+1,100,11.5,9.78,10.35
 Fuji Neopan 100ss,Fuji Microfine,stock,100,9.5,8.07,8.55
@@ -3066,7 +3343,9 @@ Fuji Neopan 100ss,PC-TEA,1+50,100,10.0,8.5,9.0
 Fuji Neopan 100ss,Perceptol,1+3,100,23.0,19.55,20.7
 Fuji Neopan 100ss,Perceptol,stock,100,9.0,7.65,8.1
 Fuji Neopan 100ss,Pyrocat-HD,1+1+100,100,18.0,15.3,16.2
+Fuji Neopan 100ss,Rodinal,1+25,100,8.5,7.22,7.65
 Fuji Neopan 100ss,Rodinal,1+300,100,360.0,306.0,324.0
+Fuji Neopan 100ss,Rodinal,1+50,100,15.0,12.75,13.5
 Fuji Neopan 100ss,Silberra Ascorol,1+29,100,7.0,5.95,6.3
 Fuji Neopan 100ss,SPD,1+1,100,7.0,5.95,6.3
 Fuji Neopan 100ss,SPD,1+1,200,7.5,6.38,6.75
@@ -3089,6 +3368,8 @@ Fuji Neopan 100ss,Xtol,stock,200,6.5,5.52,5.85
 Fuji Neopan 1600,510-Pyro,1+100,1600,8.5,7.22,7.65
 Fuji Neopan 1600,Amaloco AM74,1+7,1600,6.0,5.1,5.4
 Fuji Neopan 1600,Amaloco AM74,1+7,3200,7.5,6.38,6.75
+Fuji Neopan 1600,Atomal 49,stock,1600,9.0,7.65,8.1
+Fuji Neopan 1600,Bellini DF2 Duo Step,stock,2400,6.0,5.1,5.4
 Fuji Neopan 1600,Bellini Hydrofen,1+15,800,3.0,2.55,2.7
 Fuji Neopan 1600,Caffenol C-L,stock,1600,60.0,51.0,54.0
 Fuji Neopan 1600,Caffenol C-L,stock,3200,60.0,51.0,54.0
@@ -3102,6 +3383,7 @@ Fuji Neopan 1600,D-76,stock,1600,7.5,6.38,6.75
 Fuji Neopan 1600,D-76,stock,3200,15.0,12.75,13.5
 Fuji Neopan 1600,D-76,stock,400,4.0,3.4,3.6
 Fuji Neopan 1600,D-76,stock,800,5.0,4.25,4.5
+Fuji Neopan 1600,Diafine,stock,2400,6.0,5.1,5.4
 Fuji Neopan 1600,Eco Pro,1+1,1600,7.5,6.38,6.75
 Fuji Neopan 1600,Eco Pro,1+1,200,5.5,4.67,4.95
 Fuji Neopan 1600,Eco Pro,1+1,3200,8.5,7.22,7.65
@@ -3127,6 +3409,7 @@ Fuji Neopan 1600,Eco Pro,stock,3200,6.5,5.52,5.85
 Fuji Neopan 1600,Eco Pro,stock,400,4.5,3.82,4.05
 Fuji Neopan 1600,Eco Pro,stock,6400,7.25,6.16,6.53
 Fuji Neopan 1600,Eco Pro,stock,800,5.0,4.25,4.5
+Fuji Neopan 1600,Emofin,stock,1600,7.0,5.95,6.3
 Fuji Neopan 1600,F76+,1+9,1600,8.0,6.8,7.2
 Fuji Neopan 1600,FD10,1+14,1600,14.0,11.9,12.6
 Fuji Neopan 1600,FD10,1+9,1600,8.0,6.8,7.2
@@ -3209,6 +3492,7 @@ Fuji Neopan 1600,SPD,1+3,800,7.75,6.59,6.98
 Fuji Neopan 1600,SPD,stock,1600,4.25,3.61,3.83
 Fuji Neopan 1600,SPD,stock,3200,8.0,6.8,7.2
 Fuji Neopan 1600,Sprint Standard,1+9,1600,11.5,9.78,10.35
+Fuji Neopan 1600,Spur SD 2525,1+15,400,5.75,4.89,5.17
 Fuji Neopan 1600,Spur SLD,1+7,1000,7.0,5.95,6.3
 Fuji Neopan 1600,Spur SLD,1+7,640,3.5,2.98,3.15
 Fuji Neopan 1600,Spur SLD,1+7,800,5.0,4.25,4.5
@@ -3285,6 +3569,7 @@ Fuji Neopan 400,Amaloco AM74,1+7,800,6.75,5.74,6.08
 Fuji Neopan 400,Arista® Liquid,1+9,400,6.0,5.1,5.4
 Fuji Neopan 400,Arista® Premium,1+9,400,6.0,5.1,5.4
 Fuji Neopan 400,Atomal 49,1+1,400,13.0,11.05,11.7
+Fuji Neopan 400,Bellini DF2 Duo Step,stock,640,6.0,5.1,5.4
 Fuji Neopan 400,Bellini Hydrofen,1+15,320,3.0,2.55,2.7
 Fuji Neopan 400,Beutler,1+1+8,320,15.0,12.75,13.5
 Fuji Neopan 400,Caffenol C-M,stock,400,12.0,10.2,10.8
@@ -3298,6 +3583,7 @@ Fuji Neopan 400,D-76,stock,1600,13.5,11.47,12.15
 Fuji Neopan 400,D-76,stock,250,6.5,5.52,5.85
 Fuji Neopan 400,D-76,stock,400,7.5,6.38,6.75
 Fuji Neopan 400,D-76,stock,800,8.75,7.44,7.88
+Fuji Neopan 400,Diafine,stock,640,6.0,5.1,5.4
 Fuji Neopan 400,Eco Pro,1+1,100,8.25,7.01,7.42
 Fuji Neopan 400,Eco Pro,1+1,1600,13.5,11.47,12.15
 Fuji Neopan 400,Eco Pro,1+1,200,8.25,7.01,7.42
@@ -3322,6 +3608,7 @@ Fuji Neopan 400,Eco Pro,stock,200,7.5,6.38,6.75
 Fuji Neopan 400,Eco Pro,stock,3200,13.5,11.47,12.15
 Fuji Neopan 400,Eco Pro,stock,400,8.25,7.01,7.42
 Fuji Neopan 400,Eco Pro,stock,800,9.75,8.29,8.78
+Fuji Neopan 400,Emofin,stock,400,12.0,10.2,10.8
 Fuji Neopan 400,Extend Plus,1+15,400,9.0,7.65,8.1
 Fuji Neopan 400,F76+,1+9,400,6.0,5.1,5.4
 Fuji Neopan 400,FD10,1+14,400,13.0,11.05,11.7
@@ -3359,6 +3646,7 @@ Fuji Neopan 400,Ilfosol 3,1+14,400,9.5,8.07,8.55
 Fuji Neopan 400,Ilfosol 3,1+9,100,4.0,3.4,3.6
 Fuji Neopan 400,Ilfosol 3,1+9,400,6.5,5.52,5.85
 Fuji Neopan 400,Ilfosol 3,1+9,800,9.5,8.07,8.55
+Fuji Neopan 400,Ilfotec DD-X,1+4,1600,13.5,11.47,12.15
 Fuji Neopan 400,Ilfotec DD-X,1+4,250,6.25,5.31,5.62
 Fuji Neopan 400,Ilfotec DD-X,1+4,3200,18.0,15.3,16.2
 Fuji Neopan 400,Ilfotec DD-X,1+4,400,7.0,5.95,6.3
@@ -3400,6 +3688,8 @@ Fuji Neopan 400,Rodinal,1+100,250,20.0,17.0,18.0
 Fuji Neopan 400,Rodinal,1+25,1600,10.0,8.5,9.0
 Fuji Neopan 400,Rodinal,1+25,250,4.5,3.82,4.05
 Fuji Neopan 400,Rodinal,1+25,400,6.0,5.1,5.4
+Fuji Neopan 400,Rodinal,1+50,200,8.5,7.22,7.65
+Fuji Neopan 400,Rodinal,1+50,250,8.5,7.22,7.65
 Fuji Neopan 400,Rodinal,1+50,400,11.0,9.35,9.9
 Fuji Neopan 400,Rodinal,1+60,1600,90.0,76.5,81.0
 Fuji Neopan 400,Rollei D74,1+15,400,10.5,8.92,9.45
@@ -3519,18 +3809,27 @@ Fukkatsu 100,Xtol,1+1,100,10.0,8.5,9.0
 Holga 400,Acufine,stock,400,6.0,5.1,5.4
 Holga 400,Atomal 49,1+1,400,13.0,11.05,11.7
 Holga 400,Atomal 49,1+2,400,17.0,14.45,15.3
+Holga 400,Atomal 49,stock,400,9.0,7.65,8.1
 Holga 400,Caffenol C,stock,320,40.0,34.0,36.0
 Holga 400,Caffenol C-L,stock,400,35.0,29.75,31.5
 Holga 400,Caffenol C-M (+i),stock,400,15.0,12.75,13.5
+Holga 400,D-76,1+1,200,8.5,7.22,7.65
+Holga 400,D-76,1+1,400,11.5,9.78,10.35
 Holga 400,D-76,1+1,800,17.0,14.45,15.3
+Holga 400,D-76,1+3,400,22.5,19.12,20.25
 Holga 400,D-76,stock,1600,20.0,17.0,18.0
+Holga 400,D-76,stock,400,7.5,6.38,6.75
 Holga 400,DS-10,1+1,400,13.0,11.05,11.7
 Holga 400,Eco Pro,1+1,400,9.5,8.07,8.55
 Holga 400,Eco Pro,stock,400,7.0,5.95,6.3
 Holga 400,FD10,1+9,400,10.0,8.5,9.0
 Holga 400,Foma W-17 Hydrofen,stock,1600,10.0,8.5,9.0
 Holga 400,Fomadon Excel,1+1,400,15.0,12.75,13.5
+Holga 400,Fomadon LQN,1+10,400,9.5,8.07,8.55
+Holga 400,Fomadon LQR,1+10,400,7.5,6.38,6.75
 Holga 400,Fomadon P,1+3,400,22.0,18.7,19.8
+Holga 400,Fomadon P,stock,400,10.5,8.92,9.45
+Holga 400,Fomadon R09,1+200,400,61.0,51.85,54.9
 Holga 400,Fomadon R09,1+25,400,6.0,5.1,5.4
 Holga 400,Fomadon R09,1+50,400,12.0,10.2,10.8
 Holga 400,FX-4,1+3,400,18.0,15.3,16.2
@@ -3539,7 +3838,10 @@ Holga 400,HC-110,B,320,6.0,5.1,5.4
 Holga 400,HC-110,B,400,7.0,5.95,6.3
 Holga 400,HC-110,E,240,7.5,6.38,6.75
 Holga 400,HC-110,H,400,13.0,11.05,11.7
+Holga 400,ID-11,1+1,400,12.5,10.62,11.25
 Holga 400,ID-11,1+1,800,17.0,14.45,15.3
+Holga 400,ID-11,1+3,400,22.5,19.12,20.25
+Holga 400,ID-11,stock,400,7.5,6.38,6.75
 Holga 400,Ilfosol 3,1+9,400,8.5,7.22,7.65
 Holga 400,Ilfotec DD-X,1+9,400,12.0,10.2,10.8
 Holga 400,Ilfotec LC29,1+29,200,7.0,5.95,6.3
@@ -3547,6 +3849,10 @@ Holga 400,Ilfotec LC29,1+29,400,9.0,7.65,8.1
 Holga 400,Marathon,1+9,100,6.5,5.52,5.85
 Holga 400,Microdol-X,1+3,400,32.0,27.2,28.8
 Holga 400,Microdol-X,stock,400,15.0,12.75,13.5
+Holga 400,Microphen,1+1,400,12.5,10.62,11.25
+Holga 400,Microphen,1+3,400,24.5,20.82,22.05
+Holga 400,Microphen,stock,400,8.5,7.22,7.65
+Holga 400,Perceptol,stock,400,9.5,8.07,8.55
 Holga 400,PMK,1+2+100,400,13.0,11.05,11.7
 Holga 400,Promicrol,1+14,800,15.0,12.75,13.5
 Holga 400,Rodinal,1+100,400,120.0,102.0,108.0
@@ -3561,6 +3867,7 @@ Holga 400,Romek PQ7,1+3,1600,25.0,21.25,22.5
 Holga 400,Romek PQ7,1+3,400,12.5,10.62,11.25
 Holga 400,Silberra Ascorol,1+29,400,8.0,6.8,7.2
 Holga 400,Sprint Standard,1+9,400,12.0,10.2,10.8
+Holga 400,TMax Dev,1+4,400,7.5,6.38,6.75
 Holga 400,TMax RS,stock,400,8.0,6.8,7.2
 Holga 400,Ultrafin,1+20,400,15.0,12.75,13.5
 Holga 400,XT-3,1+1,400,9.5,8.07,8.55
@@ -3638,6 +3945,7 @@ Ilford Delta 100 Pro,Eco Pro,stock,25,6.75,5.74,6.08
 Ilford Delta 100 Pro,Eco Pro,stock,400,11.5,9.78,10.35
 Ilford Delta 100 Pro,Eco Pro,stock,50,6.75,5.74,6.08
 Ilford Delta 100 Pro,Eco Pro,stock,800,14.5,12.32,13.05
+Ilford Delta 100 Pro,Emofin,stock,100,6.0,5.1,5.4
 Ilford Delta 100 Pro,F76+,1+14,100,9.5,8.07,8.55
 Ilford Delta 100 Pro,F76+,1+14,50,6.0,5.1,5.4
 Ilford Delta 100 Pro,F76+,1+9,100,6.5,5.52,5.85
@@ -3758,6 +4066,7 @@ Ilford Delta 100 Pro,Rodinal,1+50,200,18.0,15.3,16.2
 Ilford Delta 100 Pro,Rodinal,1+50,50,10.0,8.5,9.0
 Ilford Delta 100 Pro,Rollei D74,1+15,100,7.0,5.95,6.3
 Ilford Delta 100 Pro,Rollei D74,1+9,100,5.0,4.25,4.5
+Ilford Delta 100 Pro,Rollei RPX-D,1+19,100,6.75,5.74,6.08
 Ilford Delta 100 Pro,Silberra Ascorol,1+29,100,8.0,6.8,7.2
 Ilford Delta 100 Pro,SP-76EC,1+10,100,7.0,5.95,6.3
 Ilford Delta 100 Pro,SP-Ultra 4LF,1+9,125,6.5,5.52,5.85
@@ -3765,11 +4074,13 @@ Ilford Delta 100 Pro,SPD,1+1,100,7.0,5.95,6.3
 Ilford Delta 100 Pro,SPD,stock,100,5.0,4.25,4.5
 Ilford Delta 100 Pro,SPD,stock,200,8.0,6.8,7.2
 Ilford Delta 100 Pro,Sprint Standard,1+9,100,8.5,7.22,7.65
+Ilford Delta 100 Pro,Spur HRX,1+20,80,8.75,7.44,7.88
 Ilford Delta 100 Pro,Spur NHC,1+15,125,8.0,6.8,7.2
 Ilford Delta 100 Pro,Spur NHC,1+15,160,9.5,8.07,8.55
 Ilford Delta 100 Pro,Spur NHC,1+19,100,7.5,6.38,6.75
 Ilford Delta 100 Pro,Spur PXD,1+19,100,7.0,5.95,6.3
 Ilford Delta 100 Pro,Spur SD 2525,1+12,80,5.0,4.25,4.5
+Ilford Delta 100 Pro,Spur SHADOWmax,1+0+35,100,6.75,5.74,6.08
 Ilford Delta 100 Pro,Spur SHADOWmax,1+5+44,100,7.5,6.38,6.75
 Ilford Delta 100 Pro,Spur SHADOWmax,1+5+44,100,9.0,7.65,8.1
 Ilford Delta 100 Pro,Spur SLD,1+24,160,9.5,8.07,8.55
@@ -3893,6 +4204,7 @@ Ilford Delta 3200 Pro,Eco Pro,stock,3200,7.5,6.38,6.75
 Ilford Delta 3200 Pro,Eco Pro,stock,400,5.0,4.25,4.5
 Ilford Delta 3200 Pro,Eco Pro,stock,6400,10.0,8.5,9.0
 Ilford Delta 3200 Pro,Eco Pro,stock,800,6.0,5.1,5.4
+Ilford Delta 3200 Pro,Emofin,stock,3200,20.0,17.0,18.0
 Ilford Delta 3200 Pro,F76+,1+9,3200,10.0,8.5,9.0
 Ilford Delta 3200 Pro,FD10,1+14,3200,14.0,11.9,12.6
 Ilford Delta 3200 Pro,FD10,1+9,3200,11.0,9.35,9.9
@@ -4003,6 +4315,11 @@ Ilford Delta 3200 Pro,Silberra Ascorol,1+29,3200,11.0,9.35,9.9
 Ilford Delta 3200 Pro,Spur HRX,1+8,800,15.0,12.75,13.5
 Ilford Delta 3200 Pro,Spur NHC,1+9,1000,11.0,9.35,9.9
 Ilford Delta 3200 Pro,Spur NHC,1+9,1600,14.0,11.9,12.6
+Ilford Delta 3200 Pro,Spur SD 2525,1+12,320,8.75,7.44,7.88
+Ilford Delta 3200 Pro,Spur SD 2525,1+12,400,8.75,7.44,7.88
+Ilford Delta 3200 Pro,Spur SLD,1+7,1000,6.75,5.74,6.08
+Ilford Delta 3200 Pro,Spur SLD,1+7,1280,8.5,7.22,7.65
+Ilford Delta 3200 Pro,Spur SLD,1+7,1600,8.5,7.22,7.65
 Ilford Delta 3200 Pro,Spur SLD,1+7,800,5.5,4.67,4.95
 Ilford Delta 3200 Pro,Spur SLD,1+9,1000,14.0,11.9,12.6
 Ilford Delta 3200 Pro,Spur Speed-Major,1+20,1000,12.0,10.2,10.8
@@ -4105,6 +4422,7 @@ Ilford Delta 400 Pro,Eco Pro,stock,400,7.5,6.38,6.75
 Ilford Delta 400 Pro,Eco Pro,stock,400,5.5,4.67,4.95
 Ilford Delta 400 Pro,Eco Pro,stock,500,8.5,7.22,7.65
 Ilford Delta 400 Pro,Eco Pro,stock,800,10.0,8.5,9.0
+Ilford Delta 400 Pro,Emofin,stock,400,14.0,11.9,12.6
 Ilford Delta 400 Pro,F76+,1+14,200,11.0,9.35,9.9
 Ilford Delta 400 Pro,F76+,1+14,400,13.5,11.47,12.15
 Ilford Delta 400 Pro,F76+,1+9,1600,13.0,11.05,11.7
@@ -4259,6 +4577,7 @@ Ilford Delta 400 Pro,Spur SHADOWmax,5+8+67,800,13.0,11.05,11.7
 Ilford Delta 400 Pro,Spur SLD,1+17,400,11.0,9.35,9.9
 Ilford Delta 400 Pro,Spur SLD,1+19,400,9.0,7.65,8.1
 Ilford Delta 400 Pro,Spur SLD,1+9,500,5.0,4.25,4.5
+Ilford Delta 400 Pro,Spur SLD,1+9,800,7.75,6.59,6.98
 Ilford Delta 400 Pro,Spur Speed-Major,1+12,1000,12.0,10.2,10.8
 Ilford Delta 400 Pro,Spur Speed-Major,1+20,640,11.0,9.35,9.9
 Ilford Delta 400 Pro,Spur Speed-Major,1+30,400,12.0,10.2,10.8
@@ -4339,6 +4658,8 @@ Ilford FP4+,Ars-Imago FE,1+1,125,7.0,5.95,6.3
 Ilford FP4+,Ars-Imago FE,1+1,50,6.0,5.1,5.4
 Ilford FP4+,Atomal 49,1+1,125,11.0,9.35,9.9
 Ilford FP4+,Atomal 49,stock,125,8.0,6.8,7.2
+Ilford FP4+,Bellini DF2 Duo Step,stock,200,6.0,5.1,5.4
+Ilford FP4+,Bellini DF2 Duo Step,stock,250,6.0,5.1,5.4
 Ilford FP4+,Bellini FX6a Monobath,stock,125,8.5,7.22,7.65
 Ilford FP4+,Bellini Hydrofen,1+15,100,3.5,2.98,3.15
 Ilford FP4+,Bellini Hydrofen,1+39,125,5.25,4.46,4.73
@@ -4368,6 +4689,8 @@ Ilford FP4+,D-76,stock,200,10.0,8.5,9.0
 Ilford FP4+,D-76,stock,400,12.0,10.2,10.8
 Ilford FP4+,D-76,stock,50,6.5,5.52,5.85
 Ilford FP4+,D-96,stock,125,8.0,6.8,7.2
+Ilford FP4+,Diafine,stock,200,6.0,5.1,5.4
+Ilford FP4+,Diafine,stock,250,6.0,5.1,5.4
 Ilford FP4+,DK-50,1+1,125,5.0,4.25,4.5
 Ilford FP4+,DK-50,1+3,125,8.0,6.8,7.2
 Ilford FP4+,DK-50,stock,125,4.0,3.4,3.6
@@ -4395,6 +4718,7 @@ Ilford FP4+,Eco Pro,stock,250,9.0,7.65,8.1
 Ilford FP4+,Eco Pro,stock,32,6.5,5.52,5.85
 Ilford FP4+,Eco Pro,stock,500,11.0,9.35,9.9
 Ilford FP4+,Eco Pro,stock,64,6.5,5.52,5.85
+Ilford FP4+,Emofin,stock,125,12.0,10.2,10.8
 Ilford FP4+,Extend Plus,1+15,125,8.0,6.8,7.2
 Ilford FP4+,F76+,1+9,125,5.5,4.67,4.95
 Ilford FP4+,FA-1027,1+14,125,9.0,7.65,8.1
@@ -4425,7 +4749,9 @@ Ilford FP4+,FX-55,1+9,125,8.5,7.22,7.65
 Ilford FP4+,HC-110,1+31,125,6.0,5.1,5.4
 Ilford FP4+,HC-110,A,125,4.5,3.82,4.05
 Ilford FP4+,HC-110,A,200,6.0,5.1,5.4
+Ilford FP4+,HC-110,B,125,8.0,6.8,7.2
 Ilford FP4+,HC-110,B,200,12.0,10.2,10.8
+Ilford FP4+,HC-110,B,400,17.0,14.45,15.3
 Ilford FP4+,HC-110,B,50,6.0,5.1,5.4
 Ilford FP4+,HC-110,B,800,24.0,20.4,21.6
 Ilford FP4+,HC-110,E,100,10.5,8.92,9.45
@@ -4555,6 +4881,7 @@ Ilford FP4+,Spur HRX,1+20,100,9.5,8.07,8.55
 Ilford FP4+,Spur NHC,1+15,160,10.0,8.5,9.0
 Ilford FP4+,Spur NHC,1+9,200,10.0,8.5,9.0
 Ilford FP4+,Spur NHC,1+9,250,12.0,10.2,10.8
+Ilford FP4+,Spur SD 2525,1+15,100,5.75,4.89,5.17
 Ilford FP4+,Spur SHADOWmax,1+0+35,100,7.5,6.38,6.75
 Ilford FP4+,Spur SHADOWmax,1+2+28,200,11.5,9.78,10.35
 Ilford FP4+,Spur SHADOWmax,2+5+43,200,10.0,8.5,9.0
@@ -4581,6 +4908,7 @@ Ilford FP4+,TMax Dev,1+4,200,9.0,7.65,8.1
 Ilford FP4+,TMax Dev,1+4,320,12.0,10.2,10.8
 Ilford FP4+,TMax Dev,1+4,400,14.0,11.9,12.6
 Ilford FP4+,TMax Dev,1+9,100,14.0,11.9,12.6
+Ilford FP4+,Ultrafin,1+10,125,7.5,6.38,6.75
 Ilford FP4+,Ultrafin,1+10,200,9.0,7.65,8.1
 Ilford FP4+,Ultrafin,1+20,125,11.0,9.35,9.9
 Ilford FP4+,Ultrafin,1+20,200,14.0,11.9,12.6
@@ -4672,6 +5000,7 @@ Ilford HP5+,Atomal 49,1+1,1600,18.0,15.3,16.2
 Ilford HP5+,Atomal 49,1+1,400,12.0,10.2,10.8
 Ilford HP5+,Atomal 49,stock,400,7.5,6.38,6.75
 Ilford HP5+,Atomal 49,stock,800,9.0,7.65,8.1
+Ilford HP5+,Bellini DF2 Duo Step,stock,640,6.0,5.1,5.4
 Ilford HP5+,Bellini FX6a Monobath,stock,400,9.0,7.65,8.1
 Ilford HP5+,Bellini Hydrofen,1+15,400,4.0,3.4,3.6
 Ilford HP5+,Bellini Hydrofen,1+31,400,8.0,6.8,7.2
@@ -4722,6 +5051,8 @@ Ilford HP5+,D-76,stock,800,10.5,8.92,9.45
 Ilford HP5+,D-76D,stock,400,8.5,7.22,7.65
 Ilford HP5+,D-96,stock,400,7.5,6.38,6.75
 Ilford HP5+,Dektol,1+9,400,7.0,5.95,6.3
+Ilford HP5+,Diafine,stock,640,6.0,5.1,5.4
+Ilford HP5+,Diafine,stock,800,6.0,5.1,5.4
 Ilford HP5+,DK-50,1+1,250,5.5,4.67,4.95
 Ilford HP5+,DK-50,1+1,800,7.5,6.38,6.75
 Ilford HP5+,DK-50,stock,400,6.0,5.1,5.4
@@ -4749,12 +5080,16 @@ Ilford HP5+,Eco Pro,stock,3200,17.5,14.88,15.75
 Ilford HP5+,Eco Pro,stock,400,8.5,7.22,7.65
 Ilford HP5+,Eco Pro,stock,400,6.0,5.1,5.4
 Ilford HP5+,Eco Pro,stock,800,10.5,8.92,9.45
+Ilford HP5+,Emofin,stock,1600,30.0,25.5,27.0
+Ilford HP5+,Emofin,stock,400,11.0,9.35,9.9
+Ilford HP5+,Emofin,stock,800,16.0,13.6,14.4
 Ilford HP5+,Extend Plus,1+15,400,10.0,8.5,9.0
 Ilford HP5+,F76+,1+14,250,9.0,7.65,8.1
 Ilford HP5+,F76+,1+9,400,7.0,5.95,6.3
 Ilford HP5+,FA-1027,1+14,400,9.0,7.65,8.1
 Ilford HP5+,FA-1027,1+20,400,9.0,7.65,8.1
 Ilford HP5+,FA-1027,1+9,1600,16.5,14.03,14.85
+Ilford HP5+,FA-1027,1+9,400,6.5,5.52,5.85
 Ilford HP5+,FA-1027,1+9,800,12.5,10.62,11.25
 Ilford HP5+,FD10,1+14,400,11.0,9.35,9.9
 Ilford HP5+,FD10,1+9,400,7.0,5.95,6.3
@@ -4763,6 +5098,7 @@ Ilford HP5+,Foma Universal,1+3,400,9.5,8.07,8.55
 Ilford HP5+,Fomadon Excel,1+1,800,14.5,12.32,13.05
 Ilford HP5+,Fomadon Excel,stock,400,8.0,6.8,7.2
 Ilford HP5+,Fomadon LQN,1+10,400,9.5,8.07,8.55
+Ilford HP5+,Fomadon LQR,1+10,400,8.0,6.8,7.2
 Ilford HP5+,Fomadon P,stock,400,14.0,11.9,12.6
 Ilford HP5+,Fomadon R09,1+50,400,15.0,12.75,13.5
 Ilford HP5+,Fuji Microfine,stock,400,11.0,9.35,9.9
@@ -4875,6 +5211,7 @@ Ilford HP5+,Nucleol BF200,35+20+945,1600,16.0,13.6,14.4
 Ilford HP5+,Nucleol BF200,60+35+905,3200,27.0,22.95,24.3
 Ilford HP5+,Obsidian Aqua,1+500,400,12.0,10.2,10.8
 Ilford HP5+,Ornano Gradual ST20,1+9,1600,18.5,15.72,16.65
+Ilford HP5+,Ornano Gradual ST20,1+9,400,11.75,9.99,10.58
 Ilford HP5+,Ornano Gradual ST20,1+9,400,12.5,10.62,11.25
 Ilford HP5+,Ornano Gradual ST20,1+9,800,15.0,12.75,13.5
 Ilford HP5+,Paranol S,1+25,400,11.0,9.35,9.9
@@ -4903,6 +5240,7 @@ Ilford HP5+,PMK,1+2+100,400,12.0,10.2,10.8
 Ilford HP5+,PQ Universal,1+19,320,4.5,3.82,4.05
 Ilford HP5+,Promicrol,1+14,600,16.0,13.6,14.4
 Ilford HP5+,Promicrol,1+14,800,16.0,13.6,14.4
+Ilford HP5+,Promicrol,1+9,400,9.5,8.07,8.55
 Ilford HP5+,Promicrol,1+9,600,11.0,9.35,9.9
 Ilford HP5+,Promicrol,1+9,800,11.0,9.35,9.9
 Ilford HP5+,Pyrocat-HD,1+1+100,200,9.0,7.65,8.1
@@ -4927,6 +5265,7 @@ Ilford HP5+,Rodinal,1+36,200,7.5,6.38,6.75
 Ilford HP5+,Rodinal,1+50,100,9.0,7.65,8.1
 Ilford HP5+,Rodinal,1+50,1600,24.0,20.4,21.6
 Ilford HP5+,Rodinal,1+50,1600,5.0,4.25,4.5
+Ilford HP5+,Rodinal,1+50,200,11.5,9.78,10.35
 Ilford HP5+,Rodinal,1+50,25,7.0,5.95,6.3
 Ilford HP5+,Rodinal,1+50,400,11.0,9.35,9.9
 Ilford HP5+,Rodinal,1+50,6400,52.0,44.2,46.8
@@ -5048,6 +5387,7 @@ Ilford HP5+,Xtol,stock,400,6.0,5.1,5.4
 Ilford HP5+,Xtol,stock,800,10.5,8.92,9.45
 Ilford Ortho Plus,510-Pyro,1+100,80,9.0,7.65,8.1
 Ilford Ortho Plus,Acufine,stock,80,4.75,4.04,4.28
+Ilford Ortho Plus,Bellini DF2 Duo Step,stock,160,7.0,5.95,6.3
 Ilford Ortho Plus,Bellini Hydrofen,1+15,80,5.0,4.25,4.5
 Ilford Ortho Plus,Bellini Hydrofen,1+31,80,10.0,8.5,9.0
 Ilford Ortho Plus,Black/White & Green,1+49,80,12.25,10.41,11.03
@@ -5058,6 +5398,7 @@ Ilford Ortho Plus,D-76,1+3,40,16.0,13.6,14.4
 Ilford Ortho Plus,D-76,1+3,80,16.0,13.6,14.4
 Ilford Ortho Plus,D-76,stock,40,8.0,6.8,7.2
 Ilford Ortho Plus,D-76,stock,80,8.0,6.8,7.2
+Ilford Ortho Plus,Diafine,stock,160,7.0,5.95,6.3
 Ilford Ortho Plus,DK-50,1+1,80,6.5,5.52,5.85
 Ilford Ortho Plus,HC-110,B,80,6.0,5.1,5.4
 Ilford Ortho Plus,HC-110,B,80,8.0,6.8,7.2
@@ -5134,6 +5475,7 @@ Ilford Pan 100,Eco Pro,1+1,100,11.5,9.78,10.35
 Ilford Pan 100,Eco Pro,1+1,400,12.0,10.2,10.8
 Ilford Pan 100,Eco Pro,stock,100,8.5,7.22,7.65
 Ilford Pan 100,FD10,1+9,100,8.0,6.8,7.2
+Ilford Pan 100,Fomadon LQN,1+10,100,9.5,8.07,8.55
 Ilford Pan 100,Fomadon P,stock,100,13.0,11.05,11.7
 Ilford Pan 100,HC-110,A,100,4.0,3.4,3.6
 Ilford Pan 100,HC-110,A,200,5.0,4.25,4.5
@@ -5226,6 +5568,7 @@ Ilford Pan 400,Eco Pro,1+1,800,14.5,12.32,13.05
 Ilford Pan 400,Foma Universal,1+3,800,17.0,14.45,15.3
 Ilford Pan 400,Fomadon LQN,1+10,400,11.0,9.35,9.9
 Ilford Pan 400,Fomadon LQR,1+10,400,8.5,7.22,7.65
+Ilford Pan 400,Fomadon P,stock,400,10.5,8.92,9.45
 Ilford Pan 400,Fomadon P,stock,800,15.0,12.75,13.5
 Ilford Pan 400,Fomadon R09,1+50,400,10.5,8.92,9.45
 Ilford Pan 400,FX-39,1+9,400,13.0,11.05,11.7
@@ -5280,6 +5623,7 @@ Ilford Pan 400,Microphen,1+1,400,12.0,10.2,10.8
 Ilford Pan 400,Microphen,1+1,800,13.0,11.05,11.7
 Ilford Pan 400,Microphen,1+3,1600,44.0,37.4,39.6
 Ilford Pan 400,Microphen,1+3,400,23.0,19.55,20.7
+Ilford Pan 400,Microphen,1+3,800,28.0,23.8,25.2
 Ilford Pan 400,Microphen,stock,1600,12.0,10.2,10.8
 Ilford Pan 400,Microphen,stock,200,5.0,4.25,4.5
 Ilford Pan 400,Microphen,stock,3200,16.0,13.6,14.4
@@ -5334,6 +5678,8 @@ Ilford Pan F+,Arista® Liquid,1+14,50,5.5,4.67,4.95
 Ilford Pan F+,Ars-Imago FD,1+39,50,6.0,5.1,5.4
 Ilford Pan F+,Ars-Imago FE,1+1,50,6.5,5.52,5.85
 Ilford Pan F+,Atomal 49,stock,50,7.5,6.38,6.75
+Ilford Pan F+,Bellini DF2 Duo Step,stock,100,6.0,5.1,5.4
+Ilford Pan F+,Bellini DF2 Duo Step,stock,80,6.0,5.1,5.4
 Ilford Pan F+,Bellini Hydrofen,1+15,25,3.0,2.55,2.7
 Ilford Pan F+,Black/White & Green,1+49,50,10.0,8.5,9.0
 Ilford Pan F+,D-19,1+1,50,5.5,4.67,4.95
@@ -5348,6 +5694,8 @@ Ilford Pan F+,D-76,1+3,50,15.0,12.75,13.5
 Ilford Pan F+,D-76,stock,12,4.0,3.4,3.6
 Ilford Pan F+,D-76,stock,25,4.5,3.82,4.05
 Ilford Pan F+,D-76,stock,50,6.5,5.52,5.85
+Ilford Pan F+,Diafine,stock,100,6.0,5.1,5.4
+Ilford Pan F+,Diafine,stock,80,6.0,5.1,5.4
 Ilford Pan F+,DK-50,1+1,50,5.0,4.25,4.5
 Ilford Pan F+,DK-50,1+3,50,9.0,7.65,8.1
 Ilford Pan F+,Eco Pro,1+1,100,9.5,8.07,8.55
@@ -5370,6 +5718,7 @@ Ilford Pan F+,Eco Pro,stock,200,9.0,7.65,8.1
 Ilford Pan F+,Eco Pro,stock,25,6.0,5.1,5.4
 Ilford Pan F+,Eco Pro,stock,400,10.0,8.5,9.0
 Ilford Pan F+,Eco Pro,stock,50,7.0,5.95,6.3
+Ilford Pan F+,Emofin,stock,50,8.0,6.8,7.2
 Ilford Pan F+,F76+,1+14,50,5.5,4.67,4.95
 Ilford Pan F+,FA-1027,1+14,50,5.0,4.25,4.5
 Ilford Pan F+,FD10,1+14,50,6.0,5.1,5.4
@@ -5476,6 +5825,7 @@ Ilford Pan F+,Spur SD 2525,1+15,32,4.5,3.82,4.05
 Ilford Pan F+,Spur SHADOWmax,1+1+48,25,7.0,5.95,6.3
 Ilford Pan F+,Spur SHADOWmax,1+2+38,40,8.0,6.8,7.2
 Ilford Pan F+,Spur SHADOWmax,5+18+157,50,9.0,7.65,8.1
+Ilford Pan F+,Spur SLD,1+24,50,3.75,3.19,3.38
 Ilford Pan F+,Spur SLD,1+30,40,8.0,6.8,7.2
 Ilford Pan F+,Spur TRX 2000,1+49,25,10.0,8.5,9.0
 Ilford Pan F+,Spur UFP,1+40,20,8.0,6.8,7.2
@@ -5544,6 +5894,7 @@ Ilford SFX 200,Arista® Liquid,1+9,400,10.5,8.92,9.45
 Ilford SFX 200,Arista® Liquid,1+9,800,12.5,10.62,11.25
 Ilford SFX 200,Ars-Imago FD,1+39,200,6.5,5.52,5.85
 Ilford SFX 200,Atomal 49,stock,12,13.0,11.05,11.7
+Ilford SFX 200,Bellini DF2 Duo Step,stock,1600,7.0,5.95,6.3
 Ilford SFX 200,Bellini FX6a Monobath,stock,200,8.0,6.8,7.2
 Ilford SFX 200,Bellini Hydrofen,1+15,125,4.0,3.4,3.6
 Ilford SFX 200,Berspeed,1+1,200,15.5,13.17,13.95
@@ -5555,10 +5906,12 @@ Ilford SFX 200,D-76,1+1,400,17.0,14.45,15.3
 Ilford SFX 200,D-76,stock,200,10.0,8.5,9.0
 Ilford SFX 200,D-76,stock,400,14.0,11.9,12.6
 Ilford SFX 200,D-76,stock,800,18.0,15.3,16.2
+Ilford SFX 200,Diafine,stock,1600,7.0,5.95,6.3
 Ilford SFX 200,Eco Pro,1+1,200,9.0,7.65,8.1
 Ilford SFX 200,Eco Pro,1+3,200,14.0,11.9,12.6
 Ilford SFX 200,Eco Pro,stock,200,7.0,5.95,6.3
 Ilford SFX 200,Eco Pro,stock,400,11.0,9.35,9.9
+Ilford SFX 200,Emofin,stock,200,6.0,5.1,5.4
 Ilford SFX 200,F76+,1+14,200,12.5,10.62,11.25
 Ilford SFX 200,F76+,1+14,400,18.5,15.72,16.65
 Ilford SFX 200,F76+,1+9,200,8.0,6.8,7.2
@@ -5798,6 +6151,7 @@ Kentmere 100,Eco Pro,stock,200,9.5,8.07,8.55
 Kentmere 100,Eco Pro,stock,50,6.5,5.52,5.85
 Kentmere 100,FA-1027,1+14,100,10.0,8.5,9.0
 Kentmere 100,FD10,1+9,100,9.25,7.86,8.33
+Kentmere 100,Fomadon LQN,1+10,100,8.5,7.22,7.65
 Kentmere 100,Fomadon P,1+1,100,13.5,11.47,12.15
 Kentmere 100,Fuji Microfine,stock,100,12.0,10.2,10.8
 Kentmere 100,FX-15,1+1,100,11.0,9.35,9.9
@@ -5862,6 +6216,7 @@ Kentmere 100,Rodinal,1+25,100,9.0,7.65,8.1
 Kentmere 100,Rodinal,1+25,1600,60.0,51.0,54.0
 Kentmere 100,Rodinal,1+25,200,13.0,11.05,11.7
 Kentmere 100,Rodinal,1+25,3200,70.0,59.5,63.0
+Kentmere 100,Rodinal,1+25,800,40.0,34.0,36.0
 Kentmere 100,Rodinal,1+50,100,15.0,12.75,13.5
 Kentmere 100,Rodinal,1+50,100,12.5,10.62,11.25
 Kentmere 100,Rodinal,1+50,200,20.0,17.0,18.0
@@ -6055,7 +6410,10 @@ Kentmere 400,HC-110,1+49,400,9.25,7.86,8.33
 Kentmere 400,HC-110,B,1600,12.0,10.2,10.8
 Kentmere 400,HC-110,B,200,3.5,2.98,3.15
 Kentmere 400,HC-110,B,3200,15.0,12.75,13.5
+Kentmere 400,HC-110,B,400,5.5,4.67,4.95
+Kentmere 400,HC-110,B,800,10.0,8.5,9.0
 Kentmere 400,HC-110,D,400,7.5,6.38,6.75
+Kentmere 400,HC-110,E,400,8.5,7.22,7.65
 Kentmere 400,HC-110,E,800,13.0,11.05,11.7
 Kentmere 400,HC-110,F,200,10.75,9.14,9.68
 Kentmere 400,HC-110,F,400,16.0,13.6,14.4
@@ -6275,6 +6633,8 @@ Kodak Double-X (5222),Acufine,stock,800,7.0,5.95,6.3
 Kodak Double-X (5222),Adox HR-DEV,1+24,800,15.0,12.75,13.5
 Kodak Double-X (5222),Adox HR-DEV,1+30,400,14.0,11.9,12.6
 Kodak Double-X (5222),Agfa Ansco 47,stock,250,5.0,4.25,4.5
+Kodak Double-X (5222),Bellini DF2 Duo Step,stock,1600,8.0,6.8,7.2
+Kodak Double-X (5222),Bellini DF2 Duo Step,stock,640,6.0,5.1,5.4
 Kodak Double-X (5222),Bellini FX6a Monobath,stock,250,9.0,7.65,8.1
 Kodak Double-X (5222),Bellini Hydrofen,1+39,250,5.25,4.46,4.73
 Kodak Double-X (5222),Bellini Hydrofen,1+39,400,6.5,5.52,5.85
@@ -6296,6 +6656,8 @@ Kodak Double-X (5222),D-76,stock,800,13.5,11.47,12.15
 Kodak Double-X (5222),D-96,stock,1600,25.0,21.25,22.5
 Kodak Double-X (5222),D-96,stock,200,6.5,5.52,5.85
 Kodak Double-X (5222),D-96,stock,400,8.0,6.8,7.2
+Kodak Double-X (5222),Diafine,stock,1600,8.0,6.8,7.2
+Kodak Double-X (5222),Diafine,stock,640,6.0,5.1,5.4
 Kodak Double-X (5222),DK-50,1+1,200,6.0,5.1,5.4
 Kodak Double-X (5222),Eco Pro,1+1,100,7.0,5.95,6.3
 Kodak Double-X (5222),Eco Pro,1+1,250,10.0,8.5,9.0
@@ -6410,6 +6772,9 @@ Kodak Ektapan 100,Ars-Imago FE,1+1,100,7.5,6.38,6.75
 Kodak Ektapan 100,Ars-Imago FE,1+1,200,8.5,7.22,7.65
 Kodak Ektapan 100,Ars-Imago FE,1+1,50,6.5,5.52,5.85
 Kodak Ektapan 100,Atomal 49,stock,100,8.0,6.8,7.2
+Kodak Ektapan 100,Bellini DF2 Duo Step,stock,160,6.0,5.1,5.4
+Kodak Ektapan 100,Bellini DF2 Duo Step,stock,200,6.0,5.1,5.4
+Kodak Ektapan 100,Bellini DF2 Duo Step,stock,200,10.0,8.5,9.0
 Kodak Ektapan 100,Bellini Hydrofen,1+15,80,5.0,4.25,4.5
 Kodak Ektapan 100,Bellini Hydrofen,1+39,100,6.0,5.1,5.4
 Kodak Ektapan 100,Bellini Hydrofen,1+39,200,9.0,7.65,8.1
@@ -6438,6 +6803,9 @@ Kodak Ektapan 100,D-96,stock,100,7.5,6.38,6.75
 Kodak Ektapan 100,Dektol,1+3,64,3.5,2.98,3.15
 Kodak Ektapan 100,Dektol,1+4,100,4.5,3.82,4.05
 Kodak Ektapan 100,Dektol,1+9,100,6.75,5.74,6.08
+Kodak Ektapan 100,Diafine,stock,160,6.0,5.1,5.4
+Kodak Ektapan 100,Diafine,stock,200,10.0,8.5,9.0
+Kodak Ektapan 100,Diafine,stock,200,6.0,5.1,5.4
 Kodak Ektapan 100,Eco Pro,1+1,100,9.5,8.07,8.55
 Kodak Ektapan 100,Eco Pro,1+1,100,9.25,7.86,8.33
 Kodak Ektapan 100,Eco Pro,1+1,200,9.5,8.07,8.55
@@ -6469,6 +6837,7 @@ Kodak Ektapan 100,Eco Pro,stock,400,9.5,8.07,8.55
 Kodak Ektapan 100,Eco Pro,stock,400,9.0,7.65,8.1
 Kodak Ektapan 100,Eco Pro,stock,50,5.75,4.89,5.17
 Kodak Ektapan 100,Eco Pro,stock,800,10.5,8.92,9.45
+Kodak Ektapan 100,Emofin,stock,100,9.0,7.65,8.1
 Kodak Ektapan 100,Extend Plus,1+15,100,11.5,9.78,10.35
 Kodak Ektapan 100,Extend Plus,1+15,100,11.0,9.35,9.9
 Kodak Ektapan 100,F76+,1+9,100,12.0,10.2,10.8
@@ -6563,7 +6932,7 @@ Kodak Ektapan 100,Rodinal,1+100,80,20.0,17.0,18.0
 Kodak Ektapan 100,Rodinal,1+25,100,5.5,4.67,4.95
 Kodak Ektapan 100,Rodinal,1+25,100,6.0,5.1,5.4
 Kodak Ektapan 100,Rodinal,1+25,400,8.5,7.22,7.65
-Kodak Ektapan 100,Rodinal,1+25,64,5.5,4.67,4.95
+Kodak Ektapan 100,Rodinal,1+25,64,5.75,4.89,5.17
 Kodak Ektapan 100,Rodinal,1+50,100,12.0,10.2,10.8
 Kodak Ektapan 100,Rodinal,1+50,50,10.0,8.5,9.0
 Kodak Ektapan 100,Rodinal,1+50,80,12.0,10.2,10.8
@@ -6703,6 +7072,9 @@ Kodak Ektapan 400,Ars-Imago FE,1+1,200,5.0,4.25,4.5
 Kodak Ektapan 400,Ars-Imago FE,1+1,400,6.5,5.52,5.85
 Kodak Ektapan 400,Ars-Imago FE,1+1,800,7.5,6.38,6.75
 Kodak Ektapan 400,Atomal 49,stock,400,11.0,9.35,9.9
+Kodak Ektapan 400,Bellini DF2 Duo Step,stock,400,6.5,5.52,5.85
+Kodak Ektapan 400,Bellini DF2 Duo Step,stock,500,6.0,5.1,5.4
+Kodak Ektapan 400,Bellini DF2 Duo Step,stock,640,6.0,5.1,5.4
 Kodak Ektapan 400,Bellini Hydrofen,1+15,400,5.0,4.25,4.5
 Kodak Ektapan 400,Bellini Hydrofen,1+39,1600,12.5,10.62,11.25
 Kodak Ektapan 400,Bellini Hydrofen,1+39,200,4.5,3.82,4.05
@@ -6731,6 +7103,9 @@ Kodak Ektapan 400,D-76,stock,400,7.5,6.38,6.75
 Kodak Ektapan 400,D-76,stock,800,7.5,6.38,6.75
 Kodak Ektapan 400,D-76D,1+1,400,12.5,10.62,11.25
 Kodak Ektapan 400,Dektol,1+4,400,5.5,4.67,4.95
+Kodak Ektapan 400,Diafine,stock,400,6.5,5.52,5.85
+Kodak Ektapan 400,Diafine,stock,500,6.0,5.1,5.4
+Kodak Ektapan 400,Diafine,stock,640,6.0,5.1,5.4
 Kodak Ektapan 400,DK-76b,1+1,400,9.0,7.65,8.1
 Kodak Ektapan 400,Eco Pro,1+1,100,8.0,6.8,7.2
 Kodak Ektapan 400,Eco Pro,1+1,1600,12.25,10.41,11.03
@@ -6757,6 +7132,7 @@ Kodak Ektapan 400,Eco Pro,stock,3200,9.5,8.07,8.55
 Kodak Ektapan 400,Eco Pro,stock,400,6.5,5.52,5.85
 Kodak Ektapan 400,Eco Pro,stock,800,7.25,6.16,6.53
 Kodak Ektapan 400,Eco Pro,stock,800,6.5,5.52,5.85
+Kodak Ektapan 400,Emofin,stock,400,9.0,7.65,8.1
 Kodak Ektapan 400,Extend Plus,1+15,400,10.0,8.5,9.0
 Kodak Ektapan 400,F76+,1+9,400,8.0,6.8,7.2
 Kodak Ektapan 400,FA-1027,1+14,400,11.0,9.35,9.9
@@ -6781,7 +7157,9 @@ Kodak Ektapan 400,HC-110,1+250,400,45.0,38.25,40.5
 Kodak Ektapan 400,HC-110,B,1600,7.5,6.38,6.75
 Kodak Ektapan 400,HC-110,B,320,6.0,5.1,5.4
 Kodak Ektapan 400,HC-110,B,3200,9.5,8.07,8.55
+Kodak Ektapan 400,HC-110,B,400,5.75,4.89,5.17
 Kodak Ektapan 400,HC-110,B,640,7.0,5.95,6.3
+Kodak Ektapan 400,HC-110,B,800,5.75,4.89,5.17
 Kodak Ektapan 400,HC-110,D,400,7.5,6.38,6.75
 Kodak Ektapan 400,HC-110,E,200,10.5,8.92,9.45
 Kodak Ektapan 400,HC-110,H,400,12.25,10.41,11.03
@@ -6809,6 +7187,7 @@ Kodak Ektapan 400,Ilfotec DD-X,1+4,400,8.0,6.8,7.2
 Kodak Ektapan 400,Ilfotec DD-X,1+4,50,6.0,5.1,5.4
 Kodak Ektapan 400,Ilfotec DD-X,1+4,800,10.0,8.5,9.0
 Kodak Ektapan 400,Ilfotec DD-X,1+9,200,11.75,9.99,10.58
+Kodak Ektapan 400,Ilfotec DD-X,1+9,400,14.5,12.32,13.05
 Kodak Ektapan 400,Ilfotec DD-X,1+9,800,17.5,14.88,15.75
 Kodak Ektapan 400,Ilfotec HC,1+31,1600,9.25,7.86,8.33
 Kodak Ektapan 400,Ilfotec HC,1+31,200,5.5,4.67,4.95
@@ -6887,6 +7266,9 @@ Kodak Ektapan 400,Spur SHADOWmax,1+1+59,400,15.0,12.75,13.5
 Kodak Ektapan 400,Spur SHADOWmax,1+2+17,1600,13.0,11.05,11.7
 Kodak Ektapan 400,Spur SHADOWmax,1+2+38,800,11.0,9.35,9.9
 Kodak Ektapan 400,Spur SLD,1+20,400,13.5,11.47,12.15
+Kodak Ektapan 400,Spur SLD,1+9,400,4.5,3.82,4.05
+Kodak Ektapan 400,Spur SLD,1+9,500,5.5,4.67,4.95
+Kodak Ektapan 400,Spur SLD,1+9,800,7.5,6.38,6.75
 Kodak Ektapan 400,Spur Speed-Major,1+14,1000,13.0,11.05,11.7
 Kodak Ektapan 400,Spur Speed-Major,1+20,800,12.0,10.2,10.8
 Kodak Ektapan 400,Spur Speed-Major,1+24,640,12.0,10.2,10.8
@@ -6989,6 +7371,7 @@ Kodak Ektapan P3200,Ars-Imago FD,1+19,3200,8.0,6.8,7.2
 Kodak Ektapan P3200,Ars-Imago FE,1+1,1600,11.0,9.35,9.9
 Kodak Ektapan P3200,Ars-Imago FE,1+1,3200,13.0,11.05,11.7
 Kodak Ektapan P3200,Atomal 49,stock,3200,11.0,9.35,9.9
+Kodak Ektapan P3200,Bellini DF2 Duo Step,stock,1250,6.0,5.1,5.4
 Kodak Ektapan P3200,Bellini Hydrofen,1+15,1250,6.0,5.1,5.4
 Kodak Ektapan P3200,Bellini Hydrofen,1+31,1250,13.0,11.05,11.7
 Kodak Ektapan P3200,Black/White & Green,1+49,3200,21.0,17.85,18.9
@@ -7004,6 +7387,7 @@ Kodak Ektapan P3200,D-76,stock,3200,15.0,12.75,13.5
 Kodak Ektapan P3200,D-76,stock,400,10.5,8.92,9.45
 Kodak Ektapan P3200,D-76,stock,6400,15.5,13.17,13.95
 Kodak Ektapan P3200,D-76,stock,800,11.5,9.78,10.35
+Kodak Ektapan P3200,Diafine,stock,1250,6.0,5.1,5.4
 Kodak Ektapan P3200,Eco Pro,1+1,100,10.5,8.92,9.45
 Kodak Ektapan P3200,Eco Pro,1+1,12500,22.5,19.12,20.25
 Kodak Ektapan P3200,Eco Pro,1+1,1600,14.0,11.9,12.6
@@ -7048,6 +7432,7 @@ Kodak Ektapan P3200,Eco Pro,stock,6400,12.5,10.62,11.25
 Kodak Ektapan P3200,Eco Pro,stock,6400,15.25,12.96,13.72
 Kodak Ektapan P3200,Eco Pro,stock,800,8.25,7.01,7.42
 Kodak Ektapan P3200,Eco Pro,stock,800,10.5,8.92,9.45
+Kodak Ektapan P3200,Emofin,stock,3200,16.0,13.6,14.4
 Kodak Ektapan P3200,Extend Plus,1+15,1600,13.0,11.05,11.7
 Kodak Ektapan P3200,Extend Plus,1+15,1600,12.0,10.2,10.8
 Kodak Ektapan P3200,Extend Plus,1+15,3200,16.0,13.6,14.4
@@ -7139,6 +7524,7 @@ Kodak Ektapan P3200,Rollei D74,1+9,1600,7.75,6.59,6.98
 Kodak Ektapan P3200,Silberra Ascorol,1+29,3200,14.0,11.9,12.6
 Kodak Ektapan P3200,Spur SLD,1+7,1280,5.5,4.67,4.95
 Kodak Ektapan P3200,Spur SLD,1+7,1600,7.5,6.38,6.75
+Kodak Ektapan P3200,Spur SLD,1+7,800,3.75,3.19,3.38
 Kodak Ektapan P3200,Spur Speed-Major,1+12,3200,15.0,12.75,13.5
 Kodak Ektapan P3200,Spur Speed-Major,1+14,3200,14.0,11.9,12.6
 Kodak Ektapan P3200,Spur Speed-Major,1+17,2500,14.5,12.32,13.05
@@ -7246,6 +7632,7 @@ Kodak Ektar 100,Eco Pro,1+1,100,8.5,7.22,7.65
 Kodak Ektar 100,XT-3,1+1,100,8.5,7.22,7.65
 Kodak Ektar 100,Xtol,1+1,100,8.5,7.22,7.65
 Kodak Gold 200,Agfa 12,1+9,125,12.0,10.2,10.8
+Kodak Gold 200,D2D,stock,200,15.0,12.75,13.5
 Kodak Gold 200,Rodinal,1+25,400,7.0,5.95,6.3
 Kodak Hawkeye,D-76,stock,400,5.5,4.67,4.95
 Kodak Hawkeye,FX-39,1+9,400,12.0,10.2,10.8
@@ -7261,16 +7648,19 @@ Kodak HIE Infrared,Amaloco AM74,1+7,400,7.5,6.38,6.75
 Kodak HIE Infrared,Black/White & Green,1+49,100,14.5,12.32,13.05
 Kodak HIE Infrared,D-19,stock,n/a,6.0,5.1,5.4
 Kodak HIE Infrared,D-76,1+1,400,13.0,11.05,11.7
-Kodak HIE Infrared,D-76,stock,n/a,9.5,8.07,8.55
+Kodak HIE Infrared,D-76,stock,n/a,9.75,8.29,8.78
+Kodak HIE Infrared,Eco Pro,1+1,n/a,10.25,8.71,9.22
 Kodak HIE Infrared,Eco Pro,1+2,n/a,12.5,10.62,11.25
 Kodak HIE Infrared,Eco Pro,1+3,n/a,17.0,14.45,15.3
+Kodak HIE Infrared,Eco Pro,stock,n/a,7.25,6.16,6.53
+Kodak HIE Infrared,Emofin,stock,n/a,11.0,9.35,9.9
 Kodak HIE Infrared,FD10,1+9,n/a,12.0,10.2,10.8
 Kodak HIE Infrared,FX-39,1+19,n/a,7.0,5.95,6.3
 Kodak HIE Infrared,FX-39,1+9,n/a,11.0,9.35,9.9
 Kodak HIE Infrared,FX-55,1+9,n/a,16.0,13.6,14.4
 Kodak HIE Infrared,HC-110,B,n/a,5.0,4.25,4.5
 Kodak HIE Infrared,ID-11,1+1,400,13.0,11.05,11.7
-Kodak HIE Infrared,ID-11,stock,n/a,9.5,8.07,8.55
+Kodak HIE Infrared,ID-11,stock,n/a,9.75,8.29,8.78
 Kodak HIE Infrared,Ilfotec DD-X,1+4,n/a,8.0,6.8,7.2
 Kodak HIE Infrared,Ilfotec HC,1+31,n/a,5.0,4.25,4.5
 Kodak HIE Infrared,Microphen,1+1,64,12.0,10.2,10.8
@@ -7280,6 +7670,8 @@ Kodak HIE Infrared,Ornano Gradual ST20,1+9,100,11.0,9.35,9.9
 Kodak HIE Infrared,Perceptol,stock,n/a,15.0,12.75,13.5
 Kodak HIE Infrared,PMK,1+2+100,320,17.75,15.09,15.97
 Kodak HIE Infrared,PMK,1+2+100,n/a,12.0,10.2,10.8
+Kodak HIE Infrared,Promicrol,1+14,n/a,17.5,14.88,15.75
+Kodak HIE Infrared,Promicrol,1+9,n/a,12.0,10.2,10.8
 Kodak HIE Infrared,Rodinal,1+25,n/a,9.0,7.65,8.1
 Kodak HIE Infrared,Rodinal,1+50,1600,20.0,17.0,18.0
 Kodak HIE Infrared,Rodinal,1+50,400,12.0,10.2,10.8
@@ -7290,10 +7682,14 @@ Kodak HIE Infrared,Suprol,1+9,n/a,4.75,4.04,4.28
 Kodak HIE Infrared,TMax Dev,1+4,50,7.0,5.95,6.3
 Kodak HIE Infrared,Ultrafin,1+10,n/a,5.0,4.25,4.5
 Kodak HIE Infrared,Ultrafin,1+20,n/a,13.0,11.05,11.7
+Kodak HIE Infrared,XT-3,1+1,n/a,10.25,8.71,9.22
 Kodak HIE Infrared,XT-3,1+2,n/a,12.5,10.62,11.25
 Kodak HIE Infrared,XT-3,1+3,n/a,17.0,14.45,15.3
+Kodak HIE Infrared,XT-3,stock,n/a,7.25,6.16,6.53
+Kodak HIE Infrared,Xtol,1+1,n/a,10.25,8.71,9.22
 Kodak HIE Infrared,Xtol,1+2,n/a,12.5,10.62,11.25
 Kodak HIE Infrared,Xtol,1+3,n/a,17.0,14.45,15.3
+Kodak HIE Infrared,Xtol,stock,n/a,7.25,6.16,6.53
 Kodak Panatomic-X,D-76,1+1,32,9.0,7.65,8.1
 Kodak Panatomic-X,D-76,1+1,32,8.0,6.8,7.2
 Kodak Panatomic-X,D-76,stock,32,7.0,5.95,6.3
@@ -7308,6 +7704,7 @@ Kodak Plus-X,ACU-1,1+10,125,9.0,7.65,8.1
 Kodak Plus-X,Arista® Liquid,1+9,125,5.75,4.89,5.17
 Kodak Plus-X,Arista® Liquid,1+9,125,5.5,4.67,4.95
 Kodak Plus-X,Arista® Premium,1+9,125,5.5,4.67,4.95
+Kodak Plus-X,Bellini DF2 Duo Step,stock,400,6.0,5.1,5.4
 Kodak Plus-X,Black/White & Green,1+49,125,12.0,10.2,10.8
 Kodak Plus-X,D-19,stock,500,6.25,5.31,5.62
 Kodak Plus-X,D-23,1+1,125,13.0,11.05,11.7
@@ -7320,6 +7717,7 @@ Kodak Plus-X,D-76,1+3,125,13.0,11.05,11.7
 Kodak Plus-X,D-76,stock,125,5.5,4.67,4.95
 Kodak Plus-X,D-76,stock,250,5.5,4.67,4.95
 Kodak Plus-X,D-76,stock,500,7.75,6.59,6.98
+Kodak Plus-X,Diafine,stock,400,6.0,5.1,5.4
 Kodak Plus-X,DK-50,1+1,125,4.5,3.82,4.05
 Kodak Plus-X,DK-50,1+1,125,5.0,4.25,4.5
 Kodak Plus-X,Eco Pro,1+1,1000,14.75,12.54,13.28
@@ -7354,6 +7752,7 @@ Kodak Plus-X,Eco Pro,stock,32,4.5,3.82,4.05
 Kodak Plus-X,Eco Pro,stock,500,8.25,7.01,7.42
 Kodak Plus-X,Eco Pro,stock,500,8.0,6.8,7.2
 Kodak Plus-X,Eco Pro,stock,64,4.5,3.82,4.05
+Kodak Plus-X,Emofin,stock,125,8.0,6.8,7.2
 Kodak Plus-X,Extend Plus,1+15,125,8.0,6.8,7.2
 Kodak Plus-X,F76+,1+9,125,5.5,4.67,4.95
 Kodak Plus-X,FD10,1+14,125,10.0,8.5,9.0
@@ -7519,6 +7918,9 @@ Kodak TMax 100,Ars-Imago FE,1+1,100,7.5,6.38,6.75
 Kodak TMax 100,Ars-Imago FE,1+1,200,8.5,7.22,7.65
 Kodak TMax 100,Ars-Imago FE,1+1,50,6.5,5.52,5.85
 Kodak TMax 100,Atomal 49,stock,100,8.0,6.8,7.2
+Kodak TMax 100,Bellini DF2 Duo Step,stock,160,6.0,5.1,5.4
+Kodak TMax 100,Bellini DF2 Duo Step,stock,200,10.0,8.5,9.0
+Kodak TMax 100,Bellini DF2 Duo Step,stock,200,6.0,5.1,5.4
 Kodak TMax 100,Bellini Hydrofen,1+15,80,5.0,4.25,4.5
 Kodak TMax 100,Bellini Hydrofen,1+39,100,6.0,5.1,5.4
 Kodak TMax 100,Bellini Hydrofen,1+39,200,9.0,7.65,8.1
@@ -7547,6 +7949,9 @@ Kodak TMax 100,D-96,stock,100,7.5,6.38,6.75
 Kodak TMax 100,Dektol,1+3,64,3.5,2.98,3.15
 Kodak TMax 100,Dektol,1+4,100,4.5,3.82,4.05
 Kodak TMax 100,Dektol,1+9,100,6.75,5.74,6.08
+Kodak TMax 100,Diafine,stock,160,6.0,5.1,5.4
+Kodak TMax 100,Diafine,stock,200,10.0,8.5,9.0
+Kodak TMax 100,Diafine,stock,200,6.0,5.1,5.4
 Kodak TMax 100,Eco Pro,1+1,100,9.5,8.07,8.55
 Kodak TMax 100,Eco Pro,1+1,100,9.25,7.86,8.33
 Kodak TMax 100,Eco Pro,1+1,200,9.5,8.07,8.55
@@ -7578,6 +7983,7 @@ Kodak TMax 100,Eco Pro,stock,400,9.5,8.07,8.55
 Kodak TMax 100,Eco Pro,stock,400,9.0,7.65,8.1
 Kodak TMax 100,Eco Pro,stock,50,5.75,4.89,5.17
 Kodak TMax 100,Eco Pro,stock,800,10.5,8.92,9.45
+Kodak TMax 100,Emofin,stock,100,9.0,7.65,8.1
 Kodak TMax 100,Extend Plus,1+15,100,11.5,9.78,10.35
 Kodak TMax 100,Extend Plus,1+15,100,11.0,9.35,9.9
 Kodak TMax 100,F76+,1+9,100,12.0,10.2,10.8
@@ -7672,7 +8078,7 @@ Kodak TMax 100,Rodinal,1+100,80,20.0,17.0,18.0
 Kodak TMax 100,Rodinal,1+25,100,6.0,5.1,5.4
 Kodak TMax 100,Rodinal,1+25,100,5.5,4.67,4.95
 Kodak TMax 100,Rodinal,1+25,400,8.5,7.22,7.65
-Kodak TMax 100,Rodinal,1+25,64,5.5,4.67,4.95
+Kodak TMax 100,Rodinal,1+25,64,5.75,4.89,5.17
 Kodak TMax 100,Rodinal,1+50,100,12.0,10.2,10.8
 Kodak TMax 100,Rodinal,1+50,50,10.0,8.5,9.0
 Kodak TMax 100,Rodinal,1+50,80,12.0,10.2,10.8
@@ -7812,6 +8218,9 @@ Kodak TMax 400,Ars-Imago FE,1+1,200,5.0,4.25,4.5
 Kodak TMax 400,Ars-Imago FE,1+1,400,6.5,5.52,5.85
 Kodak TMax 400,Ars-Imago FE,1+1,800,7.5,6.38,6.75
 Kodak TMax 400,Atomal 49,stock,400,11.0,9.35,9.9
+Kodak TMax 400,Bellini DF2 Duo Step,stock,400,6.5,5.52,5.85
+Kodak TMax 400,Bellini DF2 Duo Step,stock,500,6.0,5.1,5.4
+Kodak TMax 400,Bellini DF2 Duo Step,stock,640,6.0,5.1,5.4
 Kodak TMax 400,Bellini Hydrofen,1+15,400,5.0,4.25,4.5
 Kodak TMax 400,Bellini Hydrofen,1+39,1600,12.5,10.62,11.25
 Kodak TMax 400,Bellini Hydrofen,1+39,200,4.5,3.82,4.05
@@ -7840,6 +8249,9 @@ Kodak TMax 400,D-76,stock,400,7.5,6.38,6.75
 Kodak TMax 400,D-76,stock,800,7.5,6.38,6.75
 Kodak TMax 400,D-76D,1+1,400,12.5,10.62,11.25
 Kodak TMax 400,Dektol,1+4,400,5.5,4.67,4.95
+Kodak TMax 400,Diafine,stock,400,6.5,5.52,5.85
+Kodak TMax 400,Diafine,stock,500,6.0,5.1,5.4
+Kodak TMax 400,Diafine,stock,640,6.0,5.1,5.4
 Kodak TMax 400,DK-76b,1+1,400,9.0,7.65,8.1
 Kodak TMax 400,Eco Pro,1+1,100,8.0,6.8,7.2
 Kodak TMax 400,Eco Pro,1+1,1600,12.25,10.41,11.03
@@ -7866,6 +8278,7 @@ Kodak TMax 400,Eco Pro,stock,3200,9.5,8.07,8.55
 Kodak TMax 400,Eco Pro,stock,400,6.5,5.52,5.85
 Kodak TMax 400,Eco Pro,stock,800,7.25,6.16,6.53
 Kodak TMax 400,Eco Pro,stock,800,6.5,5.52,5.85
+Kodak TMax 400,Emofin,stock,400,9.0,7.65,8.1
 Kodak TMax 400,Extend Plus,1+15,400,10.0,8.5,9.0
 Kodak TMax 400,F76+,1+9,400,8.0,6.8,7.2
 Kodak TMax 400,FA-1027,1+14,400,11.0,9.35,9.9
@@ -7890,7 +8303,9 @@ Kodak TMax 400,HC-110,1+250,400,45.0,38.25,40.5
 Kodak TMax 400,HC-110,B,1600,7.5,6.38,6.75
 Kodak TMax 400,HC-110,B,320,6.0,5.1,5.4
 Kodak TMax 400,HC-110,B,3200,9.5,8.07,8.55
+Kodak TMax 400,HC-110,B,400,5.75,4.89,5.17
 Kodak TMax 400,HC-110,B,640,7.0,5.95,6.3
+Kodak TMax 400,HC-110,B,800,5.75,4.89,5.17
 Kodak TMax 400,HC-110,D,400,7.5,6.38,6.75
 Kodak TMax 400,HC-110,E,200,10.5,8.92,9.45
 Kodak TMax 400,HC-110,H,400,12.25,10.41,11.03
@@ -7918,6 +8333,7 @@ Kodak TMax 400,Ilfotec DD-X,1+4,400,8.0,6.8,7.2
 Kodak TMax 400,Ilfotec DD-X,1+4,50,6.0,5.1,5.4
 Kodak TMax 400,Ilfotec DD-X,1+4,800,10.0,8.5,9.0
 Kodak TMax 400,Ilfotec DD-X,1+9,200,11.75,9.99,10.58
+Kodak TMax 400,Ilfotec DD-X,1+9,400,14.5,12.32,13.05
 Kodak TMax 400,Ilfotec DD-X,1+9,800,17.5,14.88,15.75
 Kodak TMax 400,Ilfotec HC,1+31,1600,9.25,7.86,8.33
 Kodak TMax 400,Ilfotec HC,1+31,200,5.5,4.67,4.95
@@ -7996,6 +8412,9 @@ Kodak TMax 400,Spur SHADOWmax,1+1+59,400,15.0,12.75,13.5
 Kodak TMax 400,Spur SHADOWmax,1+2+17,1600,13.0,11.05,11.7
 Kodak TMax 400,Spur SHADOWmax,1+2+38,800,11.0,9.35,9.9
 Kodak TMax 400,Spur SLD,1+20,400,13.5,11.47,12.15
+Kodak TMax 400,Spur SLD,1+9,400,4.5,3.82,4.05
+Kodak TMax 400,Spur SLD,1+9,500,5.5,4.67,4.95
+Kodak TMax 400,Spur SLD,1+9,800,7.5,6.38,6.75
 Kodak TMax 400,Spur Speed-Major,1+14,1000,13.0,11.05,11.7
 Kodak TMax 400,Spur Speed-Major,1+20,800,12.0,10.2,10.8
 Kodak TMax 400,Spur Speed-Major,1+24,640,12.0,10.2,10.8
@@ -8098,6 +8517,7 @@ Kodak TMax P3200,Ars-Imago FD,1+19,3200,8.0,6.8,7.2
 Kodak TMax P3200,Ars-Imago FE,1+1,1600,11.0,9.35,9.9
 Kodak TMax P3200,Ars-Imago FE,1+1,3200,13.0,11.05,11.7
 Kodak TMax P3200,Atomal 49,stock,3200,11.0,9.35,9.9
+Kodak TMax P3200,Bellini DF2 Duo Step,stock,1250,6.0,5.1,5.4
 Kodak TMax P3200,Bellini Hydrofen,1+15,1250,6.0,5.1,5.4
 Kodak TMax P3200,Bellini Hydrofen,1+31,1250,13.0,11.05,11.7
 Kodak TMax P3200,Black/White & Green,1+49,3200,21.0,17.85,18.9
@@ -8113,6 +8533,7 @@ Kodak TMax P3200,D-76,stock,3200,15.0,12.75,13.5
 Kodak TMax P3200,D-76,stock,400,10.5,8.92,9.45
 Kodak TMax P3200,D-76,stock,6400,15.5,13.17,13.95
 Kodak TMax P3200,D-76,stock,800,11.5,9.78,10.35
+Kodak TMax P3200,Diafine,stock,1250,6.0,5.1,5.4
 Kodak TMax P3200,Eco Pro,1+1,100,10.5,8.92,9.45
 Kodak TMax P3200,Eco Pro,1+1,12500,22.5,19.12,20.25
 Kodak TMax P3200,Eco Pro,1+1,1600,16.0,13.6,14.4
@@ -8157,6 +8578,7 @@ Kodak TMax P3200,Eco Pro,stock,6400,15.25,12.96,13.72
 Kodak TMax P3200,Eco Pro,stock,6400,12.5,10.62,11.25
 Kodak TMax P3200,Eco Pro,stock,800,10.5,8.92,9.45
 Kodak TMax P3200,Eco Pro,stock,800,8.25,7.01,7.42
+Kodak TMax P3200,Emofin,stock,3200,16.0,13.6,14.4
 Kodak TMax P3200,Extend Plus,1+15,1600,13.0,11.05,11.7
 Kodak TMax P3200,Extend Plus,1+15,1600,12.0,10.2,10.8
 Kodak TMax P3200,Extend Plus,1+15,3200,16.0,13.6,14.4
@@ -8248,6 +8670,7 @@ Kodak TMax P3200,Rollei D74,1+9,1600,7.75,6.59,6.98
 Kodak TMax P3200,Silberra Ascorol,1+29,3200,14.0,11.9,12.6
 Kodak TMax P3200,Spur SLD,1+7,1280,5.5,4.67,4.95
 Kodak TMax P3200,Spur SLD,1+7,1600,7.5,6.38,6.75
+Kodak TMax P3200,Spur SLD,1+7,800,3.75,3.19,3.38
 Kodak TMax P3200,Spur Speed-Major,1+12,3200,15.0,12.75,13.5
 Kodak TMax P3200,Spur Speed-Major,1+14,3200,14.0,11.9,12.6
 Kodak TMax P3200,Spur Speed-Major,1+17,2500,14.5,12.32,13.05
@@ -8352,12 +8775,16 @@ Kodak TMax P3200,Xtol,stock,6400,12.5,10.62,11.25
 Kodak TMax P3200,Xtol,stock,800,10.5,8.92,9.45
 Kodak TMax P3200,Xtol,stock,800,8.25,7.01,7.42
 Kodak Tri-X 320,Atomal 49,1+2,320,14.0,11.9,12.6
+Kodak Tri-X 320,Bellini DF2 Duo Step,stock,1000,6.0,5.1,5.4
+Kodak Tri-X 320,Bellini DF2 Duo Step,stock,1200,6.0,5.1,5.4
 Kodak Tri-X 320,Black/White & Green,1+49,320,11.0,9.35,9.9
 Kodak Tri-X 320,Cawanol,stock,320,16.0,13.6,14.4
 Kodak Tri-X 320,D-76,1+1,320,12.75,10.84,11.47
 Kodak Tri-X 320,D-76,stock,200,7.0,5.95,6.3
 Kodak Tri-X 320,D-76,stock,320,9.0,7.65,8.1
 Kodak Tri-X 320,D-76,stock,320,8.0,6.8,7.2
+Kodak Tri-X 320,Diafine,stock,1000,6.0,5.1,5.4
+Kodak Tri-X 320,Diafine,stock,1200,6.0,5.1,5.4
 Kodak Tri-X 320,DK-50,1+1,320,5.0,4.25,4.5
 Kodak Tri-X 320,DK-50,1+1,320,8.0,6.8,7.2
 Kodak Tri-X 320,Eco Pro,1+1,1250,15.75,13.39,14.18
@@ -8435,6 +8862,7 @@ Kodak Tri-X 320,WD2D+,stock,400,10.0,8.5,9.0
 Kodak Tri-X 320,XT-3,1+1,1250,15.75,13.39,14.18
 Kodak Tri-X 320,XT-3,1+1,1250,12.75,10.84,11.47
 Kodak Tri-X 320,XT-3,1+1,160,7.75,6.59,6.98
+Kodak Tri-X 320,XT-3,1+1,200,11.5,9.78,10.35
 Kodak Tri-X 320,XT-3,1+1,2500,15.75,13.39,14.18
 Kodak Tri-X 320,XT-3,1+1,320,11.25,9.56,10.12
 Kodak Tri-X 320,XT-3,1+1,320,8.75,7.44,7.88
@@ -8526,6 +8954,7 @@ Kodak Tri-X 400,Ars-Imago FE,1+1,400,7.0,5.95,6.3
 Kodak Tri-X 400,Ars-Imago FE,1+1,800,8.5,7.22,7.65
 Kodak Tri-X 400,Atomal 49,1+1,1600,21.0,17.85,18.9
 Kodak Tri-X 400,Atomal 49,stock,1600,15.0,12.75,13.5
+Kodak Tri-X 400,Bellini DF2 Duo Step,stock,1600,6.0,5.1,5.4
 Kodak Tri-X 400,Bellini FX6a Monobath,stock,400,8.0,6.8,7.2
 Kodak Tri-X 400,Bellini Hydrofen,1+15,400,3.5,2.98,3.15
 Kodak Tri-X 400,Bellini Hydrofen,1+39,1600,11.0,9.35,9.9
@@ -8565,6 +8994,7 @@ Kodak Tri-X 400,D-76,stock,400,6.75,5.74,6.08
 Kodak Tri-X 400,D-76,stock,800,6.75,5.74,6.08
 Kodak Tri-X 400,D-76D,1+1,400,10.0,8.5,9.0
 Kodak Tri-X 400,D-96,stock,400,8.0,6.8,7.2
+Kodak Tri-X 400,Diafine,stock,1600,6.0,5.1,5.4
 Kodak Tri-X 400,DK-50,1+1,400,6.0,5.1,5.4
 Kodak Tri-X 400,Eco Pro,1+1,100,8.0,6.8,7.2
 Kodak Tri-X 400,Eco Pro,1+1,1600,13.25,11.26,11.93
@@ -8599,6 +9029,9 @@ Kodak Tri-X 400,Eco Pro,stock,3200,10.5,8.92,9.45
 Kodak Tri-X 400,Eco Pro,stock,400,7.0,5.95,6.3
 Kodak Tri-X 400,Eco Pro,stock,400,6.75,5.74,6.08
 Kodak Tri-X 400,Eco Pro,stock,800,7.75,6.59,6.98
+Kodak Tri-X 400,Emofin,stock,1600,18.0,15.3,16.2
+Kodak Tri-X 400,Emofin,stock,400,13.0,11.05,11.7
+Kodak Tri-X 400,Emofin,stock,800,7.0,5.95,6.3
 Kodak Tri-X 400,Extend Plus,1+15,400,11.0,9.35,9.9
 Kodak Tri-X 400,Extend Plus,1+15,400,9.0,7.65,8.1
 Kodak Tri-X 400,F76+,1+9,250,9.0,7.65,8.1
@@ -8620,6 +9053,7 @@ Kodak Tri-X 400,FX-55,1+9,400,12.5,10.62,11.25
 Kodak Tri-X 400,HC-110,1+100,1600,40.0,34.0,36.0
 Kodak Tri-X 400,HC-110,1+100,1600,50.0,42.5,45.0
 Kodak Tri-X 400,HC-110,1+100,3200,120.0,102.0,108.0
+Kodak Tri-X 400,HC-110,1+100,400,28.5,24.22,25.65
 Kodak Tri-X 400,HC-110,1+15,3200,8.0,6.8,7.2
 Kodak Tri-X 400,HC-110,1+95,400,14.0,11.9,12.6
 Kodak Tri-X 400,HC-110,1+95,800,14.0,11.9,12.6
@@ -8630,17 +9064,20 @@ Kodak Tri-X 400,HC-110,B,200,4.75,4.04,4.28
 Kodak Tri-X 400,HC-110,B,200,5.75,4.89,5.17
 Kodak Tri-X 400,HC-110,B,200,6.75,5.74,6.08
 Kodak Tri-X 400,HC-110,B,2400,16.0,13.6,14.4
+Kodak Tri-X 400,HC-110,B,400,5.25,4.46,4.73
 Kodak Tri-X 400,HC-110,B,400,7.5,6.38,6.75
 Kodak Tri-X 400,HC-110,B,6400,26.0,22.1,23.4
 Kodak Tri-X 400,HC-110,B,800,8.5,7.22,7.65
+Kodak Tri-X 400,HC-110,E,200,5.5,4.67,4.95
 Kodak Tri-X 400,HC-110,E,320,9.5,8.07,8.55
+Kodak Tri-X 400,HC-110,E,400,7.25,6.16,6.53
 Kodak Tri-X 400,HC-110,F,400,15.0,12.75,13.5
 Kodak Tri-X 400,HC-110,H,400,9.0,7.65,8.1
 Kodak Tri-X 400,ID-11,1+1,1600,13.25,11.26,11.93
 Kodak Tri-X 400,ID-11,1+1,200,9.5,8.07,8.55
 Kodak Tri-X 400,ID-11,1+1,3200,16.0,13.6,14.4
 Kodak Tri-X 400,ID-11,1+1,400,9.75,8.29,8.78
-Kodak Tri-X 400,ID-11,1+1,400,10.0,8.5,9.0
+Kodak Tri-X 400,ID-11,1+1,400,10.5,8.92,9.45
 Kodak Tri-X 400,ID-11,1+1,50,7.0,5.95,6.3
 Kodak Tri-X 400,ID-11,1+1,800,11.5,9.78,10.35
 Kodak Tri-X 400,ID-11,1+2,1600,16.5,14.03,14.85
@@ -8764,6 +9201,7 @@ Kodak Tri-X 400,Spur NHC,1+15,500,11.0,9.35,9.9
 Kodak Tri-X 400,Spur NHC,1+15,640,14.0,11.9,12.6
 Kodak Tri-X 400,Spur NHC,1+19,400,11.0,9.35,9.9
 Kodak Tri-X 400,Spur Omega X,1+12,400,15.0,12.75,13.5
+Kodak Tri-X 400,Spur SD 2525,1+12,320,7.75,6.59,6.98
 Kodak Tri-X 400,Spur SHADOWmax,1+0+30,400,13.0,11.05,11.7
 Kodak Tri-X 400,Spur SHADOWmax,1+1+8,2000,15.0,12.75,13.5
 Kodak Tri-X 400,Spur SHADOWmax,1+2+12,1250,14.0,11.9,12.6
@@ -8786,6 +9224,7 @@ Kodak Tri-X 400,Spur TRX 2000,1+19,800,12.5,10.62,11.25
 Kodak Tri-X 400,Spur TRX 2000,1+24,400,12.0,10.2,10.8
 Kodak Tri-X 400,Spur UFP,1+24,320,9.0,7.65,8.1
 Kodak Tri-X 400,Studional,1+15,250,5.5,4.67,4.95
+Kodak Tri-X 400,Studional,1+15,400,4.25,3.61,3.83
 Kodak Tri-X 400,Suprol,1+19,400,4.0,3.4,3.6
 Kodak Tri-X 400,Tanol,1+1+100,200,15.75,13.39,14.18
 Kodak Tri-X 400,TMax Dev,1+4,1600,8.75,7.44,7.88
@@ -8932,7 +9371,10 @@ Kosmo Foto Agent Shadow,FX-15,1+1,400,15.0,12.75,13.5
 Kosmo Foto Agent Shadow,FX-15,1+1,500,16.0,13.6,14.4
 Kosmo Foto Agent Shadow,HC-110,B,1600,12.0,10.2,10.8
 Kosmo Foto Agent Shadow,HC-110,B,200,3.5,2.98,3.15
+Kosmo Foto Agent Shadow,HC-110,B,400,5.5,4.67,4.95
+Kosmo Foto Agent Shadow,HC-110,B,800,10.0,8.5,9.0
 Kosmo Foto Agent Shadow,HC-110,D,400,7.5,6.38,6.75
+Kosmo Foto Agent Shadow,HC-110,E,400,8.5,7.22,7.65
 Kosmo Foto Agent Shadow,HC-110,E,800,13.0,11.05,11.7
 Kosmo Foto Agent Shadow,HC-110,F,200,10.75,9.14,9.68
 Kosmo Foto Agent Shadow,HC-110,F,400,16.0,13.6,14.4
@@ -9043,17 +9485,27 @@ Kosmo Foto Agent Shadow,Xtol,stock,800,10.5,8.92,9.45
 Kosmo Foto Mono,510-Pyro,1+100,200,18.5,15.72,16.65
 Kosmo Foto Mono,510-Pyro,1+100,80,10.5,8.92,9.45
 Kosmo Foto Mono,Bellini FX6a Monobath,stock,100,9.0,7.65,8.1
+Kosmo Foto Mono,D-76,1+1,100,9.0,7.65,8.1
+Kosmo Foto Mono,D-76,stock,100,6.5,5.52,5.85
+Kosmo Foto Mono,Eco Pro,stock,100,5.5,4.67,4.95
 Kosmo Foto Mono,HC-110,B,100,5.5,4.67,4.95
+Kosmo Foto Mono,ID-11,1+1,100,9.0,7.65,8.1
+Kosmo Foto Mono,ID-11,stock,100,6.5,5.52,5.85
 Kosmo Foto Mono,Ilfosol 3,1+9,100,5.0,4.25,4.5
 Kosmo Foto Mono,Ilfotec DD-X,1+4,100,8.0,6.8,7.2
 Kosmo Foto Mono,Marathon,1+9,100,6.0,5.1,5.4
+Kosmo Foto Mono,Microphen,stock,100,6.0,5.1,5.4
 Kosmo Foto Mono,Perceptol,stock,100,8.0,6.8,7.2
 Kosmo Foto Mono,PMK,1+20,80,16.0,13.6,14.4
 Kosmo Foto Mono,Rodinal,1+25,100,3.5,2.98,3.15
+Kosmo Foto Mono,Rodinal,1+50,100,8.5,7.22,7.65
 Kosmo Foto Mono,Rollei Supergrain,1+9,100,5.5,4.67,4.95
 Kosmo Foto Mono,Studional,1+31,100,10.0,8.5,9.0
+Kosmo Foto Mono,TMax Dev,1+4,100,5.5,4.67,4.95
 Kosmo Foto Mono,Ultrafin,1+20,100,7.5,6.38,6.75
 Kosmo Foto Mono,Ultrafin T-Plus,1+4,100,4.5,3.82,4.05
+Kosmo Foto Mono,XT-3,stock,100,5.5,4.67,4.95
+Kosmo Foto Mono,Xtol,stock,100,5.5,4.67,4.95
 Legacy Pro 100,Acufine,stock,100,3.0,2.55,2.7
 Legacy Pro 100,Amaloco AM74,1+7,100,4.0,3.4,3.6
 Legacy Pro 100,Amaloco AM74,1+7,200,6.5,5.52,5.85
@@ -9067,6 +9519,7 @@ Legacy Pro 100,Eco Pro,1+1,100,9.5,8.07,8.55
 Legacy Pro 100,Eco Pro,1+2,100,13.0,11.05,11.7
 Legacy Pro 100,Eco Pro,1+3,100,14.0,11.9,12.6
 Legacy Pro 100,Eco Pro,stock,100,8.0,6.8,7.2
+Legacy Pro 100,Emofin,stock,200,10.0,8.5,9.0
 Legacy Pro 100,FD10,1+14,100,10.0,8.5,9.0
 Legacy Pro 100,FD10,1+14,100,16.0,13.6,14.4
 Legacy Pro 100,FD10,1+9,100,7.0,5.95,6.3
@@ -9123,6 +9576,7 @@ Legacy Pro 400,Amaloco AM74,1+7,400,6.0,5.1,5.4
 Legacy Pro 400,Amaloco AM74,1+7,800,6.75,5.74,6.08
 Legacy Pro 400,Arista® Liquid,1+9,400,6.0,5.1,5.4
 Legacy Pro 400,Arista® Premium,1+9,400,6.0,5.1,5.4
+Legacy Pro 400,Bellini DF2 Duo Step,stock,640,6.0,5.1,5.4
 Legacy Pro 400,Beutler,1+1+8,320,15.0,12.75,13.5
 Legacy Pro 400,D-23,stock,100,9.0,7.65,8.1
 Legacy Pro 400,D-76,1+1,400,9.5,8.07,8.55
@@ -9132,6 +9586,7 @@ Legacy Pro 400,D-76,stock,1600,13.5,11.47,12.15
 Legacy Pro 400,D-76,stock,250,6.5,5.52,5.85
 Legacy Pro 400,D-76,stock,400,7.5,6.38,6.75
 Legacy Pro 400,D-76,stock,800,8.75,7.44,7.88
+Legacy Pro 400,Diafine,stock,640,6.0,5.1,5.4
 Legacy Pro 400,Eco Pro,1+1,100,8.25,7.01,7.42
 Legacy Pro 400,Eco Pro,1+1,1600,13.5,11.47,12.15
 Legacy Pro 400,Eco Pro,1+1,200,8.25,7.01,7.42
@@ -9156,6 +9611,7 @@ Legacy Pro 400,Eco Pro,stock,200,7.5,6.38,6.75
 Legacy Pro 400,Eco Pro,stock,3200,13.5,11.47,12.15
 Legacy Pro 400,Eco Pro,stock,400,8.25,7.01,7.42
 Legacy Pro 400,Eco Pro,stock,800,9.75,8.29,8.78
+Legacy Pro 400,Emofin,stock,400,12.0,10.2,10.8
 Legacy Pro 400,Extend Plus,1+15,400,9.0,7.65,8.1
 Legacy Pro 400,F76+,1+9,400,6.0,5.1,5.4
 Legacy Pro 400,FD10,1+14,400,13.0,11.05,11.7
@@ -9218,6 +9674,8 @@ Legacy Pro 400,Rodinal,1+100,250,20.0,17.0,18.0
 Legacy Pro 400,Rodinal,1+25,1600,10.0,8.5,9.0
 Legacy Pro 400,Rodinal,1+25,250,4.5,3.82,4.05
 Legacy Pro 400,Rodinal,1+25,400,6.0,5.1,5.4
+Legacy Pro 400,Rodinal,1+50,200,8.5,7.22,7.65
+Legacy Pro 400,Rodinal,1+50,250,8.5,7.22,7.65
 Legacy Pro 400,Rodinal,1+50,400,11.0,9.35,9.9
 Legacy Pro 400,SPD,1+1,400,7.0,5.95,6.3
 Legacy Pro 400,SPD,stock,1600,9.0,7.65,8.1
@@ -9387,6 +9845,7 @@ Lomography Lady Grey,Xtol,stock,400,6.5,5.52,5.85
 Lomography Orca 110,510-Pyro,1+100,100,7.75,6.59,6.98
 Lomography Orca 110,Caffenol C-M,stock,100,16.0,13.6,14.4
 Lomography Orca 110,D-76,1+1,100,7.0,5.95,6.3
+Lomography Orca 110,D-96,stock,100,5.5,4.67,4.95
 Lomography Orca 110,Eco Pro,1+1,100,7.0,5.95,6.3
 Lomography Orca 110,FX-1,1+1+8,100,9.0,7.65,8.1
 Lomography Orca 110,HC-110,A,100,7.0,5.95,6.3
@@ -9454,12 +9913,14 @@ Lucky 1025,Xtol,1+1,50,7.0,5.95,6.3
 Lucky Aerial Film 1021,510-Pyro,1+100,200,11.0,9.35,9.9
 Lucky Aerial Film 1023,Rodinal,1+50,400,30.0,25.5,27.0
 Lucky New SHD 100,D-76,1+1,100,12.0,10.2,10.8
+Lucky New SHD 100,D-76,stock,100,6.0,5.1,5.4
 Lucky New SHD 100,Eco Pro,1+2,100,16.0,13.6,14.4
 Lucky New SHD 100,FX-2,1+1+15,100,12.0,10.2,10.8
 Lucky New SHD 100,FX-39,1+9,100,6.0,5.1,5.4
 Lucky New SHD 100,HC-110,1+31,100,6.0,5.1,5.4
 Lucky New SHD 100,HC-110,E,100,6.0,5.1,5.4
 Lucky New SHD 100,ID-11,1+1,100,12.0,10.2,10.8
+Lucky New SHD 100,ID-11,stock,100,6.0,5.1,5.4
 Lucky New SHD 100,Ilfotec DD-X,1+4,100,9.0,7.65,8.1
 Lucky New SHD 100,Ilfotec DD-X,1+9,100,11.0,9.35,9.9
 Lucky New SHD 100,Ilfotec LC29,1+29,100,10.0,8.5,9.0
@@ -9482,6 +9943,8 @@ Lucky SHD 100,Acufine,stock,100,3.5,2.98,3.15
 Lucky SHD 100,Amaloco AM74,1+9,200,6.0,5.1,5.4
 Lucky SHD 100,Atomal 49,1+1,100,10.0,8.5,9.0
 Lucky SHD 100,D-76,1+1,100,12.0,10.2,10.8
+Lucky SHD 100,D-76,1+3,100,14.5,12.32,13.05
+Lucky SHD 100,D-76,stock,100,6.0,5.1,5.4
 Lucky SHD 100,Dektol,1+10,400,5.0,4.25,4.5
 Lucky SHD 100,DK-50,1+1,100,9.25,7.86,8.33
 Lucky SHD 100,Eco Pro,1+1,200,12.0,10.2,10.8
@@ -9491,7 +9954,10 @@ Lucky SHD 100,FX-1,1+1+8,100,13.0,11.05,11.7
 Lucky SHD 100,HC-110,B,100,7.0,5.95,6.3
 Lucky SHD 100,HC-110,B,125,6.0,5.1,5.4
 Lucky SHD 100,HC-110,B,400,7.0,5.95,6.3
+Lucky SHD 100,ID-11,1+3,100,14.5,12.32,13.05
+Lucky SHD 100,ID-11,stock,100,6.0,5.1,5.4
 Lucky SHD 100,Ilfosol 3,1+14,100,7.5,6.38,6.75
+Lucky SHD 100,Ilfosol 3,1+9,100,6.0,5.1,5.4
 Lucky SHD 100,Lucky HB-17,1+12,100,6.0,5.1,5.4
 Lucky SHD 100,Lucky HB-17,1+16,100,7.0,5.95,6.3
 Lucky SHD 100,Lucky HB-17,1+19,100,8.0,6.8,7.2
@@ -9500,6 +9966,7 @@ Lucky SHD 100,Lucky HB-17,1+25,100,9.5,8.07,8.55
 Lucky SHD 100,Microphen,1+1,100,10.0,8.5,9.0
 Lucky SHD 100,Microphen,stock,100,8.0,6.8,7.2
 Lucky SHD 100,Pyrocat-M,1+1+100,100,15.0,12.75,13.5
+Lucky SHD 100,Rodinal,1+100,100,22.0,18.7,19.8
 Lucky SHD 100,Rodinal,1+200,100,120.0,102.0,108.0
 Lucky SHD 100,Rodinal,1+25,100,6.5,5.52,5.85
 Lucky SHD 100,Rodinal,1+25,100,7.0,5.95,6.3
@@ -9515,6 +9982,7 @@ Lucky SHD 400,D-76,1+1,1250,22.0,18.7,19.8
 Lucky SHD 400,D-76,1+1,200,10.5,8.92,9.45
 Lucky SHD 400,D-76,stock,200,8.75,7.44,7.88
 Lucky SHD 400,D-76,stock,200,7.0,5.95,6.3
+Lucky SHD 400,D-76,stock,400,8.5,7.22,7.65
 Lucky SHD 400,D-76,stock,400,9.0,7.65,8.1
 Lucky SHD 400,D-96,stock,200,8.0,6.8,7.2
 Lucky SHD 400,Eco Pro,1+1,400,6.5,5.52,5.85
@@ -9522,6 +9990,7 @@ Lucky SHD 400,FX-39,1+9,400,11.0,9.35,9.9
 Lucky SHD 400,HC-110,1+31,200,6.0,5.1,5.4
 Lucky SHD 400,HC-110,B,400,7.0,5.95,6.3
 Lucky SHD 400,HC-110,G,400,60.0,51.0,54.0
+Lucky SHD 400,ID-11,stock,400,8.5,7.22,7.65
 Lucky SHD 400,Ilfosol 3,1+9,400,7.5,6.38,6.75
 Lucky SHD 400,Ilfotec DD-X,1+4,200,12.0,10.2,10.8
 Lucky SHD 400,Ilfotec DD-X,1+4,400,9.5,8.07,8.55
@@ -9589,6 +10058,7 @@ Maco Eagle AQS,HC-110,E,400,20.0,17.0,18.0
 Maco Eagle AQS,ID-11,1+1,400,12.0,10.2,10.8
 Maco Eagle AQS,Ilfotec DD-X,1+4,400,14.0,11.9,12.6
 Maco Eagle AQS,Rodinal,1+25,200,12.0,10.2,10.8
+Maco Eagle AQS,Rodinal,1+25,400,13.5,11.47,12.15
 Maco Eagle AQS,Rodinal,1+50,400,22.0,18.7,19.8
 Maco Eagle AQS,Rollei Supergrain,1+9,200,4.25,3.61,3.83
 Maco Eagle AQS,Silvermax,1+19,400,15.0,12.75,13.5
@@ -9640,21 +10110,32 @@ Maco TP64c,D-76,1+3,64,19.0,16.15,17.1
 Maco TP64c,Ecoprint Universal,1+12,64,5.0,4.25,4.5
 Maco TP64c,Promicrol,1+14,64,7.0,5.95,6.3
 Maco TP64c,Promicrol,1+9,64,4.5,3.82,4.05
+Maco UP100p/PO100c,Atomal 49,stock,100,7.5,6.38,6.75
+Maco UP100p/PO100c,D-76,stock,100,6.0,5.1,5.4
 Maco UP100p/PO100c,Eco Pro,1+1,400,11.0,9.35,9.9
+Maco UP100p/PO100c,Eco Pro,1+2,100,14.5,12.32,13.05
 Maco UP100p/PO100c,Eco Pro,1+2,200,20.0,17.0,18.0
+Maco UP100p/PO100c,Ecoprint Universal,1+12,100,4.5,3.82,4.05
 Maco UP100p/PO100c,HC-110,B,100,5.0,4.25,4.5
+Maco UP100p/PO100c,ID-11,stock,100,6.0,5.1,5.4
 Maco UP100p/PO100c,Ilfotec HC,1+31,100,7.0,5.95,6.3
 Maco UP100p/PO100c,Ilfotec HC,1+5,100,5.0,4.25,4.5
 Maco UP100p/PO100c,Microphen,stock,100,7.0,5.95,6.3
+Maco UP100p/PO100c,Perceptol,stock,100,8.0,6.8,7.2
 Maco UP100p/PO100c,Promicrol,1+14,100,10.0,8.5,9.0
 Maco UP100p/PO100c,Promicrol,1+14,100,7.5,6.38,6.75
 Maco UP100p/PO100c,Promicrol,1+9,100,6.5,5.52,5.85
 Maco UP100p/PO100c,Promicrol,1+9,100,5.0,4.25,4.5
 Maco UP100p/PO100c,Rodinal,1+25,100,8.0,6.8,7.2
 Maco UP100p/PO100c,Sprint Standard,1+9,100,10.0,8.5,9.0
+Maco UP100p/PO100c,TMax Dev,1+4,100,5.0,4.25,4.5
+Maco UP100p/PO100c,Ultrafin,1+10,100,6.0,5.1,5.4
+Maco UP100p/PO100c,Ultrafin,1+20,100,9.0,7.65,8.1
 Maco UP100p/PO100c,XT-3,1+1,400,11.0,9.35,9.9
+Maco UP100p/PO100c,XT-3,1+2,100,14.5,12.32,13.05
 Maco UP100p/PO100c,XT-3,1+2,200,20.0,17.0,18.0
 Maco UP100p/PO100c,Xtol,1+1,400,11.0,9.35,9.9
+Maco UP100p/PO100c,Xtol,1+2,100,14.5,12.32,13.05
 Maco UP100p/PO100c,Xtol,1+2,200,20.0,17.0,18.0
 Maco UP25P,D-76,1+3,25,10.0,8.5,9.0
 Maco UP25P,D-76,stock,25,6.0,5.1,5.4
@@ -9669,6 +10150,7 @@ Maco UP25P,Perceptol,stock,25,8.0,6.8,7.2
 Maco UP25P,Promicrol,1+19,25,4.5,3.82,4.05
 Maco UP25P,Rodinal,1+25,25,7.0,5.95,6.3
 Maco UP25P,Sprint Standard,1+9,25,5.0,4.25,4.5
+Maco UP25P,Spur SD 2525,1+15,20,3.25,2.76,2.93
 Maco UP25P,TMax Dev,1+4,25,4.0,3.4,3.6
 Maco UP25P,Ultrafin,1+10,25,5.0,4.25,4.5
 Maco UP25P,Ultrafin,1+20,25,9.0,7.65,8.1
@@ -9723,10 +10205,14 @@ Maco UP64c,Ultrafin,1+20,64,9.0,7.65,8.1
 Maco UP64c,XT-3,1+2,64,14.0,11.9,12.6
 Maco UP64c,Xtol,1+2,64,14.0,11.9,12.6
 Mosler Surveillance,HC-110,B,800,10.5,8.92,9.45
+New Classic EZ400,D-76,stock,400,7.5,6.38,6.75
 New Classic EZ400,Eco Pro,stock,400,7.0,5.95,6.3
 New Classic EZ400,Fomadon R09,1+25,400,6.0,5.1,5.4
+New Classic EZ400,Fomadon R09,1+50,400,11.5,9.78,10.35
 New Classic EZ400,HC-110,B,400,6.5,5.52,5.85
+New Classic EZ400,ID-11,stock,400,7.5,6.38,6.75
 New Classic EZ400,Ilfosol 3,1+9,400,6.0,5.1,5.4
+New Classic EZ400,Microphen,stock,400,8.5,7.22,7.65
 New Classic EZ400,Rodinal,1+25,400,5.5,4.67,4.95
 New Classic EZ400,Rodinal,1+50,400,11.0,9.35,9.9
 New Classic EZ400,Xtol,stock,400,7.0,5.95,6.3
@@ -9774,12 +10260,15 @@ Oriental Seagull 400,Microphen,stock,400,8.0,6.8,7.2
 Oriental Seagull 400,Microphen,stock,800,10.0,8.5,9.0
 Oriental Seagull 400,Rodinal,1+25,400,7.5,6.38,6.75
 Orwo N74+,Adox HR-DEV,1+30,400,11.0,9.35,9.9
+Orwo N74+,Bellini DF2 Duo Step,stock,400,6.0,5.1,5.4
 Orwo N74+,Bellini FX6a Monobath,stock,400,11.0,9.35,9.9
 Orwo N74+,D-23,1+1,400,13.0,11.05,11.7
 Orwo N74+,D-76,1+1,400,10.0,8.5,9.0
 Orwo N74+,D-76,1+1,400,9.0,7.65,8.1
 Orwo N74+,D-76,stock,400,9.5,8.07,8.55
 Orwo N74+,D-76,stock,800,12.5,10.62,11.25
+Orwo N74+,Diafine,stock,400,6.0,5.1,5.4
+Orwo N74+,Eco Pro,1+1,400,12.0,10.2,10.8
 Orwo N74+,HC-110,B,400,6.5,5.52,5.85
 Orwo N74+,ID-11,1+1,400,10.0,8.5,9.0
 Orwo N74+,ID-11,1+1,400,9.0,7.65,8.1
@@ -9789,9 +10278,12 @@ Orwo N74+,Microphen,stock,400,7.0,5.95,6.3
 Orwo N74+,Paranol S,1+25,400,9.0,7.65,8.1
 Orwo N74+,Rodinal,1+50,400,13.0,11.05,11.7
 Orwo N74+,Spur TRX 2000,1+30,400,11.0,9.35,9.9
+Orwo N74+,XT-3,1+1,400,12.0,10.2,10.8
 Orwo N74+,XT-3,stock,400,8.0,6.8,7.2
+Orwo N74+,Xtol,1+1,400,12.0,10.2,10.8
 Orwo N74+,Xtol,stock,400,8.0,6.8,7.2
 Orwo N75,510-Pyro,1+100,400,10.0,8.5,9.0
+Orwo N75,Bellini DF2 Duo Step,stock,320,6.0,5.1,5.4
 Orwo N75,Bellini FX6a Monobath,stock,320,11.0,9.35,9.9
 Orwo N75,Bellini Hydrofen,1+39,320,6.0,5.1,5.4
 Orwo N75,Black/White & Green,1+49,320,11.0,9.35,9.9
@@ -9800,6 +10292,8 @@ Orwo N75,D-76,1+1,320,10.0,8.5,9.0
 Orwo N75,D-76,1+1,320,9.0,7.65,8.1
 Orwo N75,D-76,stock,320,9.5,8.07,8.55
 Orwo N75,D-76,stock,800,12.5,10.62,11.25
+Orwo N75,Diafine,stock,320,6.0,5.1,5.4
+Orwo N75,Eco Pro,1+1,320,12.0,10.2,10.8
 Orwo N75,HC-110,B,320,6.5,5.52,5.85
 Orwo N75,ID-11,1+1,320,10.0,8.5,9.0
 Orwo N75,ID-11,1+1,320,9.0,7.65,8.1
@@ -9809,6 +10303,8 @@ Orwo N75,Ilfotec HC,1+15,400,6.5,5.52,5.85
 Orwo N75,Microphen,stock,320,7.0,5.95,6.3
 Orwo N75,Nucleol BF200,20+15+965,400,9.5,8.07,8.55
 Orwo N75,Rodinal,1+50,320,13.0,11.05,11.7
+Orwo N75,XT-3,1+1,320,12.0,10.2,10.8
+Orwo N75,Xtol,1+1,320,12.0,10.2,10.8
 ORWO NP22,Caffenol Delta STD,stock,100,10.0,8.5,9.0
 ORWO NP22,Caffenol Delta STD,stock,125,10.0,8.5,9.0
 Orwo NP22,HC-110,1+31,80,7.5,6.38,6.75
@@ -9818,11 +10314,13 @@ Orwo/Wolfen DN21,D-76,stock,12-16,8.0,6.8,7.2
 Orwo/Wolfen DN21,ID-11,stock,12-16,8.0,6.8,7.2
 Orwo/Wolfen DP31,D-23,stock,8,10.5,8.92,9.45
 Orwo/Wolfen DP31,D-76,stock,6,8.0,6.8,7.2
+Orwo/Wolfen DP31,Eco Pro,1+1,12,12.5,10.62,11.25
 Orwo/Wolfen DP31,Eco Pro,1+1,25,22.0,18.7,19.8
 Orwo/Wolfen DP31,Eco Pro,1+1,6,8.5,7.22,7.65
 Orwo/Wolfen DP31,Eco Pro,stock,25,12.0,10.2,10.8
 Orwo/Wolfen DP31,ID-11,stock,6,8.0,6.8,7.2
 Orwo/Wolfen DP31,Ornano Gradual ST20,stock,10,5.5,4.67,4.95
+Orwo/Wolfen DP31,Xtol,1+1,12,12.5,10.62,11.25
 Orwo/Wolfen DP31,Xtol,1+1,25,22.0,18.7,19.8
 Orwo/Wolfen DP31,Xtol,1+1,6,8.5,7.22,7.65
 Orwo/Wolfen DP31,Xtol,stock,25,12.0,10.2,10.8
@@ -9851,6 +10349,7 @@ Orwo/Wolfen UN54,510-Pyro,1+100,400,14.0,11.9,12.6
 Orwo/Wolfen UN54,Adox HR-DEV,1+35,160,13.0,11.05,11.7
 Orwo/Wolfen UN54,Adox M-Q Borax,stock,160,7.5,6.38,6.75
 Orwo/Wolfen UN54,Atomal 49,1+2,100,18.0,15.3,16.2
+Orwo/Wolfen UN54,Bellini DF2 Duo Step,stock,100,6.0,5.1,5.4
 Orwo/Wolfen UN54,Bellini Hydrofen,1+39,100,5.0,4.25,4.5
 Orwo/Wolfen UN54,Beutler,1+1+10,100,7.0,5.95,6.3
 Orwo/Wolfen UN54,Black/White & Green,1+49,100,8.25,7.01,7.42
@@ -9858,7 +10357,11 @@ Orwo/Wolfen UN54,Caffenol C-H,stock,100,15.0,12.75,13.5
 Orwo/Wolfen UN54,D-23,1+1,100,12.0,10.2,10.8
 Orwo/Wolfen UN54,D-23,stock,50,7.0,5.95,6.3
 Orwo/Wolfen UN54,D-76,1+1,100,7.0,5.95,6.3
+Orwo/Wolfen UN54,D-76,1+3,100,13.5,11.47,12.15
 Orwo/Wolfen UN54,D-76,stock,100,5.5,4.67,4.95
+Orwo/Wolfen UN54,D-96,stock,100,5.25,4.46,4.73
+Orwo/Wolfen UN54,Diafine,stock,100,6.0,5.1,5.4
+Orwo/Wolfen UN54,Eco Pro,1+1,100,7.5,6.38,6.75
 Orwo/Wolfen UN54,Eco Pro,1+1,80,6.5,5.52,5.85
 Orwo/Wolfen UN54,F76+,1+14,100,8.0,6.8,7.2
 Orwo/Wolfen UN54,F76+,1+9,100,6.0,5.1,5.4
@@ -9870,22 +10373,27 @@ Orwo/Wolfen UN54,HC-110,H,100,7.5,6.38,6.75
 Orwo/Wolfen UN54,HC-110,J,100,18.0,15.3,16.2
 Orwo/Wolfen UN54,HC-110,J,80,18.0,15.3,16.2
 Orwo/Wolfen UN54,ID-11,1+1,100,7.0,5.95,6.3
+Orwo/Wolfen UN54,ID-11,1+3,100,13.5,11.47,12.15
 Orwo/Wolfen UN54,ID-11,stock,100,5.5,4.67,4.95
 Orwo/Wolfen UN54,Ilfotec DD-X,1+4,100,9.0,7.65,8.1
 Orwo/Wolfen UN54,Ilfotec HC,1+31,100,6.0,5.1,5.4
 Orwo/Wolfen UN54,Ilfotec LC29,1+19,100,5.5,4.67,4.95
 Orwo/Wolfen UN54,Mocon,1+64,100,11.0,9.35,9.9
 Orwo/Wolfen UN54,Nucleol BF200,20+15+965,100,7.0,5.95,6.3
+Orwo/Wolfen UN54,PCK,5+10+100,100,6.75,5.74,6.08
 Orwo/Wolfen UN54,Pyrocat-HD,1+1+100,100,10.0,8.5,9.0
 Orwo/Wolfen UN54,Pyrocat-HD,1+1+200,100,40.0,34.0,36.0
 Orwo/Wolfen UN54,Rodinal,1+100,100,25.0,21.25,22.5
 Orwo/Wolfen UN54,Rodinal,1+25,100,6.5,5.52,5.85
+Orwo/Wolfen UN54,Rodinal,1+50,100,9.0,7.65,8.1
 Orwo/Wolfen UN54,Spur HRX,1+17,80,9.5,8.07,8.55
 Orwo/Wolfen UN54,Spur SLD,1+20,200,9.5,8.07,8.55
 Orwo/Wolfen UN54,Spur TRX 2000,1+35,160,13.0,11.05,11.7
 Orwo/Wolfen UN54,Spur UFP,1+24,125,7.5,6.38,6.75
 Orwo/Wolfen UN54,TMax Dev,1+9,100,8.0,6.8,7.2
+Orwo/Wolfen UN54,XT-3,1+1,100,7.5,6.38,6.75
 Orwo/Wolfen UN54,XT-3,1+1,80,6.5,5.52,5.85
+Orwo/Wolfen UN54,Xtol,1+1,100,7.5,6.38,6.75
 Orwo/Wolfen UN54,Xtol,1+1,80,6.5,5.52,5.85
 Orwopan 100,510-Pyro,1+100,100,15.0,12.75,13.5
 Owax 400,D-76,1+1,400,22.0,18.7,19.8
@@ -9917,7 +10425,9 @@ Owax 50,ID-11,1+3,100,25.0,21.25,22.5
 Owax 50,ID-11,1+3,50,11.0,9.35,9.9
 Owax 50,ID-11,stock,100,8.0,6.8,7.2
 Owax 50,ID-11,stock,50,3.5,2.98,3.15
+Owax A2SH,Bellini DF2 Duo Step,stock,640,6.0,5.1,5.4
 Owax A2SH,D-76,stock,400,13.0,11.05,11.7
+Owax A2SH,Diafine,stock,640,6.0,5.1,5.4
 Owax A2SH,ID-11,stock,400,13.0,11.05,11.7
 Owax A2SH,Microphen,stock,3200,32.0,27.2,28.8
 Owax A2SH,Rodinal,1+50,400,20.0,17.0,18.0
@@ -9952,14 +10462,21 @@ Polypan F,Acufine,stock,100,5.0,4.25,4.5
 Polypan F,Acufine,stock,50,3.5,2.98,3.15
 Polypan F,Acurol-N,1+70,32,10.0,8.5,9.0
 Polypan F,Atomal 49,stock,50,8.5,7.22,7.65
+Polypan F,Bellini DF2 Duo Step,stock,100,6.0,5.1,5.4
+Polypan F,Bellini DF2 Duo Step,stock,50,6.0,5.1,5.4
 Polypan F,Caffenol C,stock,50,11.0,9.35,9.9
 Polypan F,Caffenol C-L,stock,100,60.0,51.0,54.0
 Polypan F,D-25,stock,25,40.0,34.0,36.0
 Polypan F,D-76,1+1,100,19.5,16.57,17.55
+Polypan F,D-76,1+1,50,10.5,8.92,9.45
+Polypan F,D-76,1+3,50,23.0,19.55,20.7
 Polypan F,D-96,stock,25,7.0,5.95,6.3
+Polypan F,Diafine,stock,100,6.0,5.1,5.4
+Polypan F,Diafine,stock,50,6.0,5.1,5.4
 Polypan F,Dokumol,1+5,100,10.5,8.92,9.45
 Polypan F,Dokumol,1+5,50,7.0,5.95,6.3
 Polypan F,Eco Pro,1+3,100,23.0,19.55,20.7
+Polypan F,Eco Pro,2+3,50,8.75,7.44,7.88
 Polypan F,Eco Pro,stock,125,13.0,11.05,11.7
 Polypan F,Eco Pro,stock,50,7.0,5.95,6.3
 Polypan F,FD10,1+9,100,11.0,9.35,9.9
@@ -9982,7 +10499,9 @@ Polypan F,HC-110,B,50,9.5,8.07,8.55
 Polypan F,HC-110,H,25,12.5,10.62,11.25
 Polypan F,HC-110,J,200,75.0,63.75,67.5
 Polypan F,ID-11,1+1,100,9.5,8.07,8.55
+Polypan F,ID-11,1+1,50,10.5,8.92,9.45
 Polypan F,ID-11,1+1,50,9.0,7.65,8.1
+Polypan F,ID-11,1+3,50,23.0,19.55,20.7
 Polypan F,ID-68,1+3,25,12.0,10.2,10.8
 Polypan F,ID-68,1+3,50,18.5,15.72,16.65
 Polypan F,Ilfosol 3,1+14,50,6.5,5.52,5.85
@@ -10016,9 +10535,11 @@ Polypan F,TFX-2,stock,125,22.0,18.7,19.8
 Polypan F,TMax Dev,1+9,50,12.0,10.2,10.8
 Polypan F,Ultrafin,1+10,80,6.5,5.52,5.85
 Polypan F,XT-3,1+3,100,23.0,19.55,20.7
+Polypan F,XT-3,2+3,50,8.75,7.44,7.88
 Polypan F,XT-3,stock,125,13.0,11.05,11.7
 Polypan F,XT-3,stock,50,7.0,5.95,6.3
 Polypan F,Xtol,1+3,100,23.0,19.55,20.7
+Polypan F,Xtol,2+3,50,8.75,7.44,7.88
 Polypan F,Xtol,stock,125,13.0,11.05,11.7
 Polypan F,Xtol,stock,50,7.0,5.95,6.3
 Pro Max 100,D-76,1+1,100,7.0,5.95,6.3
@@ -10053,6 +10574,7 @@ ReraPan 400,D-76,1+1,800,18.0,15.3,16.2
 ReraPan 400,D-76,1+3,400,28.0,23.8,25.2
 ReraPan 400,D-76,stock,400,8.0,6.8,7.2
 ReraPan 400,D-76,stock,800,11.0,9.35,9.9
+ReraPan 400,Emofin,stock,400,12.0,10.2,10.8
 ReraPan 400,Fomadon LQR,1+10,400,10.0,8.5,9.0
 ReraPan 400,FX-39,1+9,400,11.0,9.35,9.9
 ReraPan 400,HC-110,B,400,6.0,5.1,5.4
@@ -10119,12 +10641,14 @@ Rollei Infrared IR400,ADX II,1+24,160,11.0,9.35,9.9
 Rollei Infrared IR400,Amaloco AM74,1+15,200,8.5,7.22,7.65
 Rollei Infrared IR400,Ars-Imago FD,1+59,400,7.5,6.38,6.75
 Rollei Infrared IR400,Atomal 49,stock,400,9.0,7.65,8.1
+Rollei Infrared IR400,Bellini DF2 Duo Step,stock,400 (12),12.0,10.2,10.8
 Rollei Infrared IR400,Bellini Hydrofen,1+15,400,8.5,7.22,7.65
 Rollei Infrared IR400,Black/White & Green,1+49,400,6.0,5.1,5.4
 Rollei Infrared IR400,D-76,1+1,12,9.5,8.07,8.55
 Rollei Infrared IR400,D-76,1+1,250,9.5,8.07,8.55
 Rollei Infrared IR400,D-76,stock,400 (25),6.0,5.1,5.4
 Rollei Infrared IR400,D-76,stock,800,8.5,7.22,7.65
+Rollei Infrared IR400,Diafine,stock,400 (12),12.0,10.2,10.8
 Rollei Infrared IR400,Eco Pro,1+1,400,17.0,14.45,15.3
 Rollei Infrared IR400,Eco Pro,1+1,50,7.5,6.38,6.75
 Rollei Infrared IR400,F76+,1+9,10,7.25,6.16,6.53
@@ -10186,8 +10710,10 @@ Rollei Infrared IR400,Xtol,1+1,50,7.5,6.38,6.75
 Rollei Ortho 25,510-Pyro,1+100,25,8.0,6.8,7.2
 Rollei Ortho 25,Adox HR-DEV,1+49,50,13.0,11.05,11.7
 Rollei Ortho 25,Ars-Imago FD,1+39,25,6.0,5.1,5.4
+Rollei Ortho 25,Bellini DF2 Duo Step,stock,25,9.0,7.65,8.1
 Rollei Ortho 25,Beutler,1+1+8,25,7.0,5.95,6.3
 Rollei Ortho 25,D-76,stock,25,6.0,5.1,5.4
+Rollei Ortho 25,Diafine,stock,25,9.0,7.65,8.1
 Rollei Ortho 25,ID-11,stock,25,6.0,5.1,5.4
 Rollei Ortho 25,Ilfotec DD-X,1+4,25,8.0,6.8,7.2
 Rollei Ortho 25,Neofin Blue,1+5,25,4.0,3.4,3.6
@@ -10245,6 +10771,8 @@ Rollei Paul & Reinhold 640,Xtol,1+1,640,16.0,13.6,14.4
 Rollei R3,D-76,stock,100,7.0,5.95,6.3
 Rollei R3,D-76,stock,200,10.0,8.5,9.0
 Rollei R3,D-76,stock,400,14.0,11.9,12.6
+Rollei R3,Eco Pro,1+2,200,26.5,22.52,23.85
+Rollei R3,Eco Pro,1+2,400,26.5,22.52,23.85
 Rollei R3,HC-110,B,400,14.0,11.9,12.6
 Rollei R3,HC-110,B,640,16.0,13.6,14.4
 Rollei R3,ID-11,stock,100,7.0,5.95,6.3
@@ -10260,11 +10788,16 @@ Rollei R3,Promicrol,1+14,400,14.0,11.9,12.6
 Rollei R3,Promicrol,1+9,1600,14.0,11.9,12.6
 Rollei R3,Promicrol,1+9,400,10.0,8.5,9.0
 Rollei R3,Rodinal,1+25,400,12.0,10.2,10.8
+Rollei R3,XT-3,1+2,200,26.5,22.52,23.85
+Rollei R3,XT-3,1+2,400,26.5,22.52,23.85
+Rollei R3,Xtol,1+2,200,26.5,22.52,23.85
+Rollei R3,Xtol,1+2,400,26.5,22.52,23.85
 Rollei Retro 100,510-Pyro,1+100,100,10.5,8.92,9.45
 Rollei Retro 100,Acufine,stock,400,9.0,7.65,8.1
 Rollei Retro 100,Acurol-N,1+100,125,50.0,42.5,45.0
 Rollei Retro 100,Acurol-N,1+100,50,50.0,42.5,45.0
 Rollei Retro 100,Acurol-N,1+100,80,31.0,26.35,27.9
+Rollei Retro 100,Acurol-N,1+50,100,14.5,12.32,13.05
 Rollei Retro 100,Acurol-N,1+50,160,20.0,17.0,18.0
 Rollei Retro 100,Acurol-N,1+50,50,9.5,8.07,8.55
 Rollei Retro 100,Acurol-N,1+50,64,9.5,8.07,8.55
@@ -10277,6 +10810,8 @@ Rollei Retro 100,Arista® Liquid,1+9,100,9.0,7.65,8.1
 Rollei Retro 100,Atomal 49,3+2,100,6.5,5.52,5.85
 Rollei Retro 100,Atomal 49,stock,100,5.75,4.89,5.17
 Rollei Retro 100,Atomal 49,stock,200,7.5,6.38,6.75
+Rollei Retro 100,Bellini DF2 Duo Step,stock,200,6.0,5.1,5.4
+Rollei Retro 100,Bellini DF2 Duo Step,stock,250,6.0,5.1,5.4
 Rollei Retro 100,Beutler,1+1+8,100,7.5,6.38,6.75
 Rollei Retro 100,Caffenol C,stock,100,20.0,17.0,18.0
 Rollei Retro 100,Caffenol C-M,stock,100,15.0,12.75,13.5
@@ -10284,6 +10819,8 @@ Rollei Retro 100,D-23,stock,100,11.0,9.35,9.9
 Rollei Retro 100,D-76,1+1,100,13.5,11.47,12.15
 Rollei Retro 100,D-76,1+3,100,19.5,16.57,17.55
 Rollei Retro 100,D-76,stock,100,9.0,7.65,8.1
+Rollei Retro 100,Diafine,stock,200,6.0,5.1,5.4
+Rollei Retro 100,Diafine,stock,250,6.0,5.1,5.4
 Rollei Retro 100,Eco Pro,1+1,100,9.75,8.29,8.78
 Rollei Retro 100,Eco Pro,1+1,200,12.0,10.2,10.8
 Rollei Retro 100,Eco Pro,1+1,25,8.0,6.8,7.2
@@ -10308,6 +10845,7 @@ Rollei Retro 100,Eco Pro,stock,25,5.75,4.89,5.17
 Rollei Retro 100,Eco Pro,stock,400,11.0,9.35,9.9
 Rollei Retro 100,Eco Pro,stock,50,5.75,4.89,5.17
 Rollei Retro 100,Eco Pro,stock,800,13.0,11.05,11.7
+Rollei Retro 100,Emofin,stock,100,8.0,6.8,7.2
 Rollei Retro 100,Extend Plus,1+15,100,13.0,11.05,11.7
 Rollei Retro 100,F76+,1+9,100,6.5,5.52,5.85
 Rollei Retro 100,F76+,1+9,100,9.0,7.65,8.1
@@ -10482,6 +11020,7 @@ Rollei Retro 400,Eco Pro,1+2,400,12.0,10.2,10.8
 Rollei Retro 400,Eco Pro,1+3,400,12.75,10.84,11.47
 Rollei Retro 400,Eco Pro,1+4,100,6.5,5.52,5.85
 Rollei Retro 400,Eco Pro,stock,400,8.0,6.8,7.2
+Rollei Retro 400,Emofin,stock,400,12.0,10.2,10.8
 Rollei Retro 400,Extend Plus,1+15,400,12.0,10.2,10.8
 Rollei Retro 400,F76+,1+9,400,8.0,6.8,7.2
 Rollei Retro 400,FD10,1+14,400,12.0,10.2,10.8
@@ -10581,6 +11120,8 @@ Rollei Retro 400S,ADX II,1+24,160,11.0,9.35,9.9
 Rollei Retro 400S,Ars-Imago FD,1+31,400,14.0,11.9,12.6
 Rollei Retro 400S,Atomal 49,1+1,400,15.0,12.75,13.5
 Rollei Retro 400S,Atomal 49,stock,400,9.0,7.65,8.1
+Rollei Retro 400S,Bellini DF2 Duo Step,stock,640,8.0,6.8,7.2
+Rollei Retro 400S,Bellini DF2 Duo Step,stock,800,8.0,6.8,7.2
 Rollei Retro 400S,Bellini Hydrofen,1+15,200,5.0,4.25,4.5
 Rollei Retro 400S,Bellini Hydrofen,1+15,400,8.5,7.22,7.65
 Rollei Retro 400S,Beutler,1+1+10,160,9.5,8.07,8.55
@@ -10591,10 +11132,13 @@ Rollei Retro 400S,D-76,1+1,400,16.0,13.6,14.4
 Rollei Retro 400S,D-76,1+3,400,18.0,15.3,16.2
 Rollei Retro 400S,D-76,1+3,800,36.0,30.6,32.4
 Rollei Retro 400S,D-76,stock,400,10.5,8.92,9.45
+Rollei Retro 400S,Diafine,stock,640,8.0,6.8,7.2
+Rollei Retro 400S,Diafine,stock,800,8.0,6.8,7.2
 Rollei Retro 400S,Eco Pro,1+1,400,17.0,14.45,15.3
 Rollei Retro 400S,Eco Pro,1+2,200,13.0,11.05,11.7
 Rollei Retro 400S,Eco Pro,1+2,400,21.0,17.85,18.9
 Rollei Retro 400S,Eco Pro,stock,400,12.0,10.2,10.8
+Rollei Retro 400S,Emofin,stock,400,18.0,15.3,16.2
 Rollei Retro 400S,FD10,1+9,400,12.0,10.2,10.8
 Rollei Retro 400S,Foma Universal,1+3,400,10.5,8.92,9.45
 Rollei Retro 400S,Fomadon Excel,stock,400,9.5,8.07,8.55
@@ -10669,10 +11213,12 @@ Rollei Retro 80S,510-Pyro,1+100,80,9.75,8.29,8.78
 Rollei Retro 80S,510-Pyro,1+150,25,8.75,7.44,7.88
 Rollei Retro 80S,Acufine,stock,100,5.0,4.25,4.5
 Rollei Retro 80S,Acufine,stock,80,4.5,3.82,4.05
+Rollei Retro 80S,Acurol-N,1+70,20,10.5,8.92,9.45
 Rollei Retro 80S,Adox HR-DEV,1+40,25,10.0,8.5,9.0
 Rollei Retro 80S,ADX II,1+24,40,6.5,5.52,5.85
 Rollei Retro 80S,Ars-Imago FD,1+39,80,8.0,6.8,7.2
 Rollei Retro 80S,Atomal 49,1+1,65,13.0,11.05,11.7
+Rollei Retro 80S,Bellini DF2 Duo Step,stock,200,6.0,5.1,5.4
 Rollei Retro 80S,Bellini Hydrofen,1+15,80,4.5,3.82,4.05
 Rollei Retro 80S,Bellini Hydrofen,1+31,64,8.0,6.8,7.2
 Rollei Retro 80S,Bellini Hydrofen,1+31,80,10.0,8.5,9.0
@@ -10687,6 +11233,7 @@ Rollei Retro 80S,D-76,1+1,160,16.5,14.03,14.85
 Rollei Retro 80S,D-76,1+1,80,12.5,10.62,11.25
 Rollei Retro 80S,D-76,1+3,100,25.0,21.25,22.5
 Rollei Retro 80S,D-76,stock,80,9.0,7.65,8.1
+Rollei Retro 80S,Diafine,stock,200,6.0,5.1,5.4
 Rollei Retro 80S,DK-76,1+3,80,18.0,15.3,16.2
 Rollei Retro 80S,Eco Pro,1+1,80,8.0,6.8,7.2
 Rollei Retro 80S,Eco Pro,1+2,40,9.5,8.07,8.55
@@ -10780,6 +11327,7 @@ Rollei RPX 100,Ars-Imago FD,1+59,50,4.75,4.04,4.28
 Rollei RPX 100,Ars-Imago FE,1+1,100,8.5,7.22,7.65
 Rollei RPX 100,Ars-Imago FE,1+1,200,9.5,8.07,8.55
 Rollei RPX 100,Ars-Imago FE,1+1,50,7.0,5.95,6.3
+Rollei RPX 100,Bellini DF2 Duo Step,stock,200,6.0,5.1,5.4
 Rollei RPX 100,Bellini Hydrofen,1+31,100,7.75,6.59,6.98
 Rollei RPX 100,Berspeed,1+1,100,11.0,9.35,9.9
 Rollei RPX 100,Beutler,1+1+10,100,5.0,4.25,4.5
@@ -10792,6 +11340,7 @@ Rollei RPX 100,D-76,1+3,50,17.0,14.45,15.3
 Rollei RPX 100,D-76,stock,100,8.5,7.22,7.65
 Rollei RPX 100,D-76,stock,200,10.0,8.5,9.0
 Rollei RPX 100,D-76,stock,50,6.5,5.52,5.85
+Rollei RPX 100,Diafine,stock,200,6.0,5.1,5.4
 Rollei RPX 100,Eco Pro,1+1,100,10.0,8.5,9.0
 Rollei RPX 100,Eco Pro,1+1,50,8.5,7.22,7.65
 Rollei RPX 100,Eco Pro,stock,100,8.0,6.8,7.2
@@ -10800,6 +11349,7 @@ Rollei RPX 100,Foma Universal,1+3,100,9.5,8.07,8.55
 Rollei RPX 100,FX-39,1+9,100,7.5,6.38,6.75
 Rollei RPX 100,HC-110,A,100,4.5,3.82,4.05
 Rollei RPX 100,HC-110,A,200,6.0,5.1,5.4
+Rollei RPX 100,HC-110,B,100,8.0,6.8,7.2
 Rollei RPX 100,HC-110,B,200,12.0,10.2,10.8
 Rollei RPX 100,HC-110,B,400,16.0,13.6,14.4
 Rollei RPX 100,HC-110,B,50,6.0,5.1,5.4
@@ -10854,6 +11404,7 @@ Rollei RPX 100,Rodinal,1+25,25,5.25,4.46,4.73
 Rollei RPX 100,Rodinal,1+25,50,7.0,5.95,6.3
 Rollei RPX 100,Rodinal,1+50,100,18.0,15.3,16.2
 Rollei RPX 100,Rodinal,1+50,200,20.5,17.43,18.45
+Rollei RPX 100,Rollei RPX-D,1+15,100,6.25,5.31,5.62
 Rollei RPX 100,Romek PQ7,1+3,100,20.0,17.0,18.0
 Rollei RPX 100,Silberra Ascorol,1+29,100,9.0,7.65,8.1
 Rollei RPX 100,Spur HRX,1+17,100,12.0,10.2,10.8
@@ -10942,6 +11493,7 @@ Rollei RPX 400,Acufine,stock,1600,9.0,7.65,8.1
 Rollei RPX 400,Acufine,stock,400,5.0,4.25,4.5
 Rollei RPX 400,Acufine,stock,800,6.5,5.52,5.85
 Rollei RPX 400,Acurol-N,1+50,200,10.0,8.5,9.0
+Rollei RPX 400,Acurol-N,1+50,200,10.5,8.92,9.45
 Rollei RPX 400,Adox HR-DEV,1+17,100,14.0,11.9,12.6
 Rollei RPX 400,Ars-Imago FD,1+39,100,4.5,3.82,4.05
 Rollei RPX 400,Ars-Imago FD,1+39,200,6.5,5.52,5.85
@@ -10950,6 +11502,7 @@ Rollei RPX 400,Ars-Imago FE,1+1,200,7.0,5.95,6.3
 Rollei RPX 400,Ars-Imago FE,1+1,400,8.5,7.22,7.65
 Rollei RPX 400,Ars-Imago FE,1+1,800,10.0,8.5,9.0
 Rollei RPX 400,Atomal 49,1+1,400,13.0,11.05,11.7
+Rollei RPX 400,Bellini DF2 Duo Step,stock,800,8.0,6.8,7.2
 Rollei RPX 400,Bellini Hydrofen,1+15,1600,11.25,9.56,10.12
 Rollei RPX 400,Bellini Hydrofen,1+39,400,9.5,8.07,8.55
 Rollei RPX 400,Berspeed,1+1,400,12.5,10.62,11.25
@@ -10960,6 +11513,7 @@ Rollei RPX 400,D-76,1+3,400,28.0,23.8,25.2
 Rollei RPX 400,D-76,stock,1600,15.0,12.75,13.5
 Rollei RPX 400,D-76,stock,400,8.0,6.8,7.2
 Rollei RPX 400,D-76,stock,800,12.0,10.2,10.8
+Rollei RPX 400,Diafine,stock,800,8.0,6.8,7.2
 Rollei RPX 400,Eco Pro,1+1,1600,18.0,15.3,16.2
 Rollei RPX 400,Eco Pro,1+1,400,12.0,10.2,10.8
 Rollei RPX 400,Eco Pro,1+1,800,14.5,12.32,13.05
@@ -10967,6 +11521,7 @@ Rollei RPX 400,Eco Pro,stock,1600,13.0,11.05,11.7
 Rollei RPX 400,Eco Pro,stock,3200,17.5,14.88,15.75
 Rollei RPX 400,Eco Pro,stock,400,9.0,7.65,8.1
 Rollei RPX 400,Eco Pro,stock,800,10.5,8.92,9.45
+Rollei RPX 400,Emofin,stock,400,12.0,10.2,10.8
 Rollei RPX 400,FA-1027,1+14,400,9.0,7.65,8.1
 Rollei RPX 400,Foma Universal,1+3,400,10.0,8.5,9.0
 Rollei RPX 400,FX-39,1+9,400,11.0,9.35,9.9
@@ -11081,6 +11636,9 @@ Rollei Superpan 200,Acurol-N,1+50,40,13.5,11.47,12.15
 Rollei Superpan 200,Adox HR-DEV,1+30,80,12.5,10.62,11.25
 Rollei Superpan 200,ADX II,1+24,160,11.0,9.35,9.9
 Rollei Superpan 200,Atomal 49,stock,800,13.0,11.05,11.7
+Rollei Superpan 200,Bellini DF2 Duo Step,stock,200,10.0,8.5,9.0
+Rollei Superpan 200,Bellini DF2 Duo Step,stock,640,6.0,5.1,5.4
+Rollei Superpan 200,Bellini DF2 Duo Step,stock,800,6.0,5.1,5.4
 Rollei Superpan 200,Bellini Hydrofen,1+15,200,4.0,3.4,3.6
 Rollei Superpan 200,Bellini Hydrofen,1+31,160,13.0,11.05,11.7
 Rollei Superpan 200,Beutler,1+1+10,160,9.5,8.07,8.55
@@ -11095,6 +11653,9 @@ Rollei Superpan 200,D-76,stock,200,10.0,8.5,9.0
 Rollei Superpan 200,D-76,stock,200,14.0,11.9,12.6
 Rollei Superpan 200,D-76,stock,320,11.0,9.35,9.9
 Rollei Superpan 200,D-76,stock,800,18.5,15.72,16.65
+Rollei Superpan 200,Diafine,stock,200,10.0,8.5,9.0
+Rollei Superpan 200,Diafine,stock,640,6.0,5.1,5.4
+Rollei Superpan 200,Diafine,stock,800,6.0,5.1,5.4
 Rollei Superpan 200,Eco Pro,1+1,200,14.0,11.9,12.6
 Rollei Superpan 200,Eco Pro,1+1,400,17.0,14.45,15.3
 Rollei Superpan 200,Eco Pro,1+2,400,21.0,17.85,18.9
@@ -11195,6 +11756,8 @@ Shanghai GP3 Pan 100,Atomal 49,1+2,100,18.0,15.3,16.2
 Shanghai GP3 Pan 100,AVR-3,1+50,100,12.0,10.2,10.8
 Shanghai GP3 Pan 100,AVR-3,1+50,200,18.0,15.3,16.2
 Shanghai GP3 Pan 100,AVR-3,1+50,400,27.0,22.95,24.3
+Shanghai GP3 Pan 100,Bellini DF2 Duo Step,stock,100,6.0,5.1,5.4
+Shanghai GP3 Pan 100,Bellini DF2 Duo Step,stock,160,6.0,5.1,5.4
 Shanghai GP3 Pan 100,Bellini Hydrofen,1+39,100,5.0,4.25,4.5
 Shanghai GP3 Pan 100,Beutler,1+1+10,100,7.0,5.95,6.3
 Shanghai GP3 Pan 100,Beutler,1+1+8,100,18.0,15.3,16.2
@@ -11210,12 +11773,16 @@ Shanghai GP3 Pan 100,D-76,1+1,100,7.0,5.95,6.3
 Shanghai GP3 Pan 100,D-76,1+1,100,14.5,12.32,13.05
 Shanghai GP3 Pan 100,D-76,1+1,200,12.5,10.62,11.25
 Shanghai GP3 Pan 100,D-76,1+1,400,28.0,23.8,25.2
-Shanghai GP3 Pan 100,D-76,1+3,100,24.0,20.4,21.6
+Shanghai GP3 Pan 100,D-76,1+3,100,13.5,11.47,12.15
+Shanghai GP3 Pan 100,D-76,stock,100,8.0,6.8,7.2
 Shanghai GP3 Pan 100,D-76,stock,100,9.0,7.65,8.1
 Shanghai GP3 Pan 100,D-76,stock,400,14.0,11.9,12.6
 Shanghai GP3 Pan 100,D-96,1+1,100,12.0,10.2,10.8
+Shanghai GP3 Pan 100,D-96,stock,100,5.25,4.46,4.73
+Shanghai GP3 Pan 100,Diafine,stock,100,6.0,5.1,5.4
+Shanghai GP3 Pan 100,Diafine,stock,160,6.0,5.1,5.4
 Shanghai GP3 Pan 100,DK-50,1+1,100,10.0,8.5,9.0
-Shanghai GP3 Pan 100,Eco Pro,1+1,100,10.0,8.5,9.0
+Shanghai GP3 Pan 100,Eco Pro,1+1,100,7.5,6.38,6.75
 Shanghai GP3 Pan 100,Eco Pro,1+1,80,6.5,5.52,5.85
 Shanghai GP3 Pan 100,Eco Pro,1+2,100,14.0,11.9,12.6
 Shanghai GP3 Pan 100,Eco Pro,1+3,100,16.0,13.6,14.4
@@ -11237,7 +11804,8 @@ Shanghai GP3 Pan 100,ID-11,1+1,100,14.0,11.9,12.6
 Shanghai GP3 Pan 100,ID-11,1+1,100,7.0,5.95,6.3
 Shanghai GP3 Pan 100,ID-11,1+1,100,14.5,12.32,13.05
 Shanghai GP3 Pan 100,ID-11,1+1,400,28.0,23.8,25.2
-Shanghai GP3 Pan 100,ID-11,1+3,100,24.0,20.4,21.6
+Shanghai GP3 Pan 100,ID-11,1+3,100,13.5,11.47,12.15
+Shanghai GP3 Pan 100,ID-11,stock,100,8.0,6.8,7.2
 Shanghai GP3 Pan 100,ID-11,stock,100,9.0,7.65,8.1
 Shanghai GP3 Pan 100,ID-11,stock,400,14.0,11.9,12.6
 Shanghai GP3 Pan 100,Ilfosol 3,1+14,100,12.0,10.2,10.8
@@ -11247,6 +11815,7 @@ Shanghai GP3 Pan 100,Ilfotec LC29,1+19,100,6.5,5.52,5.85
 Shanghai GP3 Pan 100,Ilfotec LC29,1+29,100,11.0,9.35,9.9
 Shanghai GP3 Pan 100,Microphen,1+3,100,20.0,17.0,18.0
 Shanghai GP3 Pan 100,Mocon,1+64,100,11.0,9.35,9.9
+Shanghai GP3 Pan 100,PCK,5+10+100,100,6.75,5.74,6.08
 Shanghai GP3 Pan 100,Perceptol,stock,80,14.0,11.9,12.6
 Shanghai GP3 Pan 100,PMK,1+2+100,100,10.0,8.5,9.0
 Shanghai GP3 Pan 100,Pyrocat-HD,1+1+100,100,10.0,8.5,9.0
@@ -11260,6 +11829,7 @@ Shanghai GP3 Pan 100,Rodinal,1+25,400,35.0,29.75,31.5
 Shanghai GP3 Pan 100,Rodinal,1+25,50,6.0,5.1,5.4
 Shanghai GP3 Pan 100,Rodinal,1+400,100,480.0,408.0,432.0
 Shanghai GP3 Pan 100,Rodinal,1+50,100,15.0,12.75,13.5
+Shanghai GP3 Pan 100,Rodinal,1+50,100,9.0,7.65,8.1
 Shanghai GP3 Pan 100,Sprint Standard,1+9,100,8.0,6.8,7.2
 Shanghai GP3 Pan 100,Spur HRX,1+17,80,9.5,8.07,8.55
 Shanghai GP3 Pan 100,Spur TRX 2000,1+35,160,13.0,11.05,11.7
@@ -11268,29 +11838,36 @@ Shanghai GP3 Pan 100,TMax Dev,1+4,100,7.0,5.95,6.3
 Shanghai GP3 Pan 100,TMax Dev,1+40,100,120.0,102.0,108.0
 Shanghai GP3 Pan 100,TMax Dev,1+9,100,8.0,6.8,7.2
 Shanghai GP3 Pan 100,Ultrafin,1+20,100,8.0,6.8,7.2
-Shanghai GP3 Pan 100,XT-3,1+1,100,10.0,8.5,9.0
+Shanghai GP3 Pan 100,XT-3,1+1,100,7.5,6.38,6.75
 Shanghai GP3 Pan 100,XT-3,1+1,80,6.5,5.52,5.85
 Shanghai GP3 Pan 100,XT-3,1+2,100,14.0,11.9,12.6
 Shanghai GP3 Pan 100,XT-3,1+3,100,16.0,13.6,14.4
 Shanghai GP3 Pan 100,XT-3,stock,100,7.5,6.38,6.75
-Shanghai GP3 Pan 100,Xtol,1+1,100,10.0,8.5,9.0
+Shanghai GP3 Pan 100,Xtol,1+1,100,7.5,6.38,6.75
 Shanghai GP3 Pan 100,Xtol,1+1,80,6.5,5.52,5.85
 Shanghai GP3 Pan 100,Xtol,1+2,100,14.0,11.9,12.6
 Shanghai GP3 Pan 100,Xtol,1+3,100,16.0,13.6,14.4
 Shanghai GP3 Pan 100,Xtol,stock,100,7.5,6.38,6.75
+Shanghai GP3 Pan 400,Bellini DF2 Duo Step,stock,400,6.0,5.1,5.4
 Shanghai GP3 Pan 400,Bellini FX6a Monobath,stock,400,11.0,9.35,9.9
 Shanghai GP3 Pan 400,D-23,1+1,400,13.0,11.05,11.7
 Shanghai GP3 Pan 400,D-76,1+1,400,10.0,8.5,9.0
 Shanghai GP3 Pan 400,D-76,1+1,400,9.0,7.65,8.1
+Shanghai GP3 Pan 400,D-76,1+1,400,23.0,19.55,20.7
 Shanghai GP3 Pan 400,D-76,stock,400,9.5,8.07,8.55
 Shanghai GP3 Pan 400,D-76,stock,800,12.5,10.62,11.25
+Shanghai GP3 Pan 400,Diafine,stock,400,6.0,5.1,5.4
+Shanghai GP3 Pan 400,Eco Pro,1+1,400,12.0,10.2,10.8
 Shanghai GP3 Pan 400,HC-110,B,400,6.5,5.52,5.85
 Shanghai GP3 Pan 400,ID-11,1+1,400,10.0,8.5,9.0
 Shanghai GP3 Pan 400,ID-11,1+1,400,9.0,7.65,8.1
+Shanghai GP3 Pan 400,ID-11,1+1,400,23.0,19.55,20.7
 Shanghai GP3 Pan 400,ID-11,stock,400,9.5,8.07,8.55
 Shanghai GP3 Pan 400,ID-11,stock,800,12.5,10.62,11.25
 Shanghai GP3 Pan 400,Microphen,stock,400,7.0,5.95,6.3
 Shanghai GP3 Pan 400,Rodinal,1+50,400,13.0,11.05,11.7
+Shanghai GP3 Pan 400,XT-3,1+1,400,12.0,10.2,10.8
+Shanghai GP3 Pan 400,Xtol,1+1,400,12.0,10.2,10.8
 Silberra ORTA50,D-76,1+1,50,7.5,6.38,6.75
 Silberra ORTA50,ID-11,1+1,50,7.5,6.38,6.75
 Silberra ORTA50,Rodinal,1+25,50,11.0,9.35,9.9
@@ -11392,7 +11969,9 @@ Svema 200 Reporter,D-76,1+1,200,20.0,17.0,18.0
 Svema 200 Reporter,D-76,stock,100,6.25,5.31,5.62
 Svema 200 Reporter,ID-11,1+1,200,20.0,17.0,18.0
 Svema 200 Reporter,ID-11,stock,100,6.25,5.31,5.62
+Svema A2-SH,Bellini DF2 Duo Step,stock,640,6.0,5.1,5.4
 Svema A2-SH,D-76,stock,400,13.0,11.05,11.7
+Svema A2-SH,Diafine,stock,640,6.0,5.1,5.4
 Svema A2-SH,ID-11,stock,400,13.0,11.05,11.7
 Svema A2-SH,Ilfotec DD-X,1+4,400,20.0,17.0,18.0
 Svema A2-SH,Microphen,stock,3200,32.0,27.2,28.8
@@ -11407,6 +11986,7 @@ Svema A2-SH,Rodinal,1+50,800,24.0,20.4,21.6
 Svema Blue Sensitive,HC-110,H,6,10.5,8.92,9.45
 Svema Blue Sensitive,Ilfosol 3,1+14,1.5,6.0,5.1,5.4
 Svema FN250,Rodinal,1+25,100,8.5,7.22,7.65
+Svema FN32,Ilfotec LC29,1+29,32,5.0,4.25,4.5
 Svema FN32,Rodinal,1+50,32,12.0,10.2,10.8
 Svema FN64,D-23,1+3,64,60.0,51.0,54.0
 Svema FN64,D-76,1+3,50,15.0,12.75,13.5
@@ -11481,8 +12061,10 @@ Svema MZ-3,HC-110,H,3,9.25,7.86,8.33
 Svema MZ-3,Ilfotec HC,1+17,3,6.0,5.1,5.4
 Svema NK-2,Ilfotec LC29,1+29,25,5.0,4.25,4.5
 Svema NK-2SH,510-Pyro,1+100,100,11.0,9.35,9.9
+Svema NK-2SH,Bellini DF2 Duo Step,stock,100,8.0,6.8,7.2
 Svema NK-2SH,D-76,stock,100,10.0,8.5,9.0
 Svema NK-2SH,D-76,stock,320,11.0,9.35,9.9
+Svema NK-2SH,Diafine,stock,100,8.0,6.8,7.2
 Svema NK-2SH,Eco Pro,stock,100,7.25,6.16,6.53
 Svema NK-2SH,HC-110,B,100,10.0,8.5,9.0
 Svema NK-2SH,ID-11,stock,100,10.0,8.5,9.0
@@ -11522,9 +12104,11 @@ Tasma Mikrat 300,Mikratol-2,1+50,n/a,30.0,25.5,27.0
 Tasma Mikrat Isopan,D-76,stock,12,9.0,7.65,8.1
 Tasma Mikrat Isopan,ID-11,stock,12,9.0,7.65,8.1
 Tasma MZ-3,510-Pyro,1+100,2,17.5,14.88,15.75
+Tasma NK-2,Bellini DF2 Duo Step,stock,100,8.0,6.8,7.2
 Tasma NK-2,Caffenol C-L,stock,100,60.0,51.0,54.0
 Tasma NK-2,D-76,stock,100,10.0,8.5,9.0
 Tasma NK-2,D-76,stock,320,11.0,9.35,9.9
+Tasma NK-2,Diafine,stock,100,8.0,6.8,7.2
 Tasma NK-2,Eco Pro,stock,100,7.25,6.16,6.53
 Tasma NK-2,HC-110,B,100,10.0,8.5,9.0
 Tasma NK-2,ID-11,stock,100,10.0,8.5,9.0
@@ -11542,6 +12126,8 @@ Tasma Type-17,FX-1,1+1+8,200,25.0,21.25,22.5
 Tasma Type-17,Hubl Glycin Paste,1+60,200,20.0,17.0,18.0
 Tasma Type-17,Pyrocat-HD,1+1+100,320,8.5,7.22,7.65
 Tasma Type-17,Rodinal,1+100,200,60.0,51.0,54.0
+Tasma Type-17,Stoeckler,stock,250,6.0,5.1,5.4
+Tasma Type-17,Stoeckler,stock,400,30.0,25.5,27.0
 Tasma Type-25L,510-Pyro,1+100,200,12.5,10.62,11.25
 Tasma Type-25L,510-Pyro,1+100,200,12.0,10.2,10.8
 Tasma Type-25L,Acurol-N,1+50,400,13.0,11.05,11.7
@@ -11599,6 +12185,7 @@ Type-D 400,Microphen,stock,200,12.0,10.2,10.8
 Type-D 400,Microphen,stock,400,14.0,11.9,12.6
 Ultrafine 125,Arista® Liquid,1+9,125,5.5,4.67,4.95
 Ultrafine 125,D-76,1+1,125,10.0,8.5,9.0
+Ultrafine 125,D-76,stock,125,7.0,5.95,6.3
 Ultrafine 125,HC-110,B,125,5.0,4.25,4.5
 Ultrafine 125,TMax Dev,1+4,125,5.5,4.67,4.95
 Ultrafine 125,Ultrafine Liquid,1+2,125,5.5,4.67,4.95
@@ -11629,6 +12216,7 @@ Ultrafine Finesse 100,D-23,stock,100,11.0,9.35,9.9
 Ultrafine Finesse 100,D-76,1+1,100,10.5,8.92,9.45
 Ultrafine Finesse 100,D-76,stock,100,6.5,5.52,5.85
 Ultrafine Finesse 100,D-96,stock,100,8.0,6.8,7.2
+Ultrafine Finesse 100,Diafine,stock,100,8.0,6.8,7.2
 Ultrafine Finesse 100,Eco Pro,1+1,100,8.0,6.8,7.2
 Ultrafine Finesse 100,Eco Pro,stock,100,6.5,5.52,5.85
 Ultrafine Finesse 100,F76+,1+9,100,7.0,5.95,6.3
@@ -11889,6 +12477,7 @@ Ultrafine Xtreme 400,Perceptol,1+1,320,23.0,19.55,20.7
 Ultrafine Xtreme 400,PMK,1+2+100,400,13.0,11.05,11.7
 Ultrafine Xtreme 400,Rodinal,1+25,400,7.5,6.38,6.75
 Ultrafine Xtreme 400,Rodinal,1+50,25,7.0,5.95,6.3
+Ultrafine Xtreme 400,Rodinal,1+50,400,17.5,14.88,15.75
 Ultrafine Xtreme 400,Sprint Standard,1+9,400,11.5,9.78,10.35
 Ultrafine Xtreme 400,TMax Dev,1+4,400,5.5,4.67,4.95
 Ultrafine Xtreme 400,TMax Dev,1+9,1600,18.0,15.3,16.2

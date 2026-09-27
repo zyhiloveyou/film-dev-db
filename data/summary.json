@@ -1,7 +1,7 @@
 {
   "mdc": {
-    "rows": 14929,
-    "films": 352,
+    "rows": 14930,
+    "films": 353,
     "developers": 235,
     "temps_c": [
       15.0,
@@ -37,5 +37,5 @@
   "official_foma": 93,
   "official_kodak_trix": 93,
   "official_rollei": 164,
-  "rotary_guide": 11998
+  "rotary_guide": 12587
 }

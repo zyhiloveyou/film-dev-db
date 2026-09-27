@@ -394,11 +394,17 @@ function renderCards(){
       const tsh = convert(rec[6], rec[7]);
       const isoLabel = isoI >= 0 ? DB.isos[isoI] : '—';
       const convMark = state.mode !== 'inv' || !exact;
+      // 无换算时优先显示官方原始格式（如 3+3 两浴、8-10 范围、34*）；换算时显示数值
+      const rawT = (rec.length > 9 && rec[9] >= 0 && DB.raws) ? DB.raws[rec[9]] : null;
+      const cell = (raw, val) => {
+        if (!convMark && rawT && raw) return esc(raw) + '′';
+        return val != null ? fmt(val) + '′' : '<span class="na">—</span>';
+      };
       html += `<tr>
         <td class="iso">${esc(isoLabel)}</td>
-        <td class="t35 ${convMark ? 'conv' : ''}">${t35 != null ? fmt(t35) + '′' : '<span class="na">—</span>'}</td>
-        <td>${t120 != null ? fmt(t120) + '′' : '<span class="na">—</span>'}</td>
-        <td>${tsh != null ? fmt(tsh) + '′' : '<span class="na">—</span>'}</td>
+        <td class="t35 ${convMark ? 'conv' : ''}">${cell(rawT && rawT[0], t35)}</td>
+        <td>${cell(rawT && rawT[1], t120)}</td>
+        <td>${cell(rawT && rawT[2], tsh)}</td>
         <td class="sub">${rec[7]}°C${!exact ? '→' + state.temp + '°C' : ''}</td>
         <td>${rec[8] ? `<a href="https://www.digitaltruth.com/devchart.php?devrow=${rec[8]}" target="_blank" rel="noopener">备注</a>` : '<span class="na">—</span>'}</td>
       </tr>`;

@@ -20,15 +20,35 @@ d_idx = {d: i for i, d in enumerate(devs)}
 di_idx = {d: i for i, d in enumerate(dils)}
 i_idx = {s: i for i, s in enumerate(isos)}
 
-# ---- entries: [filmIdx, devIdx, dilIdx, isoIdx, t35, t120, sheet, temp, row] ----
+# ---- entries: [filmIdx, devIdx, dilIdx, isoIdx, t35, t120, sheet, temp, row, rawIdx] ----
+# rawIdx 指向 raws 数组：非纯数字的原始时间（如 "3+3" 两浴、"8-10" 范围、"34*"），-1 表示无
 def num(v):
     try:
         return float(v) if v not in (None, '') else None
     except ValueError:
         return None
 
+raws = []
+raw_idx = {}
+def raw_index(triple):
+    key = tuple(triple)
+    if key in raw_idx:
+        return raw_idx[key]
+    raw_idx[key] = len(raws)
+    raws.append(list(key))
+    return raw_idx[key]
+
+def plain(v):
+    """是否为纯数字（无需 raw 展示）"""
+    if not v:
+        return True
+    import re
+    return bool(re.match(r'^\d+(\.\d+)?$', v.strip()))
+
 entries = []
 for r in mdc:
+    t35r, t120r, tshr = r['t35mm_raw'] or '', r['t120mm_raw'] or '', r['t_sheet_raw'] or ''
+    need_raw = not (plain(t35r) and plain(t120r) and plain(tshr))
     entries.append([
         f_idx[r['film']],
         d_idx[r['developer']],
@@ -39,6 +59,7 @@ for r in mdc:
         num(r['t_sheet_min']),
         num(r['temp_c']) or 20.0,
         int(r['mdc_row']) if r['mdc_row'] else 0,
+        raw_index([t35r, t120r, tshr]) if need_raw else -1,
     ])
 
 # ---- official tables ----
@@ -158,7 +179,7 @@ reversal = [
 
 web = {
     'meta': {
-        'mdc_updated': '2026-07-14',
+        'mdc_updated': '2026-09-08',
         'mdc_rows': len(entries),
         'films': len(films),
         'devs': len(devs),
@@ -168,6 +189,7 @@ web = {
     'dils': dils,
     'isos': isos,
     'entries': entries,
+    'raws': raws,
     'official': official,
     'reversal': reversal,
 }
